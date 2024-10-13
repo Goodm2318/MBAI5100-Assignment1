@@ -1,0 +1,2501 @@
+Customer_ID,Name,Age,Gender,Location,Preferred_Language,Newsletter_Subscribed,Subscription_Date,Year,Month,Day
+1001,Customer 1,48,Male,Houston,Spanish,No,NA,NA,NA,NA
+1002,Customer 2,32,Other,San Francisco,French,Yes,2022-06-30,2022,6,30
+1003,Customer 3,68,Female,San Francisco,French,Yes,2023-03-27,2023,3,27
+1004,Customer 4,31,Female,San Francisco,Spanish,No,NA,NA,NA,NA
+1005,Customer 5,20,Female,San Francisco,German,Yes,2022-09-09,2022,9,9
+1006,Customer 6,59,Other,San Francisco,Spanish,Yes,2022-04-15,2022,4,15
+1007,Customer 7,67,Female,Chicago,Spanish,No,NA,NA,NA,NA
+1008,Customer 8,60,Other,Chicago,Spanish,Yes,2023-05-04,2023,5,4
+1009,Customer 9,54,Female,San Francisco,Spanish,No,NA,NA,NA,NA
+1010,Customer 10,69,Male,Chicago,Spanish,No,NA,NA,NA,NA
+1011,Customer 11,31,Male,Houston,French,No,NA,NA,NA,NA
+1012,Customer 12,42,Male,San Francisco,German,No,NA,NA,NA,NA
+1013,Customer 13,43,Female,Houston,German,Yes,2022-12-10,2022,12,10
+1014,Customer 14,44,Other,Chicago,Spanish,No,NA,NA,NA,NA
+1015,Customer 15,22,Other,Houston,French,No,NA,NA,NA,NA
+1016,Customer 16,68,Other,New York,English,No,NA,NA,NA,NA
+1017,Customer 17,44,Female,San Francisco,German,No,NA,NA,NA,NA
+1018,Customer 18,45,Female,Chicago,English,Yes,2023-11-21,2023,11,21
+1019,Customer 19,26,Male,Los Angeles,French,Yes,2022-12-22,2022,12,22
+1020,Customer 20,46,Female,San Francisco,French,Yes,2023-10-25,2023,10,25
+1021,Customer 21,52,Other,Houston,German,No,NA,NA,NA,NA
+1022,Customer 22,25,Male,New York,German,No,NA,NA,NA,NA
+1023,Customer 23,43,Female,New York,German,Yes,2022-02-27,2022,2,27
+1024,Customer 24,24,Other,Chicago,English,Yes,2022-01-17,2022,1,17
+1025,Customer 25,59,Male,San Francisco,German,Yes,2022-02-01,2022,2,1
+1026,Customer 26,26,Other,Los Angeles,English,No,NA,NA,NA,NA
+1027,Customer 27,36,Other,San Francisco,French,No,NA,NA,NA,NA
+1028,Customer 28,53,Other,San Francisco,French,Yes,2022-02-10,2022,2,10
+1029,Customer 29,31,Male,San Francisco,English,Yes,2023-01-27,2023,1,27
+1030,Customer 30,34,Male,New York,Spanish,Yes,2023-10-13,2023,10,13
+1031,Customer 31,60,Other,Los Angeles,Spanish,Yes,2023-08-02,2023,8,2
+1032,Customer 32,56,Female,New York,Spanish,Yes,2022-02-18,2022,2,18
+1033,Customer 33,70,Other,Chicago,French,No,NA,NA,NA,NA
+1034,Customer 34,29,Male,Houston,French,No,NA,NA,NA,NA
+1035,Customer 35,32,Male,New York,English,Yes,2023-04-08,2023,4,8
+1036,Customer 36,49,Male,Chicago,German,Yes,2022-03-11,2022,3,11
+1037,Customer 37,59,Male,New York,Spanish,Yes,2023-02-22,2023,2,22
+1038,Customer 38,62,Male,Chicago,Spanish,Yes,2023-03-21,2023,3,21
+1039,Customer 39,24,Other,Los Angeles,French,No,NA,NA,NA,NA
+1040,Customer 40,26,Other,Los Angeles,English,Yes,2023-09-25,2023,9,25
+1041,Customer 41,58,Other,San Francisco,French,No,NA,NA,NA,NA
+1042,Customer 42,27,Other,New York,English,Yes,2023-03-01,2023,3,1
+1043,Customer 43,40,Female,San Francisco,Spanish,Yes,2023-03-26,2023,3,26
+1044,Customer 44,44,Other,Los Angeles,Spanish,No,NA,NA,NA,NA
+1045,Customer 45,70,Other,Houston,Spanish,No,NA,NA,NA,NA
+1046,Customer 46,24,Male,San Francisco,French,Yes,2022-07-13,2022,7,13
+1047,Customer 47,70,Male,New York,French,No,NA,NA,NA,NA
+1048,Customer 48,44,Female,Houston,French,Yes,2022-11-07,2022,11,7
+1049,Customer 49,49,Male,San Francisco,French,Yes,2022-06-08,2022,6,8
+1050,Customer 50,55,Other,Houston,English,No,NA,NA,NA,NA
+1051,Customer 51,42,Female,Chicago,French,Yes,2023-01-18,2023,1,18
+1052,Customer 52,51,Male,Houston,English,Yes,2023-02-06,2023,2,6
+1053,Customer 53,46,Other,Chicago,French,No,NA,NA,NA,NA
+1054,Customer 54,22,Male,Chicago,Spanish,No,NA,NA,NA,NA
+1055,Customer 55,25,Male,Chicago,French,Yes,2022-11-21,2022,11,21
+1056,Customer 56,29,Other,Chicago,Spanish,Yes,2023-07-02,2023,7,2
+1057,Customer 57,30,Other,Houston,English,No,NA,NA,NA,NA
+1058,Customer 58,35,Female,Los Angeles,German,Yes,2022-06-02,2022,6,2
+1059,Customer 59,50,Male,San Francisco,Spanish,Yes,2023-07-13,2023,7,13
+1060,Customer 60,44,Other,New York,Spanish,Yes,2023-06-21,2023,6,21
+1061,Customer 61,42,Other,Houston,French,No,NA,NA,NA,NA
+1062,Customer 62,55,Female,New York,German,No,NA,NA,NA,NA
+1063,Customer 63,38,Other,New York,German,No,NA,NA,NA,NA
+1064,Customer 64,32,Other,Los Angeles,Spanish,Yes,2023-10-08,2023,10,8
+1065,Customer 65,58,Other,San Francisco,French,Yes,2023-09-13,2023,9,13
+1066,Customer 66,64,Male,Chicago,English,No,NA,NA,NA,NA
+1067,Customer 67,43,Female,Houston,German,Yes,2023-01-13,2023,1,13
+1068,Customer 68,48,Other,New York,French,No,NA,NA,NA,NA
+1069,Customer 69,33,Other,San Francisco,English,Yes,2023-10-16,2023,10,16
+1070,Customer 70,69,Female,Los Angeles,French,No,NA,NA,NA,NA
+1071,Customer 71,47,Other,Houston,English,Yes,2023-10-05,2023,10,5
+1072,Customer 72,23,Male,New York,Spanish,Yes,2022-11-10,2022,11,10
+1073,Customer 73,60,Male,Houston,French,Yes,2022-08-07,2022,8,7
+1074,Customer 74,25,Other,Chicago,German,No,NA,NA,NA,NA
+1075,Customer 75,39,Female,San Francisco,English,No,NA,NA,NA,NA
+1076,Customer 76,39,Female,San Francisco,German,Yes,2023-02-04,2023,2,4
+1077,Customer 77,56,Male,Los Angeles,Spanish,No,NA,NA,NA,NA
+1078,Customer 78,48,Male,Chicago,French,Yes,2022-02-26,2022,2,26
+1079,Customer 79,65,Male,New York,German,Yes,2023-06-28,2023,6,28
+1080,Customer 80,34,Other,Houston,Spanish,Yes,2022-03-27,2022,3,27
+1081,Customer 81,67,Male,Houston,English,No,NA,NA,NA,NA
+1082,Customer 82,66,Male,New York,English,Yes,2023-12-30,2023,12,30
+1083,Customer 83,51,Other,New York,Spanish,No,NA,NA,NA,NA
+1084,Customer 84,21,Female,Houston,Spanish,No,NA,NA,NA,NA
+1085,Customer 85,30,Other,Chicago,French,No,NA,NA,NA,NA
+1086,Customer 86,22,Female,Houston,German,No,NA,NA,NA,NA
+1087,Customer 87,68,Other,Chicago,German,No,NA,NA,NA,NA
+1088,Customer 88,42,Other,Los Angeles,English,No,NA,NA,NA,NA
+1089,Customer 89,69,Other,Houston,French,No,NA,NA,NA,NA
+1090,Customer 90,39,Male,New York,English,No,NA,NA,NA,NA
+1091,Customer 91,42,Female,Los Angeles,French,Yes,2022-01-27,2022,1,27
+1092,Customer 92,49,Other,New York,Spanish,No,NA,NA,NA,NA
+1093,Customer 93,63,Male,San Francisco,German,No,NA,NA,NA,NA
+1094,Customer 94,42,Other,San Francisco,German,Yes,2023-11-19,2023,11,19
+1095,Customer 95,40,Other,New York,English,No,NA,NA,NA,NA
+1096,Customer 96,52,Other,New York,German,No,NA,NA,NA,NA
+1097,Customer 97,57,Male,Houston,Spanish,No,NA,NA,NA,NA
+1098,Customer 98,65,Other,Los Angeles,Spanish,No,NA,NA,NA,NA
+1099,Customer 99,47,Male,Los Angeles,German,No,NA,NA,NA,NA
+1100,Customer 100,29,Other,New York,French,Yes,2023-03-29,2023,3,29
+1101,Customer 101,48,Other,Houston,German,No,NA,NA,NA,NA
+1102,Customer 102,63,Other,Los Angeles,English,No,NA,NA,NA,NA
+1103,Customer 103,47,Male,Houston,French,Yes,2023-07-27,2023,7,27
+1104,Customer 104,52,Male,Chicago,English,No,NA,NA,NA,NA
+1105,Customer 105,31,Other,Los Angeles,Spanish,No,NA,NA,NA,NA
+1106,Customer 106,46,Male,Los Angeles,Spanish,Yes,2022-01-25,2022,1,25
+1107,Customer 107,49,Female,Houston,French,No,NA,NA,NA,NA
+1108,Customer 108,24,Other,New York,English,No,NA,NA,NA,NA
+1109,Customer 109,20,Male,New York,Spanish,No,NA,NA,NA,NA
+1110,Customer 110,40,Male,Chicago,German,Yes,2022-07-28,2022,7,28
+1111,Customer 111,32,Male,New York,French,No,NA,NA,NA,NA
+1112,Customer 112,38,Other,New York,French,Yes,2023-09-23,2023,9,23
+1113,Customer 113,54,Other,Houston,French,No,NA,NA,NA,NA
+1114,Customer 114,25,Other,San Francisco,German,Yes,2023-05-06,2023,5,6
+1115,Customer 115,68,Female,New York,German,No,NA,NA,NA,NA
+1116,Customer 116,27,Male,Chicago,English,No,NA,NA,NA,NA
+1117,Customer 117,67,Female,Los Angeles,Spanish,Yes,2022-08-03,2022,8,3
+1118,Customer 118,59,Female,San Francisco,German,Yes,2023-08-22,2023,8,22
+1119,Customer 119,61,Other,New York,Spanish,Yes,2022-06-16,2022,6,16
+1120,Customer 120,51,Other,New York,Spanish,Yes,2023-10-13,2023,10,13
+1121,Customer 121,27,Female,Chicago,English,No,NA,NA,NA,NA
+1122,Customer 122,39,Other,Chicago,English,Yes,2022-03-19,2022,3,19
+1123,Customer 123,29,Male,Los Angeles,Spanish,Yes,2023-08-23,2023,8,23
+1124,Customer 124,37,Other,San Francisco,German,No,NA,NA,NA,NA
+1125,Customer 125,63,Male,Chicago,German,Yes,2022-11-01,2022,11,1
+1126,Customer 126,34,Female,Houston,Spanish,No,NA,NA,NA,NA
+1127,Customer 127,63,Male,Houston,English,No,NA,NA,NA,NA
+1128,Customer 128,52,Female,Chicago,English,No,NA,NA,NA,NA
+1129,Customer 129,57,Other,New York,English,Yes,2023-02-01,2023,2,1
+1130,Customer 130,63,Male,Chicago,French,No,NA,NA,NA,NA
+1131,Customer 131,68,Male,San Francisco,English,Yes,2022-02-16,2022,2,16
+1132,Customer 132,47,Male,New York,German,No,NA,NA,NA,NA
+1133,Customer 133,32,Male,Houston,English,No,NA,NA,NA,NA
+1134,Customer 134,41,Other,New York,French,No,NA,NA,NA,NA
+1135,Customer 135,66,Male,San Francisco,Spanish,No,NA,NA,NA,NA
+1136,Customer 136,40,Female,Los Angeles,Spanish,No,NA,NA,NA,NA
+1137,Customer 137,60,Male,San Francisco,English,Yes,2022-01-25,2022,1,25
+1138,Customer 138,24,Other,Houston,English,Yes,2023-10-14,2023,10,14
+1139,Customer 139,46,Other,San Francisco,Spanish,Yes,2022-04-15,2022,4,15
+1140,Customer 140,32,Other,Chicago,French,No,NA,NA,NA,NA
+1141,Customer 141,40,Other,San Francisco,Spanish,Yes,2023-07-17,2023,7,17
+1142,Customer 142,43,Male,New York,Spanish,Yes,2022-05-06,2022,5,6
+1143,Customer 143,55,Female,Los Angeles,German,No,NA,NA,NA,NA
+1144,Customer 144,63,Male,New York,English,Yes,2022-03-18,2022,3,18
+1145,Customer 145,49,Female,San Francisco,English,No,NA,NA,NA,NA
+1146,Customer 146,24,Female,Los Angeles,German,No,NA,NA,NA,NA
+1147,Customer 147,44,Other,San Francisco,French,No,NA,NA,NA,NA
+1148,Customer 148,59,Female,Los Angeles,English,No,NA,NA,NA,NA
+1149,Customer 149,22,Male,Los Angeles,English,No,NA,NA,NA,NA
+1150,Customer 150,23,Other,Chicago,English,Yes,2022-01-08,2022,1,8
+1151,Customer 151,33,Male,New York,Spanish,Yes,2022-01-03,2022,1,3
+1152,Customer 152,41,Other,Houston,Spanish,No,NA,NA,NA,NA
+1153,Customer 153,49,Male,Houston,German,No,NA,NA,NA,NA
+1154,Customer 154,38,Female,Los Angeles,German,No,NA,NA,NA,NA
+1155,Customer 155,28,Other,New York,French,Yes,2022-10-01,2022,10,1
+1156,Customer 156,53,Female,Chicago,English,No,NA,NA,NA,NA
+1157,Customer 157,61,Other,San Francisco,English,Yes,2022-04-19,2022,4,19
+1158,Customer 158,63,Female,New York,German,Yes,2023-03-18,2023,3,18
+1159,Customer 159,36,Female,New York,French,Yes,2022-09-15,2022,9,15
+1160,Customer 160,42,Female,New York,French,No,NA,NA,NA,NA
+1161,Customer 161,56,Other,Los Angeles,Spanish,No,NA,NA,NA,NA
+1162,Customer 162,43,Female,San Francisco,French,Yes,2022-10-02,2022,10,2
+1163,Customer 163,26,Female,Chicago,Spanish,No,NA,NA,NA,NA
+1164,Customer 164,24,Other,Houston,German,Yes,2023-10-25,2023,10,25
+1165,Customer 165,51,Other,San Francisco,Spanish,Yes,2022-09-28,2022,9,28
+1166,Customer 166,65,Other,New York,German,No,NA,NA,NA,NA
+1167,Customer 167,30,Female,Chicago,French,No,NA,NA,NA,NA
+1168,Customer 168,36,Other,New York,English,Yes,2023-03-11,2023,3,11
+1169,Customer 169,69,Male,Houston,English,Yes,2023-09-17,2023,9,17
+1170,Customer 170,64,Female,San Francisco,Spanish,No,NA,NA,NA,NA
+1171,Customer 171,56,Female,San Francisco,German,Yes,2022-12-04,2022,12,4
+1172,Customer 172,21,Female,New York,German,No,NA,NA,NA,NA
+1173,Customer 173,18,Other,Chicago,Spanish,No,NA,NA,NA,NA
+1174,Customer 174,57,Male,Los Angeles,English,No,NA,NA,NA,NA
+1175,Customer 175,47,Male,Los Angeles,German,No,NA,NA,NA,NA
+1176,Customer 176,47,Other,Chicago,English,Yes,2022-01-29,2022,1,29
+1177,Customer 177,69,Male,New York,French,No,NA,NA,NA,NA
+1178,Customer 178,42,Female,New York,German,Yes,2023-03-04,2023,3,4
+1179,Customer 179,33,Male,Los Angeles,English,No,NA,NA,NA,NA
+1180,Customer 180,41,Male,Los Angeles,French,No,NA,NA,NA,NA
+1181,Customer 181,28,Other,Houston,German,Yes,2023-05-19,2023,5,19
+1182,Customer 182,65,Male,Houston,English,No,NA,NA,NA,NA
+1183,Customer 183,37,Male,Chicago,French,No,NA,NA,NA,NA
+1184,Customer 184,57,Female,Chicago,Spanish,No,NA,NA,NA,NA
+1185,Customer 185,20,Female,San Francisco,English,Yes,2023-10-10,2023,10,10
+1186,Customer 186,46,Other,San Francisco,German,Yes,2022-05-08,2022,5,8
+1187,Customer 187,53,Other,Chicago,Spanish,No,NA,NA,NA,NA
+1188,Customer 188,69,Other,San Francisco,French,No,NA,NA,NA,NA
+1189,Customer 189,61,Other,Houston,German,Yes,2023-07-20,2023,7,20
+1190,Customer 190,39,Other,Chicago,French,No,NA,NA,NA,NA
+1191,Customer 191,66,Female,Los Angeles,English,No,NA,NA,NA,NA
+1192,Customer 192,59,Male,Houston,German,No,NA,NA,NA,NA
+1193,Customer 193,37,Female,Houston,French,No,NA,NA,NA,NA
+1194,Customer 194,28,Other,New York,English,Yes,2023-12-19,2023,12,19
+1195,Customer 195,25,Other,San Francisco,French,Yes,2023-09-09,2023,9,9
+1196,Customer 196,63,Female,Los Angeles,Spanish,Yes,2022-04-21,2022,4,21
+1197,Customer 197,38,Female,Chicago,English,Yes,2023-12-17,2023,12,17
+1198,Customer 198,62,Female,Chicago,German,Yes,2022-02-01,2022,2,1
+1199,Customer 199,19,Female,Chicago,German,No,NA,NA,NA,NA
+1200,Customer 200,60,Female,New York,Spanish,No,NA,NA,NA,NA
+1201,Customer 201,30,Other,San Francisco,German,No,NA,NA,NA,NA
+1202,Customer 202,63,Other,Houston,English,Yes,2022-12-29,2022,12,29
+1203,Customer 203,23,Female,Los Angeles,English,Yes,2022-10-05,2022,10,5
+1204,Customer 204,25,Other,Los Angeles,French,Yes,2022-08-26,2022,8,26
+1205,Customer 205,61,Male,Chicago,French,Yes,2022-07-08,2022,7,8
+1206,Customer 206,49,Male,Houston,Spanish,No,NA,NA,NA,NA
+1207,Customer 207,53,Other,Los Angeles,English,No,NA,NA,NA,NA
+1208,Customer 208,62,Female,New York,French,Yes,2022-11-25,2022,11,25
+1209,Customer 209,31,Male,New York,French,Yes,2022-09-18,2022,9,18
+1210,Customer 210,70,Other,Los Angeles,English,Yes,2023-08-02,2023,8,2
+1211,Customer 211,33,Female,Los Angeles,German,No,NA,NA,NA,NA
+1212,Customer 212,40,Other,New York,English,No,NA,NA,NA,NA
+1213,Customer 213,50,Male,New York,English,Yes,2022-03-09,2022,3,9
+1214,Customer 214,57,Female,San Francisco,German,Yes,2023-08-13,2023,8,13
+1215,Customer 215,57,Female,New York,English,No,NA,NA,NA,NA
+1216,Customer 216,27,Other,Houston,Spanish,No,NA,NA,NA,NA
+1217,Customer 217,42,Female,New York,Spanish,Yes,2023-04-21,2023,4,21
+1218,Customer 218,25,Other,New York,German,Yes,2022-08-23,2022,8,23
+1219,Customer 219,35,Other,New York,German,Yes,2023-04-05,2023,4,5
+1220,Customer 220,70,Other,New York,French,Yes,2022-02-15,2022,2,15
+1221,Customer 221,26,Female,Los Angeles,Spanish,Yes,2022-09-06,2022,9,6
+1222,Customer 222,24,Other,Chicago,Spanish,No,NA,NA,NA,NA
+1223,Customer 223,24,Female,San Francisco,French,Yes,2022-12-28,2022,12,28
+1224,Customer 224,27,Other,San Francisco,English,No,NA,NA,NA,NA
+1225,Customer 225,41,Other,San Francisco,German,No,NA,NA,NA,NA
+1226,Customer 226,40,Male,New York,Spanish,Yes,2022-09-14,2022,9,14
+1227,Customer 227,43,Male,Chicago,Spanish,Yes,2023-05-01,2023,5,1
+1228,Customer 228,60,Female,Los Angeles,German,Yes,2023-06-28,2023,6,28
+1229,Customer 229,50,Female,New York,Spanish,Yes,2023-06-14,2023,6,14
+1230,Customer 230,46,Other,San Francisco,French,Yes,2023-12-01,2023,12,1
+1231,Customer 231,68,Female,San Francisco,French,No,NA,NA,NA,NA
+1232,Customer 232,27,Female,Los Angeles,English,No,NA,NA,NA,NA
+1233,Customer 233,70,Female,New York,English,No,NA,NA,NA,NA
+1234,Customer 234,30,Female,Houston,English,No,NA,NA,NA,NA
+1235,Customer 235,60,Female,San Francisco,French,No,NA,NA,NA,NA
+1236,Customer 236,28,Female,Houston,Spanish,Yes,2023-10-19,2023,10,19
+1237,Customer 237,42,Other,Houston,German,No,NA,NA,NA,NA
+1238,Customer 238,69,Other,New York,English,Yes,2023-11-13,2023,11,13
+1239,Customer 239,43,Male,Houston,English,No,NA,NA,NA,NA
+1240,Customer 240,24,Male,San Francisco,German,No,NA,NA,NA,NA
+1241,Customer 241,42,Male,New York,German,Yes,2023-12-25,2023,12,25
+1242,Customer 242,40,Other,San Francisco,Spanish,Yes,2022-02-18,2022,2,18
+1243,Customer 243,43,Male,Los Angeles,Spanish,No,NA,NA,NA,NA
+1244,Customer 244,49,Other,San Francisco,French,No,NA,NA,NA,NA
+1245,Customer 245,37,Male,New York,English,No,NA,NA,NA,NA
+1246,Customer 246,41,Male,San Francisco,Spanish,No,NA,NA,NA,NA
+1247,Customer 247,26,Male,Los Angeles,German,No,NA,NA,NA,NA
+1248,Customer 248,58,Male,Chicago,English,No,NA,NA,NA,NA
+1249,Customer 249,54,Female,Chicago,English,Yes,2022-10-06,2022,10,6
+1250,Customer 250,40,Female,Chicago,English,No,NA,NA,NA,NA
+1251,Customer 251,31,Female,Chicago,French,No,NA,NA,NA,NA
+1252,Customer 252,63,Female,Chicago,French,Yes,2022-09-26,2022,9,26
+1253,Customer 253,23,Male,New York,Spanish,No,NA,NA,NA,NA
+1254,Customer 254,44,Other,Houston,German,Yes,2023-07-05,2023,7,5
+1255,Customer 255,18,Other,New York,Spanish,No,NA,NA,NA,NA
+1256,Customer 256,43,Other,Houston,German,Yes,2023-05-04,2023,5,4
+1257,Customer 257,59,Female,New York,Spanish,Yes,2022-12-15,2022,12,15
+1258,Customer 258,66,Other,Houston,German,No,NA,NA,NA,NA
+1259,Customer 259,34,Female,Chicago,Spanish,No,NA,NA,NA,NA
+1260,Customer 260,46,Male,Chicago,French,Yes,2023-07-28,2023,7,28
+1261,Customer 261,43,Male,San Francisco,German,Yes,2022-07-26,2022,7,26
+1262,Customer 262,44,Female,San Francisco,English,Yes,2023-01-11,2023,1,11
+1263,Customer 263,38,Female,Chicago,Spanish,No,NA,NA,NA,NA
+1264,Customer 264,24,Female,Los Angeles,English,Yes,2022-05-12,2022,5,12
+1265,Customer 265,70,Male,San Francisco,Spanish,No,NA,NA,NA,NA
+1266,Customer 266,43,Other,New York,English,No,NA,NA,NA,NA
+1267,Customer 267,58,Male,New York,Spanish,Yes,2023-10-31,2023,10,31
+1268,Customer 268,37,Other,New York,German,No,NA,NA,NA,NA
+1269,Customer 269,23,Male,Chicago,French,No,NA,NA,NA,NA
+1270,Customer 270,67,Male,Los Angeles,Spanish,Yes,2022-01-09,2022,1,9
+1271,Customer 271,47,Other,New York,French,Yes,2023-06-21,2023,6,21
+1272,Customer 272,48,Female,New York,German,Yes,2022-06-14,2022,6,14
+1273,Customer 273,46,Male,Los Angeles,English,Yes,2023-05-26,2023,5,26
+1274,Customer 274,34,Other,Chicago,German,Yes,2022-04-02,2022,4,2
+1275,Customer 275,54,Other,Houston,English,No,NA,NA,NA,NA
+1276,Customer 276,37,Female,Chicago,Spanish,Yes,2022-08-04,2022,8,4
+1277,Customer 277,52,Female,San Francisco,French,No,NA,NA,NA,NA
+1278,Customer 278,42,Other,Houston,French,Yes,2023-11-11,2023,11,11
+1279,Customer 279,63,Other,Los Angeles,French,No,NA,NA,NA,NA
+1280,Customer 280,50,Male,Chicago,Spanish,Yes,2022-09-13,2022,9,13
+1281,Customer 281,19,Female,Los Angeles,French,Yes,2023-09-22,2023,9,22
+1282,Customer 282,21,Male,San Francisco,French,No,NA,NA,NA,NA
+1283,Customer 283,27,Male,New York,French,No,NA,NA,NA,NA
+1284,Customer 284,50,Other,Chicago,English,Yes,2022-07-24,2022,7,24
+1285,Customer 285,22,Male,Chicago,French,Yes,2023-12-13,2023,12,13
+1286,Customer 286,70,Female,Los Angeles,Spanish,Yes,2023-07-19,2023,7,19
+1287,Customer 287,42,Female,Los Angeles,Spanish,No,NA,NA,NA,NA
+1288,Customer 288,25,Other,Los Angeles,French,Yes,2023-09-30,2023,9,30
+1289,Customer 289,42,Female,New York,English,No,NA,NA,NA,NA
+1290,Customer 290,38,Other,Chicago,French,Yes,2022-02-19,2022,2,19
+1291,Customer 291,62,Other,Houston,French,No,NA,NA,NA,NA
+1292,Customer 292,35,Female,New York,French,Yes,2023-01-03,2023,1,3
+1293,Customer 293,59,Other,Los Angeles,French,No,NA,NA,NA,NA
+1294,Customer 294,48,Other,New York,French,No,NA,NA,NA,NA
+1295,Customer 295,23,Female,Houston,German,Yes,2023-09-29,2023,9,29
+1296,Customer 296,24,Female,Chicago,French,Yes,2023-10-08,2023,10,8
+1297,Customer 297,58,Other,Houston,English,Yes,2022-01-01,2022,1,1
+1298,Customer 298,65,Other,San Francisco,Spanish,Yes,2022-07-06,2022,7,6
+1299,Customer 299,34,Female,San Francisco,English,No,NA,NA,NA,NA
+1300,Customer 300,70,Male,Los Angeles,English,Yes,2022-05-31,2022,5,31
+1301,Customer 301,62,Male,San Francisco,Spanish,No,NA,NA,NA,NA
+1302,Customer 302,45,Other,San Francisco,English,Yes,2023-06-25,2023,6,25
+1303,Customer 303,70,Other,New York,Spanish,No,NA,NA,NA,NA
+1304,Customer 304,57,Male,Los Angeles,Spanish,Yes,2022-03-25,2022,3,25
+1305,Customer 305,70,Female,San Francisco,French,No,NA,NA,NA,NA
+1306,Customer 306,24,Female,San Francisco,French,Yes,2022-10-24,2022,10,24
+1307,Customer 307,37,Other,Chicago,French,No,NA,NA,NA,NA
+1308,Customer 308,35,Female,Houston,English,No,NA,NA,NA,NA
+1309,Customer 309,46,Other,New York,English,Yes,2022-04-26,2022,4,26
+1310,Customer 310,34,Male,Los Angeles,German,Yes,2022-08-15,2022,8,15
+1311,Customer 311,50,Female,Houston,German,No,NA,NA,NA,NA
+1312,Customer 312,19,Female,Los Angeles,English,No,NA,NA,NA,NA
+1313,Customer 313,66,Male,San Francisco,Spanish,No,NA,NA,NA,NA
+1314,Customer 314,19,Other,Houston,Spanish,Yes,2023-07-24,2023,7,24
+1315,Customer 315,30,Female,Houston,Spanish,Yes,2022-01-18,2022,1,18
+1316,Customer 316,41,Other,Houston,German,No,NA,NA,NA,NA
+1317,Customer 317,66,Other,New York,English,Yes,2022-06-15,2022,6,15
+1318,Customer 318,20,Male,New York,English,No,NA,NA,NA,NA
+1319,Customer 319,35,Female,Houston,English,No,NA,NA,NA,NA
+1320,Customer 320,19,Female,Houston,English,Yes,2022-04-29,2022,4,29
+1321,Customer 321,54,Male,Los Angeles,French,No,NA,NA,NA,NA
+1322,Customer 322,29,Male,Houston,German,No,NA,NA,NA,NA
+1323,Customer 323,30,Female,Los Angeles,Spanish,Yes,2022-04-12,2022,4,12
+1324,Customer 324,59,Other,Los Angeles,Spanish,No,NA,NA,NA,NA
+1325,Customer 325,23,Other,New York,Spanish,Yes,2022-06-11,2022,6,11
+1326,Customer 326,59,Other,Houston,German,No,NA,NA,NA,NA
+1327,Customer 327,59,Female,New York,French,Yes,2022-06-05,2022,6,5
+1328,Customer 328,55,Female,Los Angeles,English,Yes,2022-08-17,2022,8,17
+1329,Customer 329,65,Other,Los Angeles,French,Yes,2022-08-02,2022,8,2
+1330,Customer 330,33,Male,New York,French,No,NA,NA,NA,NA
+1331,Customer 331,52,Other,Los Angeles,Spanish,Yes,2023-08-15,2023,8,15
+1332,Customer 332,53,Male,Chicago,German,Yes,2022-09-15,2022,9,15
+1333,Customer 333,44,Other,New York,French,No,NA,NA,NA,NA
+1334,Customer 334,44,Other,Los Angeles,German,Yes,2022-01-30,2022,1,30
+1335,Customer 335,52,Other,Houston,French,No,NA,NA,NA,NA
+1336,Customer 336,40,Female,Chicago,French,No,NA,NA,NA,NA
+1337,Customer 337,20,Male,New York,English,Yes,2022-05-22,2022,5,22
+1338,Customer 338,48,Male,Houston,English,No,NA,NA,NA,NA
+1339,Customer 339,65,Other,New York,Spanish,Yes,2022-01-11,2022,1,11
+1340,Customer 340,19,Male,Houston,German,Yes,2023-07-29,2023,7,29
+1341,Customer 341,64,Female,New York,German,No,NA,NA,NA,NA
+1342,Customer 342,40,Female,Los Angeles,English,No,NA,NA,NA,NA
+1343,Customer 343,20,Other,San Francisco,French,Yes,2022-08-24,2022,8,24
+1344,Customer 344,26,Female,New York,Spanish,No,NA,NA,NA,NA
+1345,Customer 345,56,Male,Los Angeles,German,No,NA,NA,NA,NA
+1346,Customer 346,47,Male,Houston,Spanish,No,NA,NA,NA,NA
+1347,Customer 347,48,Female,Chicago,German,Yes,2022-07-11,2022,7,11
+1348,Customer 348,47,Other,Los Angeles,French,No,NA,NA,NA,NA
+1349,Customer 349,26,Male,Houston,Spanish,No,NA,NA,NA,NA
+1350,Customer 350,53,Male,Chicago,Spanish,No,NA,NA,NA,NA
+1351,Customer 351,51,Male,San Francisco,English,Yes,2022-04-25,2022,4,25
+1352,Customer 352,39,Male,Chicago,Spanish,Yes,2023-07-10,2023,7,10
+1353,Customer 353,61,Male,New York,French,No,NA,NA,NA,NA
+1354,Customer 354,58,Male,Los Angeles,German,No,NA,NA,NA,NA
+1355,Customer 355,45,Other,San Francisco,Spanish,Yes,2023-08-26,2023,8,26
+1356,Customer 356,46,Male,San Francisco,German,No,NA,NA,NA,NA
+1357,Customer 357,60,Female,Houston,French,No,NA,NA,NA,NA
+1358,Customer 358,56,Other,Houston,French,No,NA,NA,NA,NA
+1359,Customer 359,62,Other,New York,French,No,NA,NA,NA,NA
+1360,Customer 360,54,Other,New York,French,No,NA,NA,NA,NA
+1361,Customer 361,60,Female,New York,English,No,NA,NA,NA,NA
+1362,Customer 362,50,Female,Houston,English,Yes,2023-03-10,2023,3,10
+1363,Customer 363,36,Male,New York,German,No,NA,NA,NA,NA
+1364,Customer 364,29,Other,Houston,Spanish,Yes,2022-11-01,2022,11,1
+1365,Customer 365,51,Female,San Francisco,German,No,NA,NA,NA,NA
+1366,Customer 366,38,Male,Houston,English,Yes,2022-08-15,2022,8,15
+1367,Customer 367,34,Male,Los Angeles,German,Yes,2022-10-01,2022,10,1
+1368,Customer 368,29,Other,Chicago,French,No,NA,NA,NA,NA
+1369,Customer 369,47,Female,Los Angeles,German,No,NA,NA,NA,NA
+1370,Customer 370,52,Female,New York,German,No,NA,NA,NA,NA
+1371,Customer 371,47,Male,San Francisco,French,No,NA,NA,NA,NA
+1372,Customer 372,42,Male,Los Angeles,German,Yes,2022-06-24,2022,6,24
+1373,Customer 373,67,Other,Los Angeles,French,Yes,2022-03-11,2022,3,11
+1374,Customer 374,64,Other,San Francisco,German,Yes,2023-02-10,2023,2,10
+1375,Customer 375,20,Male,Houston,Spanish,Yes,2022-07-31,2022,7,31
+1376,Customer 376,68,Female,San Francisco,Spanish,Yes,2023-07-10,2023,7,10
+1377,Customer 377,35,Male,New York,English,No,NA,NA,NA,NA
+1378,Customer 378,49,Female,Chicago,English,No,NA,NA,NA,NA
+1379,Customer 379,34,Male,Chicago,French,No,NA,NA,NA,NA
+1380,Customer 380,55,Other,Chicago,Spanish,Yes,2023-12-01,2023,12,1
+1381,Customer 381,59,Other,Houston,English,Yes,2023-10-15,2023,10,15
+1382,Customer 382,57,Female,Chicago,Spanish,No,NA,NA,NA,NA
+1383,Customer 383,59,Female,New York,English,Yes,2023-09-11,2023,9,11
+1384,Customer 384,49,Other,Los Angeles,Spanish,Yes,2023-10-03,2023,10,3
+1385,Customer 385,43,Male,Chicago,French,No,NA,NA,NA,NA
+1386,Customer 386,30,Female,San Francisco,German,Yes,2022-04-09,2022,4,9
+1387,Customer 387,37,Female,New York,French,No,NA,NA,NA,NA
+1388,Customer 388,55,Female,Houston,English,Yes,2022-10-16,2022,10,16
+1389,Customer 389,37,Male,Chicago,French,Yes,2023-04-22,2023,4,22
+1390,Customer 390,46,Female,Houston,Spanish,Yes,2022-03-04,2022,3,4
+1391,Customer 391,37,Male,Houston,French,No,NA,NA,NA,NA
+1392,Customer 392,47,Other,San Francisco,English,Yes,2023-06-30,2023,6,30
+1393,Customer 393,58,Other,Los Angeles,German,No,NA,NA,NA,NA
+1394,Customer 394,65,Other,New York,Spanish,Yes,2023-08-07,2023,8,7
+1395,Customer 395,25,Female,Houston,French,Yes,2022-09-11,2022,9,11
+1396,Customer 396,56,Female,New York,English,No,NA,NA,NA,NA
+1397,Customer 397,27,Other,Los Angeles,French,Yes,2023-10-19,2023,10,19
+1398,Customer 398,34,Other,Los Angeles,English,Yes,2023-04-12,2023,4,12
+1399,Customer 399,35,Male,Chicago,English,No,NA,NA,NA,NA
+1400,Customer 400,57,Female,New York,German,Yes,2022-08-05,2022,8,5
+1401,Customer 401,68,Female,Chicago,English,No,NA,NA,NA,NA
+1402,Customer 402,59,Other,Chicago,German,No,NA,NA,NA,NA
+1403,Customer 403,28,Female,Los Angeles,German,Yes,2022-06-29,2022,6,29
+1404,Customer 404,66,Male,New York,French,No,NA,NA,NA,NA
+1405,Customer 405,61,Other,Chicago,English,Yes,2023-03-05,2023,3,5
+1406,Customer 406,19,Female,Houston,Spanish,Yes,2022-09-04,2022,9,4
+1407,Customer 407,36,Male,New York,Spanish,No,NA,NA,NA,NA
+1408,Customer 408,30,Male,Chicago,English,No,NA,NA,NA,NA
+1409,Customer 409,30,Female,Houston,French,No,NA,NA,NA,NA
+1410,Customer 410,48,Female,New York,Spanish,No,NA,NA,NA,NA
+1411,Customer 411,47,Male,Los Angeles,German,No,NA,NA,NA,NA
+1412,Customer 412,68,Male,Los Angeles,English,No,NA,NA,NA,NA
+1413,Customer 413,39,Other,Houston,Spanish,No,NA,NA,NA,NA
+1414,Customer 414,47,Other,Houston,English,No,NA,NA,NA,NA
+1415,Customer 415,27,Male,Chicago,Spanish,Yes,2023-03-30,2023,3,30
+1416,Customer 416,33,Female,Chicago,Spanish,Yes,2022-05-17,2022,5,17
+1417,Customer 417,22,Other,Los Angeles,German,Yes,2022-10-27,2022,10,27
+1418,Customer 418,53,Female,New York,English,Yes,2023-10-20,2023,10,20
+1419,Customer 419,67,Other,New York,German,Yes,2022-08-27,2022,8,27
+1420,Customer 420,50,Male,Chicago,French,No,NA,NA,NA,NA
+1421,Customer 421,33,Female,Chicago,French,No,NA,NA,NA,NA
+1422,Customer 422,45,Other,Los Angeles,English,Yes,2022-10-12,2022,10,12
+1423,Customer 423,66,Other,San Francisco,German,Yes,2023-11-14,2023,11,14
+1424,Customer 424,29,Female,Chicago,Spanish,No,NA,NA,NA,NA
+1425,Customer 425,70,Other,Chicago,Spanish,No,NA,NA,NA,NA
+1426,Customer 426,45,Female,San Francisco,Spanish,Yes,2023-04-24,2023,4,24
+1427,Customer 427,19,Other,Los Angeles,English,No,NA,NA,NA,NA
+1428,Customer 428,67,Female,Chicago,German,No,NA,NA,NA,NA
+1429,Customer 429,29,Male,New York,English,No,NA,NA,NA,NA
+1430,Customer 430,64,Male,Los Angeles,Spanish,No,NA,NA,NA,NA
+1431,Customer 431,68,Other,New York,French,No,NA,NA,NA,NA
+1432,Customer 432,70,Other,New York,English,No,NA,NA,NA,NA
+1433,Customer 433,23,Female,Los Angeles,German,Yes,2022-09-02,2022,9,2
+1434,Customer 434,33,Female,Chicago,Spanish,No,NA,NA,NA,NA
+1435,Customer 435,32,Female,San Francisco,German,No,NA,NA,NA,NA
+1436,Customer 436,36,Female,Los Angeles,French,No,NA,NA,NA,NA
+1437,Customer 437,20,Female,Los Angeles,Spanish,Yes,2023-09-15,2023,9,15
+1438,Customer 438,63,Male,Houston,French,No,NA,NA,NA,NA
+1439,Customer 439,50,Male,Los Angeles,French,No,NA,NA,NA,NA
+1440,Customer 440,50,Other,Houston,German,No,NA,NA,NA,NA
+1441,Customer 441,65,Other,Los Angeles,English,No,NA,NA,NA,NA
+1442,Customer 442,28,Female,Houston,German,No,NA,NA,NA,NA
+1443,Customer 443,53,Female,Houston,German,Yes,2022-09-03,2022,9,3
+1444,Customer 444,61,Other,San Francisco,German,No,NA,NA,NA,NA
+1445,Customer 445,62,Male,Chicago,Spanish,No,NA,NA,NA,NA
+1446,Customer 446,27,Other,San Francisco,Spanish,No,NA,NA,NA,NA
+1447,Customer 447,59,Female,New York,English,No,NA,NA,NA,NA
+1448,Customer 448,41,Male,Los Angeles,French,No,NA,NA,NA,NA
+1449,Customer 449,45,Other,Houston,English,No,NA,NA,NA,NA
+1450,Customer 450,56,Female,San Francisco,Spanish,Yes,2022-12-07,2022,12,7
+1451,Customer 451,35,Female,Chicago,French,Yes,2022-04-02,2022,4,2
+1452,Customer 452,34,Other,Chicago,Spanish,No,NA,NA,NA,NA
+1453,Customer 453,37,Male,Chicago,English,No,NA,NA,NA,NA
+1454,Customer 454,26,Other,Los Angeles,Spanish,Yes,2023-10-02,2023,10,2
+1455,Customer 455,70,Male,Houston,English,No,NA,NA,NA,NA
+1456,Customer 456,28,Female,Los Angeles,English,No,NA,NA,NA,NA
+1457,Customer 457,61,Male,San Francisco,Spanish,No,NA,NA,NA,NA
+1458,Customer 458,25,Male,Los Angeles,Spanish,Yes,2022-02-07,2022,2,7
+1459,Customer 459,67,Male,San Francisco,French,Yes,2022-06-28,2022,6,28
+1460,Customer 460,22,Male,Chicago,English,No,NA,NA,NA,NA
+1461,Customer 461,46,Male,Houston,English,No,NA,NA,NA,NA
+1462,Customer 462,67,Female,San Francisco,English,No,NA,NA,NA,NA
+1463,Customer 463,23,Other,Houston,English,No,NA,NA,NA,NA
+1464,Customer 464,27,Female,San Francisco,French,No,NA,NA,NA,NA
+1465,Customer 465,43,Female,Houston,English,Yes,2023-06-13,2023,6,13
+1466,Customer 466,26,Female,Los Angeles,English,No,NA,NA,NA,NA
+1467,Customer 467,28,Male,San Francisco,English,No,NA,NA,NA,NA
+1468,Customer 468,23,Male,New York,Spanish,Yes,2022-11-09,2022,11,9
+1469,Customer 469,49,Other,Houston,English,No,NA,NA,NA,NA
+1470,Customer 470,29,Female,New York,English,Yes,2022-03-28,2022,3,28
+1471,Customer 471,36,Other,Houston,French,Yes,2023-03-05,2023,3,5
+1472,Customer 472,44,Other,Houston,Spanish,No,NA,NA,NA,NA
+1473,Customer 473,49,Female,New York,English,Yes,2022-06-06,2022,6,6
+1474,Customer 474,44,Male,San Francisco,Spanish,No,NA,NA,NA,NA
+1475,Customer 475,47,Male,San Francisco,French,Yes,2023-03-11,2023,3,11
+1476,Customer 476,21,Female,Chicago,English,No,NA,NA,NA,NA
+1477,Customer 477,41,Female,Los Angeles,German,Yes,2022-01-03,2022,1,3
+1478,Customer 478,45,Other,Houston,Spanish,No,NA,NA,NA,NA
+1479,Customer 479,20,Male,Los Angeles,French,No,NA,NA,NA,NA
+1480,Customer 480,63,Female,Chicago,German,Yes,2022-12-23,2022,12,23
+1481,Customer 481,57,Male,New York,Spanish,No,NA,NA,NA,NA
+1482,Customer 482,23,Female,San Francisco,French,Yes,2022-03-23,2022,3,23
+1483,Customer 483,53,Other,San Francisco,Spanish,No,NA,NA,NA,NA
+1484,Customer 484,59,Male,San Francisco,Spanish,Yes,2022-04-17,2022,4,17
+1485,Customer 485,65,Other,Houston,French,Yes,2023-02-01,2023,2,1
+1486,Customer 486,47,Female,Houston,Spanish,Yes,2023-06-17,2023,6,17
+1487,Customer 487,65,Female,Houston,English,No,NA,NA,NA,NA
+1488,Customer 488,69,Other,New York,French,Yes,2023-11-12,2023,11,12
+1489,Customer 489,27,Male,New York,Spanish,Yes,2022-04-29,2022,4,29
+1490,Customer 490,42,Female,Chicago,Spanish,No,NA,NA,NA,NA
+1491,Customer 491,55,Male,Chicago,Spanish,Yes,2023-10-29,2023,10,29
+1492,Customer 492,68,Female,Los Angeles,Spanish,No,NA,NA,NA,NA
+1493,Customer 493,53,Female,Los Angeles,English,No,NA,NA,NA,NA
+1494,Customer 494,58,Other,New York,French,Yes,2023-03-05,2023,3,5
+1495,Customer 495,42,Female,Houston,English,Yes,2022-08-16,2022,8,16
+1496,Customer 496,21,Other,New York,French,No,NA,NA,NA,NA
+1497,Customer 497,32,Other,Houston,German,Yes,2022-09-12,2022,9,12
+1498,Customer 498,69,Female,San Francisco,French,Yes,2023-05-20,2023,5,20
+1499,Customer 499,39,Other,San Francisco,Spanish,Yes,2023-07-23,2023,7,23
+1500,Customer 500,70,Male,San Francisco,English,No,NA,NA,NA,NA
+1501,Customer 501,66,Male,New York,Spanish,No,NA,NA,NA,NA
+1502,Customer 502,41,Female,New York,English,Yes,2023-07-26,2023,7,26
+1503,Customer 503,56,Female,Los Angeles,German,Yes,2022-12-25,2022,12,25
+1504,Customer 504,64,Other,Houston,English,No,NA,NA,NA,NA
+1505,Customer 505,54,Other,San Francisco,Spanish,Yes,2022-09-15,2022,9,15
+1506,Customer 506,63,Other,New York,English,Yes,2023-04-24,2023,4,24
+1507,Customer 507,64,Female,Chicago,German,No,NA,NA,NA,NA
+1508,Customer 508,32,Female,New York,Spanish,Yes,2022-03-15,2022,3,15
+1509,Customer 509,33,Male,Chicago,English,Yes,2023-08-13,2023,8,13
+1510,Customer 510,36,Female,Houston,French,No,NA,NA,NA,NA
+1511,Customer 511,25,Female,San Francisco,English,Yes,2022-07-03,2022,7,3
+1512,Customer 512,48,Male,New York,German,No,NA,NA,NA,NA
+1513,Customer 513,54,Female,Houston,French,No,NA,NA,NA,NA
+1514,Customer 514,56,Female,New York,Spanish,Yes,2023-02-15,2023,2,15
+1515,Customer 515,69,Other,Chicago,French,Yes,2023-07-25,2023,7,25
+1516,Customer 516,65,Male,San Francisco,German,Yes,2023-07-08,2023,7,8
+1517,Customer 517,33,Male,Houston,German,No,NA,NA,NA,NA
+1518,Customer 518,26,Male,Los Angeles,French,No,NA,NA,NA,NA
+1519,Customer 519,28,Female,New York,German,No,NA,NA,NA,NA
+1520,Customer 520,60,Other,Los Angeles,French,Yes,2022-07-15,2022,7,15
+1521,Customer 521,68,Female,Houston,English,No,NA,NA,NA,NA
+1522,Customer 522,47,Female,Los Angeles,French,Yes,2023-07-17,2023,7,17
+1523,Customer 523,27,Female,Los Angeles,Spanish,No,NA,NA,NA,NA
+1524,Customer 524,51,Male,Houston,French,No,NA,NA,NA,NA
+1525,Customer 525,55,Female,New York,Spanish,No,NA,NA,NA,NA
+1526,Customer 526,37,Male,Houston,Spanish,No,NA,NA,NA,NA
+1527,Customer 527,63,Other,San Francisco,French,Yes,2023-08-13,2023,8,13
+1528,Customer 528,31,Other,Los Angeles,French,Yes,2022-10-01,2022,10,1
+1529,Customer 529,23,Female,Los Angeles,French,Yes,2023-04-26,2023,4,26
+1530,Customer 530,35,Male,Los Angeles,Spanish,Yes,2023-07-14,2023,7,14
+1531,Customer 531,19,Other,New York,German,No,NA,NA,NA,NA
+1532,Customer 532,25,Female,San Francisco,English,Yes,2023-04-12,2023,4,12
+1533,Customer 533,28,Female,Chicago,German,Yes,2022-01-23,2022,1,23
+1534,Customer 534,38,Other,San Francisco,English,Yes,2022-06-13,2022,6,13
+1535,Customer 535,24,Male,New York,Spanish,No,NA,NA,NA,NA
+1536,Customer 536,68,Female,San Francisco,French,Yes,2022-09-02,2022,9,2
+1537,Customer 537,40,Female,San Francisco,Spanish,No,NA,NA,NA,NA
+1538,Customer 538,25,Male,San Francisco,French,No,NA,NA,NA,NA
+1539,Customer 539,27,Other,Chicago,German,No,NA,NA,NA,NA
+1540,Customer 540,54,Other,San Francisco,French,Yes,2023-03-18,2023,3,18
+1541,Customer 541,34,Male,Los Angeles,German,No,NA,NA,NA,NA
+1542,Customer 542,23,Other,San Francisco,French,No,NA,NA,NA,NA
+1543,Customer 543,57,Male,New York,Spanish,Yes,2022-09-14,2022,9,14
+1544,Customer 544,69,Other,Chicago,English,No,NA,NA,NA,NA
+1545,Customer 545,23,Other,New York,Spanish,Yes,2022-05-27,2022,5,27
+1546,Customer 546,64,Other,Houston,French,No,NA,NA,NA,NA
+1547,Customer 547,45,Female,Houston,English,Yes,2023-03-19,2023,3,19
+1548,Customer 548,49,Female,Houston,German,Yes,2023-11-13,2023,11,13
+1549,Customer 549,66,Male,Los Angeles,German,No,NA,NA,NA,NA
+1550,Customer 550,52,Other,Chicago,English,No,NA,NA,NA,NA
+1551,Customer 551,45,Female,New York,French,Yes,2022-09-14,2022,9,14
+1552,Customer 552,64,Other,San Francisco,Spanish,Yes,2023-09-01,2023,9,1
+1553,Customer 553,37,Other,Houston,English,Yes,2022-10-20,2022,10,20
+1554,Customer 554,18,Other,New York,English,Yes,2023-07-30,2023,7,30
+1555,Customer 555,22,Other,Los Angeles,Spanish,Yes,2023-03-22,2023,3,22
+1556,Customer 556,28,Female,San Francisco,German,No,NA,NA,NA,NA
+1557,Customer 557,64,Female,Chicago,Spanish,No,NA,NA,NA,NA
+1558,Customer 558,37,Female,Houston,English,Yes,2023-06-25,2023,6,25
+1559,Customer 559,19,Male,Chicago,English,No,NA,NA,NA,NA
+1560,Customer 560,65,Female,New York,German,No,NA,NA,NA,NA
+1561,Customer 561,68,Male,Houston,French,Yes,2022-02-28,2022,2,28
+1562,Customer 562,27,Female,Chicago,Spanish,No,NA,NA,NA,NA
+1563,Customer 563,68,Other,Los Angeles,English,No,NA,NA,NA,NA
+1564,Customer 564,66,Female,Los Angeles,Spanish,Yes,2023-04-25,2023,4,25
+1565,Customer 565,24,Male,San Francisco,Spanish,No,NA,NA,NA,NA
+1566,Customer 566,55,Male,Chicago,Spanish,No,NA,NA,NA,NA
+1567,Customer 567,61,Other,Chicago,Spanish,No,NA,NA,NA,NA
+1568,Customer 568,53,Male,Chicago,English,Yes,2022-12-14,2022,12,14
+1569,Customer 569,70,Male,Chicago,English,Yes,2022-06-18,2022,6,18
+1570,Customer 570,40,Female,Chicago,French,No,NA,NA,NA,NA
+1571,Customer 571,68,Other,San Francisco,English,Yes,2022-06-17,2022,6,17
+1572,Customer 572,51,Other,San Francisco,English,Yes,2023-04-30,2023,4,30
+1573,Customer 573,41,Other,Chicago,French,No,NA,NA,NA,NA
+1574,Customer 574,21,Male,Los Angeles,English,Yes,2022-01-19,2022,1,19
+1575,Customer 575,46,Female,San Francisco,English,No,NA,NA,NA,NA
+1576,Customer 576,40,Female,Chicago,French,Yes,2022-11-02,2022,11,2
+1577,Customer 577,28,Male,Los Angeles,French,No,NA,NA,NA,NA
+1578,Customer 578,50,Female,New York,German,Yes,2022-06-28,2022,6,28
+1579,Customer 579,68,Male,Houston,English,No,NA,NA,NA,NA
+1580,Customer 580,67,Other,New York,German,Yes,2022-05-15,2022,5,15
+1581,Customer 581,65,Other,Houston,German,No,NA,NA,NA,NA
+1582,Customer 582,20,Male,Houston,English,No,NA,NA,NA,NA
+1583,Customer 583,50,Other,Los Angeles,German,No,NA,NA,NA,NA
+1584,Customer 584,47,Other,Houston,French,No,NA,NA,NA,NA
+1585,Customer 585,51,Female,Los Angeles,Spanish,Yes,2022-06-14,2022,6,14
+1586,Customer 586,19,Female,Chicago,French,No,NA,NA,NA,NA
+1587,Customer 587,57,Female,Houston,German,Yes,2022-07-11,2022,7,11
+1588,Customer 588,37,Male,Chicago,French,Yes,2023-10-20,2023,10,20
+1589,Customer 589,31,Female,Houston,Spanish,No,NA,NA,NA,NA
+1590,Customer 590,42,Female,Los Angeles,English,Yes,2023-02-22,2023,2,22
+1591,Customer 591,62,Female,Chicago,Spanish,Yes,2023-06-12,2023,6,12
+1592,Customer 592,24,Other,New York,French,No,NA,NA,NA,NA
+1593,Customer 593,57,Male,Houston,French,Yes,2023-06-19,2023,6,19
+1594,Customer 594,52,Other,New York,German,No,NA,NA,NA,NA
+1595,Customer 595,48,Female,New York,French,No,NA,NA,NA,NA
+1596,Customer 596,39,Female,San Francisco,Spanish,No,NA,NA,NA,NA
+1597,Customer 597,33,Female,New York,German,Yes,2023-10-27,2023,10,27
+1598,Customer 598,39,Female,San Francisco,English,Yes,2023-07-08,2023,7,8
+1599,Customer 599,46,Female,Chicago,French,Yes,2023-07-14,2023,7,14
+1600,Customer 600,50,Male,San Francisco,German,No,NA,NA,NA,NA
+1601,Customer 601,61,Other,New York,Spanish,No,NA,NA,NA,NA
+1602,Customer 602,67,Male,Los Angeles,English,Yes,2022-04-23,2022,4,23
+1603,Customer 603,70,Male,San Francisco,German,No,NA,NA,NA,NA
+1604,Customer 604,48,Female,Houston,English,No,NA,NA,NA,NA
+1605,Customer 605,63,Female,Los Angeles,Spanish,Yes,2022-07-03,2022,7,3
+1606,Customer 606,25,Other,San Francisco,German,No,NA,NA,NA,NA
+1607,Customer 607,41,Other,San Francisco,German,No,NA,NA,NA,NA
+1608,Customer 608,47,Other,Houston,Spanish,No,NA,NA,NA,NA
+1609,Customer 609,40,Other,New York,French,No,NA,NA,NA,NA
+1610,Customer 610,54,Other,San Francisco,English,Yes,2023-01-14,2023,1,14
+1611,Customer 611,49,Female,San Francisco,Spanish,Yes,2022-04-20,2022,4,20
+1612,Customer 612,34,Male,San Francisco,Spanish,No,NA,NA,NA,NA
+1613,Customer 613,43,Other,New York,English,Yes,2023-05-31,2023,5,31
+1614,Customer 614,60,Female,Chicago,English,Yes,2022-11-29,2022,11,29
+1615,Customer 615,40,Other,San Francisco,French,No,NA,NA,NA,NA
+1616,Customer 616,43,Male,San Francisco,Spanish,Yes,2023-05-13,2023,5,13
+1617,Customer 617,53,Female,Houston,French,No,NA,NA,NA,NA
+1618,Customer 618,62,Female,Los Angeles,German,No,NA,NA,NA,NA
+1619,Customer 619,25,Other,Chicago,English,Yes,2023-03-28,2023,3,28
+1620,Customer 620,32,Other,Houston,Spanish,No,NA,NA,NA,NA
+1621,Customer 621,53,Male,Houston,English,Yes,2022-10-21,2022,10,21
+1622,Customer 622,62,Other,New York,French,No,NA,NA,NA,NA
+1623,Customer 623,20,Male,Chicago,English,Yes,2023-03-23,2023,3,23
+1624,Customer 624,56,Female,Chicago,English,Yes,2022-01-03,2022,1,3
+1625,Customer 625,50,Other,New York,Spanish,Yes,2023-01-21,2023,1,21
+1626,Customer 626,55,Male,San Francisco,French,No,NA,NA,NA,NA
+1627,Customer 627,62,Female,Houston,English,Yes,2023-07-10,2023,7,10
+1628,Customer 628,43,Female,Los Angeles,English,Yes,2022-03-28,2022,3,28
+1629,Customer 629,45,Male,Houston,English,Yes,2022-07-23,2022,7,23
+1630,Customer 630,43,Male,Los Angeles,German,Yes,2023-03-18,2023,3,18
+1631,Customer 631,34,Male,Houston,German,No,NA,NA,NA,NA
+1632,Customer 632,40,Other,Los Angeles,French,No,NA,NA,NA,NA
+1633,Customer 633,70,Male,San Francisco,English,Yes,2022-02-17,2022,2,17
+1634,Customer 634,55,Male,Chicago,English,Yes,2023-09-10,2023,9,10
+1635,Customer 635,27,Male,Chicago,English,Yes,2023-09-21,2023,9,21
+1636,Customer 636,62,Other,Los Angeles,German,Yes,2023-06-03,2023,6,3
+1637,Customer 637,55,Female,New York,German,No,NA,NA,NA,NA
+1638,Customer 638,58,Female,Chicago,English,Yes,2023-06-14,2023,6,14
+1639,Customer 639,25,Female,San Francisco,English,No,NA,NA,NA,NA
+1640,Customer 640,18,Other,Los Angeles,French,Yes,2022-10-18,2022,10,18
+1641,Customer 641,33,Other,New York,French,Yes,2022-06-24,2022,6,24
+1642,Customer 642,19,Female,New York,Spanish,Yes,2023-01-05,2023,1,5
+1643,Customer 643,57,Other,Los Angeles,Spanish,No,NA,NA,NA,NA
+1644,Customer 644,31,Male,San Francisco,German,Yes,2022-01-23,2022,1,23
+1645,Customer 645,29,Other,Houston,English,No,NA,NA,NA,NA
+1646,Customer 646,43,Male,Los Angeles,German,Yes,2023-03-04,2023,3,4
+1647,Customer 647,25,Other,New York,Spanish,No,NA,NA,NA,NA
+1648,Customer 648,58,Other,Los Angeles,French,No,NA,NA,NA,NA
+1649,Customer 649,25,Female,Houston,German,Yes,2023-07-28,2023,7,28
+1650,Customer 650,26,Female,New York,Spanish,No,NA,NA,NA,NA
+1651,Customer 651,69,Female,Chicago,French,Yes,2022-10-06,2022,10,6
+1652,Customer 652,50,Male,Chicago,German,No,NA,NA,NA,NA
+1653,Customer 653,20,Male,New York,English,No,NA,NA,NA,NA
+1654,Customer 654,57,Other,San Francisco,French,No,NA,NA,NA,NA
+1655,Customer 655,19,Male,Los Angeles,English,No,NA,NA,NA,NA
+1656,Customer 656,18,Other,San Francisco,French,No,NA,NA,NA,NA
+1657,Customer 657,26,Female,Chicago,German,No,NA,NA,NA,NA
+1658,Customer 658,24,Female,Los Angeles,English,No,NA,NA,NA,NA
+1659,Customer 659,30,Male,Los Angeles,French,No,NA,NA,NA,NA
+1660,Customer 660,46,Female,New York,French,Yes,2022-03-12,2022,3,12
+1661,Customer 661,37,Other,Chicago,French,Yes,2023-05-28,2023,5,28
+1662,Customer 662,31,Other,Los Angeles,French,No,NA,NA,NA,NA
+1663,Customer 663,33,Male,Los Angeles,Spanish,No,NA,NA,NA,NA
+1664,Customer 664,24,Female,San Francisco,French,Yes,2023-03-11,2023,3,11
+1665,Customer 665,53,Male,Los Angeles,French,Yes,2022-12-09,2022,12,9
+1666,Customer 666,62,Male,New York,English,No,NA,NA,NA,NA
+1667,Customer 667,29,Male,Houston,French,Yes,2022-07-13,2022,7,13
+1668,Customer 668,42,Female,Chicago,English,Yes,2023-02-25,2023,2,25
+1669,Customer 669,44,Female,New York,English,No,NA,NA,NA,NA
+1670,Customer 670,30,Other,New York,English,Yes,2023-11-20,2023,11,20
+1671,Customer 671,37,Male,San Francisco,Spanish,No,NA,NA,NA,NA
+1672,Customer 672,27,Female,Los Angeles,French,No,NA,NA,NA,NA
+1673,Customer 673,47,Other,Los Angeles,German,No,NA,NA,NA,NA
+1674,Customer 674,58,Other,Los Angeles,French,Yes,2023-08-10,2023,8,10
+1675,Customer 675,29,Other,New York,German,No,NA,NA,NA,NA
+1676,Customer 676,25,Other,New York,Spanish,Yes,2022-11-12,2022,11,12
+1677,Customer 677,24,Female,San Francisco,French,Yes,2022-01-31,2022,1,31
+1678,Customer 678,32,Female,San Francisco,German,Yes,2022-09-08,2022,9,8
+1679,Customer 679,36,Female,Los Angeles,English,No,NA,NA,NA,NA
+1680,Customer 680,66,Other,Los Angeles,French,Yes,2023-01-07,2023,1,7
+1681,Customer 681,60,Other,New York,English,No,NA,NA,NA,NA
+1682,Customer 682,56,Male,Los Angeles,English,No,NA,NA,NA,NA
+1683,Customer 683,68,Other,Houston,English,No,NA,NA,NA,NA
+1684,Customer 684,40,Other,San Francisco,German,No,NA,NA,NA,NA
+1685,Customer 685,52,Male,New York,French,Yes,2023-01-03,2023,1,3
+1686,Customer 686,23,Female,San Francisco,Spanish,Yes,2022-01-04,2022,1,4
+1687,Customer 687,24,Male,San Francisco,English,No,NA,NA,NA,NA
+1688,Customer 688,21,Other,Los Angeles,German,No,NA,NA,NA,NA
+1689,Customer 689,27,Other,Los Angeles,French,No,NA,NA,NA,NA
+1690,Customer 690,34,Female,Chicago,English,No,NA,NA,NA,NA
+1691,Customer 691,65,Male,San Francisco,French,Yes,2023-02-06,2023,2,6
+1692,Customer 692,25,Other,Houston,English,Yes,2023-02-28,2023,2,28
+1693,Customer 693,70,Other,Houston,French,No,NA,NA,NA,NA
+1694,Customer 694,20,Other,Chicago,French,Yes,2023-10-14,2023,10,14
+1695,Customer 695,61,Male,New York,English,No,NA,NA,NA,NA
+1696,Customer 696,70,Female,Houston,Spanish,No,NA,NA,NA,NA
+1697,Customer 697,63,Female,Houston,Spanish,Yes,2022-07-08,2022,7,8
+1698,Customer 698,54,Female,New York,English,Yes,2022-03-03,2022,3,3
+1699,Customer 699,31,Male,San Francisco,Spanish,Yes,2022-06-18,2022,6,18
+1700,Customer 700,45,Other,Los Angeles,English,No,NA,NA,NA,NA
+1701,Customer 701,23,Male,Chicago,English,No,NA,NA,NA,NA
+1702,Customer 702,26,Other,Los Angeles,French,Yes,2022-11-16,2022,11,16
+1703,Customer 703,50,Female,New York,French,Yes,2022-06-03,2022,6,3
+1704,Customer 704,69,Male,Houston,French,No,NA,NA,NA,NA
+1705,Customer 705,63,Other,Houston,English,Yes,2023-01-24,2023,1,24
+1706,Customer 706,36,Other,Los Angeles,French,Yes,2023-05-07,2023,5,7
+1707,Customer 707,54,Other,Chicago,Spanish,No,NA,NA,NA,NA
+1708,Customer 708,51,Male,Chicago,Spanish,Yes,2022-05-01,2022,5,1
+1709,Customer 709,18,Other,Chicago,German,Yes,2022-12-28,2022,12,28
+1710,Customer 710,45,Male,Los Angeles,English,No,NA,NA,NA,NA
+1711,Customer 711,69,Female,Chicago,Spanish,Yes,2022-04-24,2022,4,24
+1712,Customer 712,47,Other,San Francisco,English,Yes,2023-04-26,2023,4,26
+1713,Customer 713,21,Female,Chicago,English,Yes,2023-02-21,2023,2,21
+1714,Customer 714,43,Male,Los Angeles,Spanish,Yes,2022-06-16,2022,6,16
+1715,Customer 715,28,Female,Los Angeles,French,Yes,2023-06-03,2023,6,3
+1716,Customer 716,22,Other,Houston,English,Yes,2023-07-15,2023,7,15
+1717,Customer 717,53,Female,New York,Spanish,No,NA,NA,NA,NA
+1718,Customer 718,36,Other,Houston,German,No,NA,NA,NA,NA
+1719,Customer 719,52,Other,Houston,French,No,NA,NA,NA,NA
+1720,Customer 720,50,Female,San Francisco,French,No,NA,NA,NA,NA
+1721,Customer 721,56,Male,New York,English,No,NA,NA,NA,NA
+1722,Customer 722,22,Other,Chicago,French,Yes,2022-05-11,2022,5,11
+1723,Customer 723,40,Male,San Francisco,German,No,NA,NA,NA,NA
+1724,Customer 724,58,Female,San Francisco,Spanish,Yes,2023-06-01,2023,6,1
+1725,Customer 725,42,Female,Houston,English,Yes,2023-08-05,2023,8,5
+1726,Customer 726,66,Other,San Francisco,German,No,NA,NA,NA,NA
+1727,Customer 727,38,Male,San Francisco,German,Yes,2023-10-15,2023,10,15
+1728,Customer 728,22,Other,San Francisco,German,No,NA,NA,NA,NA
+1729,Customer 729,29,Male,Houston,French,Yes,2023-05-22,2023,5,22
+1730,Customer 730,19,Other,Chicago,French,Yes,2023-12-07,2023,12,7
+1731,Customer 731,35,Other,Houston,Spanish,No,NA,NA,NA,NA
+1732,Customer 732,21,Other,San Francisco,French,Yes,2023-09-19,2023,9,19
+1733,Customer 733,59,Female,New York,German,Yes,2022-10-12,2022,10,12
+1734,Customer 734,64,Female,Houston,Spanish,Yes,2023-06-18,2023,6,18
+1735,Customer 735,40,Other,Chicago,Spanish,Yes,2023-12-18,2023,12,18
+1736,Customer 736,25,Other,Chicago,German,No,NA,NA,NA,NA
+1737,Customer 737,18,Male,Houston,French,Yes,2022-12-19,2022,12,19
+1738,Customer 738,28,Male,Chicago,Spanish,Yes,2022-01-16,2022,1,16
+1739,Customer 739,54,Female,New York,English,Yes,2022-01-17,2022,1,17
+1740,Customer 740,28,Other,San Francisco,English,Yes,2023-08-19,2023,8,19
+1741,Customer 741,32,Other,New York,English,No,NA,NA,NA,NA
+1742,Customer 742,32,Female,Chicago,English,No,NA,NA,NA,NA
+1743,Customer 743,59,Other,Chicago,French,No,NA,NA,NA,NA
+1744,Customer 744,32,Other,Los Angeles,German,Yes,2023-02-26,2023,2,26
+1745,Customer 745,32,Male,San Francisco,English,Yes,2022-12-23,2022,12,23
+1746,Customer 746,69,Other,New York,Spanish,Yes,2023-02-22,2023,2,22
+1747,Customer 747,61,Female,Chicago,French,Yes,2023-10-18,2023,10,18
+1748,Customer 748,58,Female,San Francisco,German,No,NA,NA,NA,NA
+1749,Customer 749,42,Male,New York,German,Yes,2022-12-14,2022,12,14
+1750,Customer 750,53,Other,New York,Spanish,No,NA,NA,NA,NA
+1751,Customer 751,20,Other,Chicago,French,Yes,2023-08-12,2023,8,12
+1752,Customer 752,24,Male,Houston,Spanish,Yes,2023-06-21,2023,6,21
+1753,Customer 753,21,Other,San Francisco,French,No,NA,NA,NA,NA
+1754,Customer 754,57,Female,Chicago,Spanish,No,NA,NA,NA,NA
+1755,Customer 755,70,Female,Houston,English,Yes,2023-04-22,2023,4,22
+1756,Customer 756,54,Female,New York,Spanish,No,NA,NA,NA,NA
+1757,Customer 757,41,Male,Los Angeles,Spanish,Yes,2022-02-01,2022,2,1
+1758,Customer 758,55,Other,Los Angeles,French,No,NA,NA,NA,NA
+1759,Customer 759,21,Male,New York,Spanish,Yes,2023-05-30,2023,5,30
+1760,Customer 760,20,Male,Chicago,Spanish,No,NA,NA,NA,NA
+1761,Customer 761,28,Male,Chicago,Spanish,No,NA,NA,NA,NA
+1762,Customer 762,27,Male,New York,Spanish,No,NA,NA,NA,NA
+1763,Customer 763,46,Male,Houston,English,Yes,2022-08-11,2022,8,11
+1764,Customer 764,40,Female,Los Angeles,French,Yes,2022-10-13,2022,10,13
+1765,Customer 765,22,Other,New York,French,Yes,2023-10-15,2023,10,15
+1766,Customer 766,41,Male,Houston,German,Yes,2022-01-01,2022,1,1
+1767,Customer 767,49,Female,Los Angeles,German,No,NA,NA,NA,NA
+1768,Customer 768,42,Female,San Francisco,Spanish,No,NA,NA,NA,NA
+1769,Customer 769,28,Male,New York,Spanish,Yes,2023-09-23,2023,9,23
+1770,Customer 770,27,Male,Chicago,French,Yes,2022-08-14,2022,8,14
+1771,Customer 771,32,Other,San Francisco,English,Yes,2023-05-02,2023,5,2
+1772,Customer 772,68,Male,Los Angeles,German,Yes,2023-11-20,2023,11,20
+1773,Customer 773,48,Male,Houston,Spanish,Yes,2023-12-10,2023,12,10
+1774,Customer 774,27,Other,Chicago,English,Yes,2022-07-08,2022,7,8
+1775,Customer 775,62,Male,Houston,French,No,NA,NA,NA,NA
+1776,Customer 776,41,Male,Los Angeles,French,Yes,2023-06-03,2023,6,3
+1777,Customer 777,52,Other,San Francisco,German,Yes,2022-05-28,2022,5,28
+1778,Customer 778,67,Female,Los Angeles,English,No,NA,NA,NA,NA
+1779,Customer 779,27,Female,Houston,Spanish,No,NA,NA,NA,NA
+1780,Customer 780,25,Female,Houston,German,No,NA,NA,NA,NA
+1781,Customer 781,61,Other,San Francisco,French,No,NA,NA,NA,NA
+1782,Customer 782,59,Other,New York,Spanish,Yes,2023-04-04,2023,4,4
+1783,Customer 783,49,Male,New York,Spanish,Yes,2022-03-05,2022,3,5
+1784,Customer 784,56,Other,Chicago,English,Yes,2023-01-29,2023,1,29
+1785,Customer 785,24,Female,Chicago,French,No,NA,NA,NA,NA
+1786,Customer 786,55,Other,Houston,German,No,NA,NA,NA,NA
+1787,Customer 787,34,Male,Chicago,Spanish,No,NA,NA,NA,NA
+1788,Customer 788,37,Male,San Francisco,Spanish,Yes,2023-10-19,2023,10,19
+1789,Customer 789,50,Female,New York,English,No,NA,NA,NA,NA
+1790,Customer 790,54,Female,Los Angeles,German,Yes,2023-08-02,2023,8,2
+1791,Customer 791,27,Female,Chicago,German,Yes,2022-11-01,2022,11,1
+1792,Customer 792,62,Female,Chicago,French,Yes,2022-01-24,2022,1,24
+1793,Customer 793,27,Female,San Francisco,Spanish,Yes,2022-05-22,2022,5,22
+1794,Customer 794,19,Female,New York,English,No,NA,NA,NA,NA
+1795,Customer 795,32,Male,New York,Spanish,Yes,2022-12-27,2022,12,27
+1796,Customer 796,40,Other,New York,German,No,NA,NA,NA,NA
+1797,Customer 797,64,Male,Houston,English,Yes,2022-08-27,2022,8,27
+1798,Customer 798,57,Other,Chicago,Spanish,Yes,2023-08-08,2023,8,8
+1799,Customer 799,52,Other,San Francisco,French,Yes,2023-03-24,2023,3,24
+1800,Customer 800,19,Other,New York,English,Yes,2022-03-14,2022,3,14
+1801,Customer 801,23,Female,San Francisco,Spanish,No,NA,NA,NA,NA
+1802,Customer 802,63,Female,New York,German,Yes,2023-07-02,2023,7,2
+1803,Customer 803,64,Male,Houston,English,No,NA,NA,NA,NA
+1804,Customer 804,68,Female,Houston,French,No,NA,NA,NA,NA
+1805,Customer 805,26,Male,Chicago,Spanish,No,NA,NA,NA,NA
+1806,Customer 806,40,Other,New York,Spanish,No,NA,NA,NA,NA
+1807,Customer 807,42,Other,San Francisco,French,No,NA,NA,NA,NA
+1808,Customer 808,32,Male,Chicago,Spanish,Yes,2022-11-09,2022,11,9
+1809,Customer 809,39,Female,Chicago,German,No,NA,NA,NA,NA
+1810,Customer 810,65,Female,Chicago,French,Yes,2023-05-24,2023,5,24
+1811,Customer 811,25,Female,San Francisco,German,No,NA,NA,NA,NA
+1812,Customer 812,46,Other,Chicago,English,No,NA,NA,NA,NA
+1813,Customer 813,58,Male,San Francisco,French,Yes,2022-07-09,2022,7,9
+1814,Customer 814,38,Other,Houston,English,Yes,2023-07-18,2023,7,18
+1815,Customer 815,65,Male,Los Angeles,German,No,NA,NA,NA,NA
+1816,Customer 816,26,Female,New York,German,No,NA,NA,NA,NA
+1817,Customer 817,51,Other,Los Angeles,French,Yes,2023-04-14,2023,4,14
+1818,Customer 818,58,Other,Houston,English,Yes,2022-12-28,2022,12,28
+1819,Customer 819,60,Male,New York,German,No,NA,NA,NA,NA
+1820,Customer 820,28,Male,Chicago,German,No,NA,NA,NA,NA
+1821,Customer 821,21,Female,Chicago,English,Yes,2023-02-25,2023,2,25
+1822,Customer 822,24,Female,Los Angeles,English,Yes,2023-03-09,2023,3,9
+1823,Customer 823,67,Male,Chicago,English,Yes,2022-06-28,2022,6,28
+1824,Customer 824,28,Other,New York,Spanish,No,NA,NA,NA,NA
+1825,Customer 825,50,Female,New York,German,Yes,2022-08-17,2022,8,17
+1826,Customer 826,28,Other,Los Angeles,German,Yes,2022-12-31,2022,12,31
+1827,Customer 827,55,Male,Chicago,German,Yes,2022-05-09,2022,5,9
+1828,Customer 828,38,Female,San Francisco,German,Yes,2023-01-21,2023,1,21
+1829,Customer 829,27,Other,New York,English,Yes,2022-12-19,2022,12,19
+1830,Customer 830,67,Female,Chicago,English,No,NA,NA,NA,NA
+1831,Customer 831,20,Other,New York,English,No,NA,NA,NA,NA
+1832,Customer 832,52,Female,New York,German,Yes,2023-04-07,2023,4,7
+1833,Customer 833,51,Female,San Francisco,Spanish,Yes,2022-02-24,2022,2,24
+1834,Customer 834,57,Male,San Francisco,French,No,NA,NA,NA,NA
+1835,Customer 835,45,Other,New York,Spanish,Yes,2022-10-05,2022,10,5
+1836,Customer 836,30,Female,Chicago,English,Yes,2022-09-15,2022,9,15
+1837,Customer 837,25,Male,Chicago,French,No,NA,NA,NA,NA
+1838,Customer 838,19,Male,Los Angeles,Spanish,Yes,2022-01-03,2022,1,3
+1839,Customer 839,23,Female,Los Angeles,Spanish,No,NA,NA,NA,NA
+1840,Customer 840,40,Female,Houston,French,No,NA,NA,NA,NA
+1841,Customer 841,34,Male,Chicago,English,No,NA,NA,NA,NA
+1842,Customer 842,49,Female,New York,French,No,NA,NA,NA,NA
+1843,Customer 843,31,Male,San Francisco,Spanish,Yes,2023-10-16,2023,10,16
+1844,Customer 844,24,Other,New York,French,No,NA,NA,NA,NA
+1845,Customer 845,30,Male,Houston,English,Yes,2022-12-28,2022,12,28
+1846,Customer 846,25,Male,Los Angeles,French,No,NA,NA,NA,NA
+1847,Customer 847,55,Female,New York,English,Yes,2023-03-03,2023,3,3
+1848,Customer 848,28,Male,New York,English,Yes,2023-07-20,2023,7,20
+1849,Customer 849,59,Female,Los Angeles,German,No,NA,NA,NA,NA
+1850,Customer 850,34,Other,Los Angeles,German,No,NA,NA,NA,NA
+1851,Customer 851,24,Other,Houston,German,Yes,2022-08-10,2022,8,10
+1852,Customer 852,61,Female,San Francisco,English,No,NA,NA,NA,NA
+1853,Customer 853,36,Female,San Francisco,English,Yes,2023-12-08,2023,12,8
+1854,Customer 854,66,Male,New York,French,No,NA,NA,NA,NA
+1855,Customer 855,57,Female,Chicago,German,Yes,2023-07-22,2023,7,22
+1856,Customer 856,32,Male,Houston,French,Yes,2022-01-28,2022,1,28
+1857,Customer 857,63,Male,Chicago,Spanish,Yes,2022-04-12,2022,4,12
+1858,Customer 858,31,Other,Chicago,Spanish,No,NA,NA,NA,NA
+1859,Customer 859,43,Other,Houston,Spanish,No,NA,NA,NA,NA
+1860,Customer 860,44,Other,Los Angeles,English,No,NA,NA,NA,NA
+1861,Customer 861,34,Other,Chicago,English,No,NA,NA,NA,NA
+1862,Customer 862,50,Male,San Francisco,German,No,NA,NA,NA,NA
+1863,Customer 863,67,Male,Chicago,Spanish,No,NA,NA,NA,NA
+1864,Customer 864,35,Male,Los Angeles,Spanish,Yes,2023-01-13,2023,1,13
+1865,Customer 865,37,Other,New York,German,No,NA,NA,NA,NA
+1866,Customer 866,44,Other,Chicago,French,No,NA,NA,NA,NA
+1867,Customer 867,59,Other,Houston,English,No,NA,NA,NA,NA
+1868,Customer 868,27,Female,Los Angeles,German,No,NA,NA,NA,NA
+1869,Customer 869,70,Other,New York,German,No,NA,NA,NA,NA
+1870,Customer 870,26,Female,Los Angeles,German,No,NA,NA,NA,NA
+1871,Customer 871,48,Other,Los Angeles,German,No,NA,NA,NA,NA
+1872,Customer 872,36,Female,Los Angeles,French,Yes,2023-12-09,2023,12,9
+1873,Customer 873,67,Female,Chicago,French,Yes,2022-09-25,2022,9,25
+1874,Customer 874,35,Female,New York,English,No,NA,NA,NA,NA
+1875,Customer 875,61,Male,Los Angeles,French,Yes,2022-08-21,2022,8,21
+1876,Customer 876,61,Female,Los Angeles,Spanish,Yes,2022-08-05,2022,8,5
+1877,Customer 877,45,Female,Los Angeles,French,No,NA,NA,NA,NA
+1878,Customer 878,38,Other,Los Angeles,French,Yes,2022-03-01,2022,3,1
+1879,Customer 879,46,Male,San Francisco,Spanish,No,NA,NA,NA,NA
+1880,Customer 880,53,Male,Chicago,French,Yes,2022-05-27,2022,5,27
+1881,Customer 881,37,Other,San Francisco,Spanish,No,NA,NA,NA,NA
+1882,Customer 882,40,Other,San Francisco,German,Yes,2023-10-24,2023,10,24
+1883,Customer 883,59,Male,San Francisco,German,Yes,2023-10-19,2023,10,19
+1884,Customer 884,22,Other,San Francisco,English,Yes,2022-08-18,2022,8,18
+1885,Customer 885,19,Male,Houston,English,No,NA,NA,NA,NA
+1886,Customer 886,35,Female,San Francisco,French,Yes,2022-11-25,2022,11,25
+1887,Customer 887,29,Female,Houston,German,No,NA,NA,NA,NA
+1888,Customer 888,30,Male,Chicago,Spanish,No,NA,NA,NA,NA
+1889,Customer 889,60,Female,New York,German,No,NA,NA,NA,NA
+1890,Customer 890,68,Male,Houston,German,No,NA,NA,NA,NA
+1891,Customer 891,55,Female,Houston,Spanish,No,NA,NA,NA,NA
+1892,Customer 892,35,Female,Chicago,English,Yes,2023-11-15,2023,11,15
+1893,Customer 893,27,Female,Houston,English,Yes,2023-01-08,2023,1,8
+1894,Customer 894,26,Female,Los Angeles,Spanish,No,NA,NA,NA,NA
+1895,Customer 895,52,Female,San Francisco,English,Yes,2023-04-26,2023,4,26
+1896,Customer 896,46,Male,Houston,English,Yes,2022-06-20,2022,6,20
+1897,Customer 897,39,Female,Houston,English,No,NA,NA,NA,NA
+1898,Customer 898,36,Female,Los Angeles,Spanish,Yes,2022-03-01,2022,3,1
+1899,Customer 899,25,Female,Los Angeles,Spanish,Yes,2023-12-14,2023,12,14
+1900,Customer 900,62,Male,New York,French,No,NA,NA,NA,NA
+1901,Customer 901,50,Female,Houston,German,No,NA,NA,NA,NA
+1902,Customer 902,19,Other,New York,German,No,NA,NA,NA,NA
+1903,Customer 903,60,Female,Chicago,French,Yes,2023-05-03,2023,5,3
+1904,Customer 904,65,Male,Los Angeles,French,No,NA,NA,NA,NA
+1905,Customer 905,22,Female,Chicago,French,Yes,2022-05-12,2022,5,12
+1906,Customer 906,38,Other,Houston,French,Yes,2023-08-05,2023,8,5
+1907,Customer 907,48,Male,Chicago,German,Yes,2022-09-28,2022,9,28
+1908,Customer 908,53,Female,Chicago,Spanish,No,NA,NA,NA,NA
+1909,Customer 909,44,Male,Chicago,French,Yes,2022-09-04,2022,9,4
+1910,Customer 910,40,Female,Los Angeles,German,Yes,2023-09-18,2023,9,18
+1911,Customer 911,20,Female,San Francisco,English,Yes,2022-08-12,2022,8,12
+1912,Customer 912,32,Male,Chicago,French,Yes,2022-05-19,2022,5,19
+1913,Customer 913,59,Male,Chicago,Spanish,Yes,2023-02-23,2023,2,23
+1914,Customer 914,56,Female,San Francisco,English,No,NA,NA,NA,NA
+1915,Customer 915,24,Other,Los Angeles,French,No,NA,NA,NA,NA
+1916,Customer 916,51,Female,Chicago,Spanish,Yes,2022-08-12,2022,8,12
+1917,Customer 917,48,Male,Chicago,English,Yes,2022-03-29,2022,3,29
+1918,Customer 918,35,Female,Los Angeles,German,No,NA,NA,NA,NA
+1919,Customer 919,35,Male,New York,English,Yes,2023-06-22,2023,6,22
+1920,Customer 920,52,Female,Houston,English,Yes,2022-11-22,2022,11,22
+1921,Customer 921,57,Male,San Francisco,French,Yes,2023-07-19,2023,7,19
+1922,Customer 922,63,Male,Los Angeles,French,Yes,2022-04-21,2022,4,21
+1923,Customer 923,26,Other,Chicago,Spanish,No,NA,NA,NA,NA
+1924,Customer 924,32,Female,San Francisco,English,No,NA,NA,NA,NA
+1925,Customer 925,34,Male,Houston,Spanish,Yes,2022-08-23,2022,8,23
+1926,Customer 926,24,Other,Chicago,French,Yes,2023-02-04,2023,2,4
+1927,Customer 927,47,Male,New York,Spanish,No,NA,NA,NA,NA
+1928,Customer 928,25,Male,Chicago,Spanish,No,NA,NA,NA,NA
+1929,Customer 929,18,Other,San Francisco,English,No,NA,NA,NA,NA
+1930,Customer 930,26,Female,San Francisco,German,No,NA,NA,NA,NA
+1931,Customer 931,52,Other,New York,Spanish,Yes,2023-01-19,2023,1,19
+1932,Customer 932,42,Other,Houston,German,No,NA,NA,NA,NA
+1933,Customer 933,19,Female,San Francisco,Spanish,Yes,2023-06-02,2023,6,2
+1934,Customer 934,28,Female,Chicago,Spanish,Yes,2022-08-15,2022,8,15
+1935,Customer 935,21,Other,Houston,Spanish,Yes,2022-04-01,2022,4,1
+1936,Customer 936,57,Other,New York,English,No,NA,NA,NA,NA
+1937,Customer 937,37,Male,Los Angeles,French,Yes,2023-05-07,2023,5,7
+1938,Customer 938,28,Male,Chicago,German,Yes,2022-09-25,2022,9,25
+1939,Customer 939,35,Other,Chicago,French,Yes,2022-10-24,2022,10,24
+1940,Customer 940,31,Female,Houston,English,No,NA,NA,NA,NA
+1941,Customer 941,20,Female,New York,Spanish,Yes,2022-08-28,2022,8,28
+1942,Customer 942,45,Female,Houston,German,No,NA,NA,NA,NA
+1943,Customer 943,20,Other,San Francisco,Spanish,No,NA,NA,NA,NA
+1944,Customer 944,63,Female,Chicago,Spanish,Yes,2022-12-20,2022,12,20
+1945,Customer 945,45,Male,Houston,French,Yes,2022-01-06,2022,1,6
+1946,Customer 946,46,Other,Houston,Spanish,No,NA,NA,NA,NA
+1947,Customer 947,56,Female,Los Angeles,German,No,NA,NA,NA,NA
+1948,Customer 948,40,Female,New York,French,Yes,2022-08-20,2022,8,20
+1949,Customer 949,32,Female,Los Angeles,English,No,NA,NA,NA,NA
+1950,Customer 950,40,Female,San Francisco,German,Yes,2023-09-06,2023,9,6
+1951,Customer 951,41,Other,Chicago,English,Yes,2022-09-16,2022,9,16
+1952,Customer 952,57,Female,Houston,French,Yes,2023-09-18,2023,9,18
+1953,Customer 953,50,Male,Los Angeles,Spanish,Yes,2022-06-26,2022,6,26
+1954,Customer 954,54,Female,San Francisco,English,No,NA,NA,NA,NA
+1955,Customer 955,46,Female,San Francisco,English,Yes,2022-10-16,2022,10,16
+1956,Customer 956,66,Male,Chicago,English,Yes,2023-04-03,2023,4,3
+1957,Customer 957,23,Female,San Francisco,German,Yes,2023-10-09,2023,10,9
+1958,Customer 958,42,Female,San Francisco,English,Yes,2023-08-15,2023,8,15
+1959,Customer 959,59,Male,Houston,Spanish,No,NA,NA,NA,NA
+1960,Customer 960,43,Other,New York,English,Yes,2022-08-16,2022,8,16
+1961,Customer 961,41,Male,San Francisco,English,No,NA,NA,NA,NA
+1962,Customer 962,61,Other,Houston,Spanish,Yes,2022-05-17,2022,5,17
+1963,Customer 963,49,Female,New York,English,No,NA,NA,NA,NA
+1964,Customer 964,25,Male,Houston,English,No,NA,NA,NA,NA
+1965,Customer 965,33,Male,Los Angeles,Spanish,Yes,2023-03-23,2023,3,23
+1966,Customer 966,56,Other,Houston,Spanish,Yes,2022-09-16,2022,9,16
+1967,Customer 967,49,Male,Chicago,Spanish,Yes,2022-03-12,2022,3,12
+1968,Customer 968,56,Female,Chicago,French,No,NA,NA,NA,NA
+1969,Customer 969,18,Male,San Francisco,English,No,NA,NA,NA,NA
+1970,Customer 970,47,Female,Chicago,German,Yes,2023-03-25,2023,3,25
+1971,Customer 971,42,Male,Houston,English,No,NA,NA,NA,NA
+1972,Customer 972,60,Male,San Francisco,English,Yes,2023-12-02,2023,12,2
+1973,Customer 973,20,Other,New York,French,No,NA,NA,NA,NA
+1974,Customer 974,39,Female,Houston,Spanish,Yes,2023-08-09,2023,8,9
+1975,Customer 975,34,Other,San Francisco,Spanish,No,NA,NA,NA,NA
+1976,Customer 976,37,Male,Los Angeles,German,No,NA,NA,NA,NA
+1977,Customer 977,52,Female,San Francisco,English,No,NA,NA,NA,NA
+1978,Customer 978,31,Male,New York,Spanish,Yes,2022-02-28,2022,2,28
+1979,Customer 979,54,Female,Los Angeles,Spanish,Yes,2022-12-09,2022,12,9
+1980,Customer 980,67,Female,Chicago,Spanish,Yes,2023-10-11,2023,10,11
+1981,Customer 981,41,Female,Houston,English,No,NA,NA,NA,NA
+1982,Customer 982,47,Female,Los Angeles,German,No,NA,NA,NA,NA
+1983,Customer 983,25,Male,Los Angeles,Spanish,Yes,2022-07-02,2022,7,2
+1984,Customer 984,37,Female,Chicago,Spanish,No,NA,NA,NA,NA
+1985,Customer 985,27,Female,San Francisco,German,Yes,2023-10-15,2023,10,15
+1986,Customer 986,39,Female,San Francisco,English,No,NA,NA,NA,NA
+1987,Customer 987,67,Other,Chicago,German,No,NA,NA,NA,NA
+1988,Customer 988,34,Male,Los Angeles,Spanish,No,NA,NA,NA,NA
+1989,Customer 989,26,Female,Chicago,Spanish,Yes,2022-05-02,2022,5,2
+1990,Customer 990,52,Male,Los Angeles,English,No,NA,NA,NA,NA
+1991,Customer 991,54,Female,Chicago,French,No,NA,NA,NA,NA
+1992,Customer 992,38,Other,San Francisco,German,Yes,2023-02-19,2023,2,19
+1993,Customer 993,33,Female,New York,German,No,NA,NA,NA,NA
+1994,Customer 994,69,Female,Houston,German,No,NA,NA,NA,NA
+1995,Customer 995,43,Male,New York,German,Yes,2023-11-04,2023,11,4
+1996,Customer 996,52,Male,San Francisco,French,No,NA,NA,NA,NA
+1997,Customer 997,52,Female,Houston,French,No,NA,NA,NA,NA
+1998,Customer 998,43,Male,New York,French,No,NA,NA,NA,NA
+1999,Customer 999,30,Female,San Francisco,French,No,NA,NA,NA,NA
+2000,Customer 1000,53,Male,Los Angeles,French,Yes,2022-12-06,2022,12,6
+2001,Customer 1001,64,Female,Chicago,Spanish,Yes,2023-04-22,2023,4,22
+2002,Customer 1002,42,Female,New York,English,No,NA,NA,NA,NA
+2003,Customer 1003,45,Female,Chicago,Spanish,No,NA,NA,NA,NA
+2004,Customer 1004,68,Female,Los Angeles,Spanish,No,NA,NA,NA,NA
+2005,Customer 1005,46,Other,Houston,German,No,NA,NA,NA,NA
+2006,Customer 1006,30,Other,Chicago,German,No,NA,NA,NA,NA
+2007,Customer 1007,61,Other,Houston,English,No,NA,NA,NA,NA
+2008,Customer 1008,38,Other,Los Angeles,English,Yes,2023-10-09,2023,10,9
+2009,Customer 1009,42,Other,Los Angeles,Spanish,Yes,2022-05-13,2022,5,13
+2010,Customer 1010,46,Female,San Francisco,French,No,NA,NA,NA,NA
+2011,Customer 1011,37,Other,Chicago,English,Yes,2022-06-24,2022,6,24
+2012,Customer 1012,46,Male,San Francisco,German,No,NA,NA,NA,NA
+2013,Customer 1013,30,Female,Houston,German,Yes,2022-04-23,2022,4,23
+2014,Customer 1014,30,Male,New York,English,No,NA,NA,NA,NA
+2015,Customer 1015,52,Female,New York,German,Yes,2022-12-28,2022,12,28
+2016,Customer 1016,69,Male,New York,Spanish,Yes,2023-04-27,2023,4,27
+2017,Customer 1017,22,Other,Chicago,English,No,NA,NA,NA,NA
+2018,Customer 1018,30,Other,Houston,French,Yes,2023-06-21,2023,6,21
+2019,Customer 1019,40,Female,Los Angeles,Spanish,Yes,2022-04-29,2022,4,29
+2020,Customer 1020,45,Female,Chicago,Spanish,No,NA,NA,NA,NA
+2021,Customer 1021,61,Other,San Francisco,German,Yes,2023-07-27,2023,7,27
+2022,Customer 1022,25,Female,New York,Spanish,No,NA,NA,NA,NA
+2023,Customer 1023,55,Male,Chicago,Spanish,Yes,2023-05-06,2023,5,6
+2024,Customer 1024,41,Other,San Francisco,German,Yes,2022-05-02,2022,5,2
+2025,Customer 1025,33,Male,Houston,French,No,NA,NA,NA,NA
+2026,Customer 1026,28,Female,New York,French,No,NA,NA,NA,NA
+2027,Customer 1027,40,Male,Chicago,French,Yes,2023-12-20,2023,12,20
+2028,Customer 1028,47,Other,Chicago,Spanish,Yes,2023-04-22,2023,4,22
+2029,Customer 1029,49,Male,New York,French,No,NA,NA,NA,NA
+2030,Customer 1030,44,Male,New York,German,Yes,2023-12-13,2023,12,13
+2031,Customer 1031,61,Male,Chicago,English,No,NA,NA,NA,NA
+2032,Customer 1032,65,Other,New York,French,No,NA,NA,NA,NA
+2033,Customer 1033,32,Other,New York,Spanish,Yes,2022-03-24,2022,3,24
+2034,Customer 1034,18,Female,Los Angeles,Spanish,Yes,2022-08-03,2022,8,3
+2035,Customer 1035,61,Male,New York,English,Yes,2022-04-11,2022,4,11
+2036,Customer 1036,27,Male,Houston,French,No,NA,NA,NA,NA
+2037,Customer 1037,39,Male,Los Angeles,French,Yes,2022-04-21,2022,4,21
+2038,Customer 1038,59,Female,Los Angeles,Spanish,Yes,2023-09-20,2023,9,20
+2039,Customer 1039,53,Male,Los Angeles,English,Yes,2023-02-22,2023,2,22
+2040,Customer 1040,58,Female,San Francisco,Spanish,No,NA,NA,NA,NA
+2041,Customer 1041,42,Other,Houston,Spanish,No,NA,NA,NA,NA
+2042,Customer 1042,47,Other,New York,English,No,NA,NA,NA,NA
+2043,Customer 1043,69,Other,Los Angeles,Spanish,Yes,2023-04-15,2023,4,15
+2044,Customer 1044,54,Female,Los Angeles,Spanish,No,NA,NA,NA,NA
+2045,Customer 1045,44,Other,San Francisco,Spanish,No,NA,NA,NA,NA
+2046,Customer 1046,26,Male,Los Angeles,German,Yes,2023-08-25,2023,8,25
+2047,Customer 1047,36,Other,New York,German,Yes,2023-01-05,2023,1,5
+2048,Customer 1048,52,Female,Chicago,English,No,NA,NA,NA,NA
+2049,Customer 1049,51,Other,Houston,English,No,NA,NA,NA,NA
+2050,Customer 1050,40,Female,New York,German,Yes,2022-09-06,2022,9,6
+2051,Customer 1051,29,Female,New York,Spanish,No,NA,NA,NA,NA
+2052,Customer 1052,32,Male,New York,French,No,NA,NA,NA,NA
+2053,Customer 1053,66,Male,New York,German,No,NA,NA,NA,NA
+2054,Customer 1054,52,Female,Chicago,English,No,NA,NA,NA,NA
+2055,Customer 1055,46,Male,Chicago,German,No,NA,NA,NA,NA
+2056,Customer 1056,24,Other,Los Angeles,Spanish,No,NA,NA,NA,NA
+2057,Customer 1057,46,Female,Los Angeles,Spanish,Yes,2023-06-12,2023,6,12
+2058,Customer 1058,62,Male,San Francisco,Spanish,Yes,2023-04-15,2023,4,15
+2059,Customer 1059,63,Other,San Francisco,English,Yes,2023-05-09,2023,5,9
+2060,Customer 1060,51,Male,Chicago,English,No,NA,NA,NA,NA
+2061,Customer 1061,26,Male,Houston,German,No,NA,NA,NA,NA
+2062,Customer 1062,64,Other,Chicago,Spanish,No,NA,NA,NA,NA
+2063,Customer 1063,70,Female,New York,French,No,NA,NA,NA,NA
+2064,Customer 1064,18,Female,New York,German,Yes,2023-07-09,2023,7,9
+2065,Customer 1065,27,Other,Los Angeles,Spanish,Yes,2023-12-22,2023,12,22
+2066,Customer 1066,58,Female,Houston,French,No,NA,NA,NA,NA
+2067,Customer 1067,58,Female,Los Angeles,French,No,NA,NA,NA,NA
+2068,Customer 1068,56,Male,Houston,German,No,NA,NA,NA,NA
+2069,Customer 1069,67,Female,Houston,German,No,NA,NA,NA,NA
+2070,Customer 1070,61,Other,New York,French,No,NA,NA,NA,NA
+2071,Customer 1071,40,Female,San Francisco,German,Yes,2023-08-11,2023,8,11
+2072,Customer 1072,23,Other,New York,German,No,NA,NA,NA,NA
+2073,Customer 1073,49,Male,Houston,French,No,NA,NA,NA,NA
+2074,Customer 1074,56,Female,New York,English,No,NA,NA,NA,NA
+2075,Customer 1075,33,Female,San Francisco,French,No,NA,NA,NA,NA
+2076,Customer 1076,43,Male,San Francisco,Spanish,No,NA,NA,NA,NA
+2077,Customer 1077,33,Female,Los Angeles,French,Yes,2023-08-31,2023,8,31
+2078,Customer 1078,19,Male,San Francisco,Spanish,No,NA,NA,NA,NA
+2079,Customer 1079,51,Female,Houston,German,Yes,2023-05-29,2023,5,29
+2080,Customer 1080,31,Other,Los Angeles,French,Yes,2023-01-12,2023,1,12
+2081,Customer 1081,47,Female,San Francisco,German,Yes,2022-05-10,2022,5,10
+2082,Customer 1082,45,Other,Chicago,French,No,NA,NA,NA,NA
+2083,Customer 1083,38,Female,Houston,German,Yes,2022-12-15,2022,12,15
+2084,Customer 1084,40,Female,Los Angeles,French,No,NA,NA,NA,NA
+2085,Customer 1085,47,Female,Los Angeles,French,Yes,2023-10-13,2023,10,13
+2086,Customer 1086,42,Other,Los Angeles,Spanish,No,NA,NA,NA,NA
+2087,Customer 1087,56,Female,New York,English,No,NA,NA,NA,NA
+2088,Customer 1088,23,Other,San Francisco,English,No,NA,NA,NA,NA
+2089,Customer 1089,21,Male,Los Angeles,Spanish,No,NA,NA,NA,NA
+2090,Customer 1090,20,Male,Los Angeles,French,Yes,2023-07-23,2023,7,23
+2091,Customer 1091,63,Female,Los Angeles,English,Yes,2023-08-08,2023,8,8
+2092,Customer 1092,68,Other,Los Angeles,Spanish,Yes,2023-09-25,2023,9,25
+2093,Customer 1093,63,Other,Chicago,German,Yes,2023-02-24,2023,2,24
+2094,Customer 1094,65,Other,Los Angeles,Spanish,Yes,2022-04-27,2022,4,27
+2095,Customer 1095,27,Female,San Francisco,French,No,NA,NA,NA,NA
+2096,Customer 1096,45,Female,San Francisco,German,No,NA,NA,NA,NA
+2097,Customer 1097,29,Female,New York,Spanish,No,NA,NA,NA,NA
+2098,Customer 1098,67,Male,San Francisco,English,No,NA,NA,NA,NA
+2099,Customer 1099,20,Female,Houston,Spanish,No,NA,NA,NA,NA
+2100,Customer 1100,18,Female,Los Angeles,German,Yes,2023-10-21,2023,10,21
+2101,Customer 1101,61,Male,Los Angeles,German,Yes,2022-07-14,2022,7,14
+2102,Customer 1102,66,Female,Los Angeles,English,No,NA,NA,NA,NA
+2103,Customer 1103,50,Male,Los Angeles,French,No,NA,NA,NA,NA
+2104,Customer 1104,53,Female,San Francisco,French,Yes,2023-01-07,2023,1,7
+2105,Customer 1105,68,Other,Chicago,French,Yes,2022-08-31,2022,8,31
+2106,Customer 1106,30,Other,New York,English,No,NA,NA,NA,NA
+2107,Customer 1107,67,Female,Chicago,German,No,NA,NA,NA,NA
+2108,Customer 1108,32,Other,San Francisco,German,No,NA,NA,NA,NA
+2109,Customer 1109,30,Male,New York,English,Yes,2022-07-09,2022,7,9
+2110,Customer 1110,63,Female,Chicago,English,No,NA,NA,NA,NA
+2111,Customer 1111,47,Other,Houston,English,Yes,2023-08-08,2023,8,8
+2112,Customer 1112,35,Female,New York,German,No,NA,NA,NA,NA
+2113,Customer 1113,61,Male,Los Angeles,English,Yes,2023-09-29,2023,9,29
+2114,Customer 1114,67,Male,Houston,English,No,NA,NA,NA,NA
+2115,Customer 1115,56,Female,Chicago,English,No,NA,NA,NA,NA
+2116,Customer 1116,43,Female,Chicago,English,No,NA,NA,NA,NA
+2117,Customer 1117,53,Female,San Francisco,German,No,NA,NA,NA,NA
+2118,Customer 1118,53,Other,Houston,German,No,NA,NA,NA,NA
+2119,Customer 1119,20,Female,Chicago,English,No,NA,NA,NA,NA
+2120,Customer 1120,42,Male,Los Angeles,English,No,NA,NA,NA,NA
+2121,Customer 1121,28,Female,Chicago,English,No,NA,NA,NA,NA
+2122,Customer 1122,68,Male,Chicago,French,Yes,2022-06-22,2022,6,22
+2123,Customer 1123,47,Male,New York,German,No,NA,NA,NA,NA
+2124,Customer 1124,33,Other,Houston,French,Yes,2022-05-30,2022,5,30
+2125,Customer 1125,64,Male,San Francisco,Spanish,No,NA,NA,NA,NA
+2126,Customer 1126,28,Male,Los Angeles,German,No,NA,NA,NA,NA
+2127,Customer 1127,55,Male,Houston,German,No,NA,NA,NA,NA
+2128,Customer 1128,49,Female,San Francisco,French,No,NA,NA,NA,NA
+2129,Customer 1129,48,Other,San Francisco,French,Yes,2023-02-09,2023,2,9
+2130,Customer 1130,54,Male,Houston,Spanish,No,NA,NA,NA,NA
+2131,Customer 1131,19,Female,New York,Spanish,No,NA,NA,NA,NA
+2132,Customer 1132,39,Female,Chicago,German,No,NA,NA,NA,NA
+2133,Customer 1133,34,Female,New York,German,Yes,2023-03-31,2023,3,31
+2134,Customer 1134,22,Female,Los Angeles,French,No,NA,NA,NA,NA
+2135,Customer 1135,68,Male,Los Angeles,French,No,NA,NA,NA,NA
+2136,Customer 1136,32,Male,Chicago,Spanish,Yes,2022-11-08,2022,11,8
+2137,Customer 1137,68,Male,New York,English,No,NA,NA,NA,NA
+2138,Customer 1138,49,Other,New York,English,No,NA,NA,NA,NA
+2139,Customer 1139,52,Other,Houston,English,Yes,2023-07-27,2023,7,27
+2140,Customer 1140,44,Other,New York,English,Yes,2023-06-24,2023,6,24
+2141,Customer 1141,39,Male,San Francisco,German,Yes,2022-04-25,2022,4,25
+2142,Customer 1142,42,Female,New York,French,Yes,2023-11-13,2023,11,13
+2143,Customer 1143,32,Male,Chicago,Spanish,Yes,2023-06-16,2023,6,16
+2144,Customer 1144,52,Male,San Francisco,French,No,NA,NA,NA,NA
+2145,Customer 1145,47,Female,New York,French,No,NA,NA,NA,NA
+2146,Customer 1146,51,Male,Houston,German,Yes,2022-07-21,2022,7,21
+2147,Customer 1147,22,Other,Houston,French,No,NA,NA,NA,NA
+2148,Customer 1148,22,Female,San Francisco,French,Yes,2022-04-11,2022,4,11
+2149,Customer 1149,24,Other,Los Angeles,German,No,NA,NA,NA,NA
+2150,Customer 1150,19,Other,Chicago,French,Yes,2022-12-26,2022,12,26
+2151,Customer 1151,33,Other,Los Angeles,Spanish,No,NA,NA,NA,NA
+2152,Customer 1152,57,Male,Los Angeles,English,Yes,2023-05-12,2023,5,12
+2153,Customer 1153,40,Other,San Francisco,French,Yes,2022-09-09,2022,9,9
+2154,Customer 1154,40,Male,San Francisco,English,Yes,2023-06-06,2023,6,6
+2155,Customer 1155,41,Male,San Francisco,Spanish,No,NA,NA,NA,NA
+2156,Customer 1156,38,Male,Houston,French,No,NA,NA,NA,NA
+2157,Customer 1157,35,Other,Chicago,Spanish,No,NA,NA,NA,NA
+2158,Customer 1158,36,Other,Los Angeles,German,No,NA,NA,NA,NA
+2159,Customer 1159,26,Male,San Francisco,Spanish,Yes,2023-07-05,2023,7,5
+2160,Customer 1160,36,Male,Los Angeles,Spanish,Yes,2022-11-03,2022,11,3
+2161,Customer 1161,63,Male,San Francisco,English,No,NA,NA,NA,NA
+2162,Customer 1162,36,Female,Chicago,English,Yes,2023-06-12,2023,6,12
+2163,Customer 1163,22,Male,San Francisco,French,Yes,2022-08-19,2022,8,19
+2164,Customer 1164,62,Female,Los Angeles,Spanish,No,NA,NA,NA,NA
+2165,Customer 1165,33,Male,Chicago,French,No,NA,NA,NA,NA
+2166,Customer 1166,56,Female,Houston,German,Yes,2023-04-20,2023,4,20
+2167,Customer 1167,57,Male,Los Angeles,French,No,NA,NA,NA,NA
+2168,Customer 1168,49,Male,Los Angeles,Spanish,No,NA,NA,NA,NA
+2169,Customer 1169,65,Male,New York,English,No,NA,NA,NA,NA
+2170,Customer 1170,32,Male,Los Angeles,German,No,NA,NA,NA,NA
+2171,Customer 1171,43,Other,San Francisco,English,No,NA,NA,NA,NA
+2172,Customer 1172,37,Male,San Francisco,English,Yes,2022-01-21,2022,1,21
+2173,Customer 1173,52,Female,Chicago,French,No,NA,NA,NA,NA
+2174,Customer 1174,48,Female,San Francisco,French,Yes,2023-12-21,2023,12,21
+2175,Customer 1175,41,Female,San Francisco,German,No,NA,NA,NA,NA
+2176,Customer 1176,34,Female,San Francisco,English,Yes,2023-12-22,2023,12,22
+2177,Customer 1177,24,Male,San Francisco,German,Yes,2022-01-18,2022,1,18
+2178,Customer 1178,30,Other,New York,German,No,NA,NA,NA,NA
+2179,Customer 1179,52,Male,Los Angeles,French,No,NA,NA,NA,NA
+2180,Customer 1180,30,Male,Houston,German,Yes,2022-02-23,2022,2,23
+2181,Customer 1181,31,Male,Chicago,German,No,NA,NA,NA,NA
+2182,Customer 1182,21,Other,Houston,Spanish,No,NA,NA,NA,NA
+2183,Customer 1183,42,Female,New York,German,No,NA,NA,NA,NA
+2184,Customer 1184,46,Male,San Francisco,English,Yes,2022-02-02,2022,2,2
+2185,Customer 1185,70,Female,Los Angeles,Spanish,No,NA,NA,NA,NA
+2186,Customer 1186,33,Other,Houston,French,Yes,2022-04-30,2022,4,30
+2187,Customer 1187,58,Female,San Francisco,German,No,NA,NA,NA,NA
+2188,Customer 1188,65,Male,Chicago,Spanish,No,NA,NA,NA,NA
+2189,Customer 1189,26,Other,New York,English,Yes,2023-02-08,2023,2,8
+2190,Customer 1190,54,Female,New York,German,No,NA,NA,NA,NA
+2191,Customer 1191,39,Other,Los Angeles,German,Yes,2022-07-09,2022,7,9
+2192,Customer 1192,63,Female,Chicago,English,No,NA,NA,NA,NA
+2193,Customer 1193,61,Other,Los Angeles,Spanish,Yes,2022-04-25,2022,4,25
+2194,Customer 1194,39,Other,San Francisco,English,Yes,2022-07-21,2022,7,21
+2195,Customer 1195,41,Male,Los Angeles,German,Yes,2022-08-05,2022,8,5
+2196,Customer 1196,31,Other,Chicago,German,No,NA,NA,NA,NA
+2197,Customer 1197,47,Male,New York,German,No,NA,NA,NA,NA
+2198,Customer 1198,62,Other,New York,French,Yes,2022-01-01,2022,1,1
+2199,Customer 1199,69,Other,Chicago,French,No,NA,NA,NA,NA
+2200,Customer 1200,64,Female,New York,German,Yes,2022-07-03,2022,7,3
+2201,Customer 1201,57,Other,Los Angeles,German,No,NA,NA,NA,NA
+2202,Customer 1202,62,Male,San Francisco,Spanish,Yes,2022-02-28,2022,2,28
+2203,Customer 1203,48,Other,San Francisco,French,No,NA,NA,NA,NA
+2204,Customer 1204,56,Female,San Francisco,French,Yes,2023-02-25,2023,2,25
+2205,Customer 1205,54,Male,New York,Spanish,Yes,2023-10-20,2023,10,20
+2206,Customer 1206,25,Other,Houston,Spanish,No,NA,NA,NA,NA
+2207,Customer 1207,64,Other,Houston,French,No,NA,NA,NA,NA
+2208,Customer 1208,31,Male,San Francisco,English,Yes,2022-07-31,2022,7,31
+2209,Customer 1209,65,Male,Los Angeles,Spanish,No,NA,NA,NA,NA
+2210,Customer 1210,18,Other,San Francisco,French,No,NA,NA,NA,NA
+2211,Customer 1211,40,Male,Los Angeles,French,No,NA,NA,NA,NA
+2212,Customer 1212,43,Male,Los Angeles,French,Yes,2022-10-23,2022,10,23
+2213,Customer 1213,63,Female,Los Angeles,English,Yes,2023-02-25,2023,2,25
+2214,Customer 1214,40,Other,Los Angeles,English,No,NA,NA,NA,NA
+2215,Customer 1215,48,Male,Chicago,Spanish,No,NA,NA,NA,NA
+2216,Customer 1216,38,Male,Houston,French,No,NA,NA,NA,NA
+2217,Customer 1217,34,Other,New York,German,Yes,2022-07-22,2022,7,22
+2218,Customer 1218,56,Female,Houston,French,No,NA,NA,NA,NA
+2219,Customer 1219,24,Female,New York,German,No,NA,NA,NA,NA
+2220,Customer 1220,62,Female,New York,German,No,NA,NA,NA,NA
+2221,Customer 1221,64,Female,San Francisco,French,Yes,2022-09-14,2022,9,14
+2222,Customer 1222,29,Male,New York,German,No,NA,NA,NA,NA
+2223,Customer 1223,49,Female,Houston,German,Yes,2022-09-13,2022,9,13
+2224,Customer 1224,63,Other,San Francisco,Spanish,Yes,2023-01-19,2023,1,19
+2225,Customer 1225,36,Female,Houston,French,No,NA,NA,NA,NA
+2226,Customer 1226,36,Other,San Francisco,English,No,NA,NA,NA,NA
+2227,Customer 1227,42,Male,Los Angeles,English,No,NA,NA,NA,NA
+2228,Customer 1228,34,Female,Houston,French,No,NA,NA,NA,NA
+2229,Customer 1229,26,Male,Los Angeles,German,No,NA,NA,NA,NA
+2230,Customer 1230,62,Other,Chicago,English,Yes,2022-09-06,2022,9,6
+2231,Customer 1231,63,Other,Los Angeles,French,No,NA,NA,NA,NA
+2232,Customer 1232,40,Other,Chicago,German,Yes,2022-06-26,2022,6,26
+2233,Customer 1233,48,Other,New York,German,No,NA,NA,NA,NA
+2234,Customer 1234,55,Female,Chicago,Spanish,Yes,2022-01-14,2022,1,14
+2235,Customer 1235,50,Other,New York,Spanish,Yes,2022-03-15,2022,3,15
+2236,Customer 1236,33,Male,Houston,German,No,NA,NA,NA,NA
+2237,Customer 1237,25,Male,New York,Spanish,No,NA,NA,NA,NA
+2238,Customer 1238,22,Other,Houston,French,No,NA,NA,NA,NA
+2239,Customer 1239,27,Other,Houston,Spanish,No,NA,NA,NA,NA
+2240,Customer 1240,58,Male,Houston,Spanish,Yes,2022-05-14,2022,5,14
+2241,Customer 1241,45,Male,Los Angeles,English,No,NA,NA,NA,NA
+2242,Customer 1242,54,Other,San Francisco,French,Yes,2023-02-10,2023,2,10
+2243,Customer 1243,63,Female,Chicago,Spanish,No,NA,NA,NA,NA
+2244,Customer 1244,36,Male,Houston,French,Yes,2022-05-25,2022,5,25
+2245,Customer 1245,50,Female,New York,German,Yes,2022-05-22,2022,5,22
+2246,Customer 1246,33,Other,Chicago,French,Yes,2022-03-17,2022,3,17
+2247,Customer 1247,23,Other,New York,English,Yes,2023-09-29,2023,9,29
+2248,Customer 1248,69,Male,San Francisco,French,Yes,2022-02-14,2022,2,14
+2249,Customer 1249,25,Male,Los Angeles,Spanish,Yes,2022-01-01,2022,1,1
+2250,Customer 1250,42,Other,New York,English,Yes,2023-04-10,2023,4,10
+2251,Customer 1251,31,Female,Los Angeles,Spanish,No,NA,NA,NA,NA
+2252,Customer 1252,48,Female,Los Angeles,English,No,NA,NA,NA,NA
+2253,Customer 1253,63,Male,Houston,Spanish,Yes,2023-02-06,2023,2,6
+2254,Customer 1254,42,Other,Chicago,English,No,NA,NA,NA,NA
+2255,Customer 1255,25,Male,New York,Spanish,No,NA,NA,NA,NA
+2256,Customer 1256,60,Other,San Francisco,Spanish,Yes,2022-09-11,2022,9,11
+2257,Customer 1257,69,Other,San Francisco,German,Yes,2022-10-21,2022,10,21
+2258,Customer 1258,41,Female,Chicago,German,Yes,2023-03-07,2023,3,7
+2259,Customer 1259,22,Male,Los Angeles,German,Yes,2023-07-12,2023,7,12
+2260,Customer 1260,31,Other,Chicago,French,Yes,2022-08-16,2022,8,16
+2261,Customer 1261,50,Female,Chicago,Spanish,No,NA,NA,NA,NA
+2262,Customer 1262,18,Male,Houston,Spanish,Yes,2023-04-27,2023,4,27
+2263,Customer 1263,54,Male,Los Angeles,English,No,NA,NA,NA,NA
+2264,Customer 1264,52,Other,Los Angeles,German,Yes,2022-09-21,2022,9,21
+2265,Customer 1265,21,Female,New York,French,Yes,2022-09-06,2022,9,6
+2266,Customer 1266,52,Other,Chicago,English,Yes,2023-03-24,2023,3,24
+2267,Customer 1267,63,Other,Houston,Spanish,No,NA,NA,NA,NA
+2268,Customer 1268,35,Female,Houston,English,No,NA,NA,NA,NA
+2269,Customer 1269,27,Female,New York,French,No,NA,NA,NA,NA
+2270,Customer 1270,29,Male,New York,French,No,NA,NA,NA,NA
+2271,Customer 1271,65,Male,Los Angeles,Spanish,Yes,2022-10-20,2022,10,20
+2272,Customer 1272,20,Other,Los Angeles,German,Yes,2023-11-22,2023,11,22
+2273,Customer 1273,43,Female,New York,Spanish,No,NA,NA,NA,NA
+2274,Customer 1274,29,Other,New York,French,No,NA,NA,NA,NA
+2275,Customer 1275,54,Female,Chicago,English,Yes,2022-09-16,2022,9,16
+2276,Customer 1276,62,Male,New York,English,No,NA,NA,NA,NA
+2277,Customer 1277,25,Male,New York,German,Yes,2022-12-03,2022,12,3
+2278,Customer 1278,34,Female,Houston,French,No,NA,NA,NA,NA
+2279,Customer 1279,22,Other,New York,English,Yes,2022-07-08,2022,7,8
+2280,Customer 1280,36,Female,Houston,French,Yes,2022-11-25,2022,11,25
+2281,Customer 1281,55,Male,San Francisco,Spanish,No,NA,NA,NA,NA
+2282,Customer 1282,49,Other,Chicago,German,No,NA,NA,NA,NA
+2283,Customer 1283,19,Male,New York,Spanish,Yes,2022-12-14,2022,12,14
+2284,Customer 1284,34,Male,Chicago,English,Yes,2022-05-11,2022,5,11
+2285,Customer 1285,66,Other,Chicago,English,No,NA,NA,NA,NA
+2286,Customer 1286,25,Other,New York,Spanish,Yes,2023-12-29,2023,12,29
+2287,Customer 1287,68,Other,New York,German,No,NA,NA,NA,NA
+2288,Customer 1288,35,Female,Houston,Spanish,Yes,2023-04-27,2023,4,27
+2289,Customer 1289,43,Male,Houston,Spanish,No,NA,NA,NA,NA
+2290,Customer 1290,47,Female,Houston,French,Yes,2023-04-26,2023,4,26
+2291,Customer 1291,36,Male,Houston,German,Yes,2022-10-24,2022,10,24
+2292,Customer 1292,22,Other,San Francisco,English,No,NA,NA,NA,NA
+2293,Customer 1293,46,Female,New York,Spanish,No,NA,NA,NA,NA
+2294,Customer 1294,46,Other,Los Angeles,German,Yes,2023-10-27,2023,10,27
+2295,Customer 1295,63,Male,New York,German,No,NA,NA,NA,NA
+2296,Customer 1296,29,Female,San Francisco,French,Yes,2022-09-21,2022,9,21
+2297,Customer 1297,18,Other,Los Angeles,German,Yes,2023-12-29,2023,12,29
+2298,Customer 1298,65,Male,Houston,German,No,NA,NA,NA,NA
+2299,Customer 1299,47,Other,New York,English,Yes,2022-12-24,2022,12,24
+2300,Customer 1300,67,Other,Chicago,Spanish,No,NA,NA,NA,NA
+2301,Customer 1301,69,Male,Los Angeles,French,No,NA,NA,NA,NA
+2302,Customer 1302,24,Female,San Francisco,French,Yes,2022-11-11,2022,11,11
+2303,Customer 1303,22,Female,San Francisco,German,Yes,2022-07-03,2022,7,3
+2304,Customer 1304,27,Other,New York,Spanish,No,NA,NA,NA,NA
+2305,Customer 1305,53,Other,San Francisco,French,Yes,2022-10-09,2022,10,9
+2306,Customer 1306,25,Other,New York,English,Yes,2022-12-28,2022,12,28
+2307,Customer 1307,66,Female,Los Angeles,English,No,NA,NA,NA,NA
+2308,Customer 1308,48,Male,Los Angeles,French,Yes,2023-01-23,2023,1,23
+2309,Customer 1309,22,Other,Los Angeles,French,Yes,2022-08-17,2022,8,17
+2310,Customer 1310,56,Female,New York,French,Yes,2023-05-09,2023,5,9
+2311,Customer 1311,39,Female,Houston,Spanish,No,NA,NA,NA,NA
+2312,Customer 1312,29,Male,Houston,French,Yes,2023-08-09,2023,8,9
+2313,Customer 1313,62,Male,Houston,Spanish,Yes,2023-10-20,2023,10,20
+2314,Customer 1314,27,Female,San Francisco,French,Yes,2023-05-29,2023,5,29
+2315,Customer 1315,46,Other,San Francisco,German,No,NA,NA,NA,NA
+2316,Customer 1316,47,Male,San Francisco,German,Yes,2023-10-16,2023,10,16
+2317,Customer 1317,18,Female,Houston,English,Yes,2023-06-09,2023,6,9
+2318,Customer 1318,64,Other,Houston,French,No,NA,NA,NA,NA
+2319,Customer 1319,31,Other,New York,German,No,NA,NA,NA,NA
+2320,Customer 1320,24,Female,Los Angeles,German,Yes,2023-06-22,2023,6,22
+2321,Customer 1321,51,Female,Chicago,German,No,NA,NA,NA,NA
+2322,Customer 1322,27,Male,Los Angeles,English,No,NA,NA,NA,NA
+2323,Customer 1323,70,Other,Los Angeles,English,No,NA,NA,NA,NA
+2324,Customer 1324,32,Other,Houston,German,No,NA,NA,NA,NA
+2325,Customer 1325,36,Male,Chicago,English,No,NA,NA,NA,NA
+2326,Customer 1326,35,Male,New York,German,Yes,2022-06-12,2022,6,12
+2327,Customer 1327,63,Female,Houston,English,No,NA,NA,NA,NA
+2328,Customer 1328,39,Female,New York,German,Yes,2023-07-22,2023,7,22
+2329,Customer 1329,35,Male,Chicago,French,Yes,2023-11-29,2023,11,29
+2330,Customer 1330,68,Female,Houston,Spanish,Yes,2023-05-27,2023,5,27
+2331,Customer 1331,20,Male,Chicago,English,No,NA,NA,NA,NA
+2332,Customer 1332,60,Other,New York,Spanish,No,NA,NA,NA,NA
+2333,Customer 1333,69,Male,New York,Spanish,Yes,2022-08-10,2022,8,10
+2334,Customer 1334,54,Male,Houston,English,Yes,2023-01-11,2023,1,11
+2335,Customer 1335,63,Other,Houston,English,No,NA,NA,NA,NA
+2336,Customer 1336,35,Female,Los Angeles,English,No,NA,NA,NA,NA
+2337,Customer 1337,58,Female,Chicago,French,No,NA,NA,NA,NA
+2338,Customer 1338,18,Male,New York,Spanish,No,NA,NA,NA,NA
+2339,Customer 1339,56,Other,New York,Spanish,Yes,2023-12-02,2023,12,2
+2340,Customer 1340,32,Female,Houston,French,Yes,2022-02-18,2022,2,18
+2341,Customer 1341,66,Male,New York,French,No,NA,NA,NA,NA
+2342,Customer 1342,23,Female,San Francisco,German,No,NA,NA,NA,NA
+2343,Customer 1343,62,Female,Los Angeles,Spanish,Yes,2023-09-09,2023,9,9
+2344,Customer 1344,50,Other,New York,Spanish,Yes,2022-10-10,2022,10,10
+2345,Customer 1345,55,Female,Houston,English,Yes,2022-10-03,2022,10,3
+2346,Customer 1346,57,Male,San Francisco,French,Yes,2023-05-07,2023,5,7
+2347,Customer 1347,27,Other,Chicago,French,Yes,2023-11-27,2023,11,27
+2348,Customer 1348,51,Female,Chicago,Spanish,No,NA,NA,NA,NA
+2349,Customer 1349,70,Male,New York,French,Yes,2023-01-03,2023,1,3
+2350,Customer 1350,43,Female,Los Angeles,French,No,NA,NA,NA,NA
+2351,Customer 1351,35,Other,Houston,German,No,NA,NA,NA,NA
+2352,Customer 1352,22,Female,Chicago,French,Yes,2022-12-01,2022,12,1
+2353,Customer 1353,52,Other,New York,German,Yes,2023-12-04,2023,12,4
+2354,Customer 1354,23,Other,Houston,French,Yes,2022-09-22,2022,9,22
+2355,Customer 1355,46,Female,New York,Spanish,No,NA,NA,NA,NA
+2356,Customer 1356,60,Female,Chicago,Spanish,Yes,2023-11-27,2023,11,27
+2357,Customer 1357,26,Other,Houston,Spanish,Yes,2023-05-24,2023,5,24
+2358,Customer 1358,39,Female,Houston,German,No,NA,NA,NA,NA
+2359,Customer 1359,37,Female,Los Angeles,English,Yes,2023-03-12,2023,3,12
+2360,Customer 1360,64,Female,Houston,German,Yes,2022-03-04,2022,3,4
+2361,Customer 1361,47,Female,New York,German,Yes,2022-06-30,2022,6,30
+2362,Customer 1362,67,Male,Los Angeles,German,Yes,2023-06-22,2023,6,22
+2363,Customer 1363,56,Other,Houston,English,Yes,2023-12-25,2023,12,25
+2364,Customer 1364,58,Female,Los Angeles,English,Yes,2022-09-19,2022,9,19
+2365,Customer 1365,31,Other,Houston,Spanish,Yes,2023-11-21,2023,11,21
+2366,Customer 1366,46,Female,Los Angeles,English,Yes,2023-07-31,2023,7,31
+2367,Customer 1367,28,Female,New York,German,No,NA,NA,NA,NA
+2368,Customer 1368,37,Other,Chicago,English,No,NA,NA,NA,NA
+2369,Customer 1369,34,Female,New York,English,No,NA,NA,NA,NA
+2370,Customer 1370,61,Other,Houston,English,No,NA,NA,NA,NA
+2371,Customer 1371,41,Other,Chicago,Spanish,No,NA,NA,NA,NA
+2372,Customer 1372,61,Female,New York,French,No,NA,NA,NA,NA
+2373,Customer 1373,68,Female,Los Angeles,Spanish,No,NA,NA,NA,NA
+2374,Customer 1374,42,Other,Los Angeles,Spanish,No,NA,NA,NA,NA
+2375,Customer 1375,30,Female,Los Angeles,English,Yes,2023-06-23,2023,6,23
+2376,Customer 1376,29,Male,Houston,English,No,NA,NA,NA,NA
+2377,Customer 1377,23,Other,Chicago,English,Yes,2022-02-01,2022,2,1
+2378,Customer 1378,20,Other,San Francisco,German,No,NA,NA,NA,NA
+2379,Customer 1379,45,Female,San Francisco,German,No,NA,NA,NA,NA
+2380,Customer 1380,61,Other,Chicago,German,No,NA,NA,NA,NA
+2381,Customer 1381,61,Male,Chicago,French,No,NA,NA,NA,NA
+2382,Customer 1382,28,Female,Chicago,Spanish,Yes,2022-11-13,2022,11,13
+2383,Customer 1383,36,Male,Los Angeles,Spanish,No,NA,NA,NA,NA
+2384,Customer 1384,28,Male,Chicago,Spanish,Yes,2023-05-13,2023,5,13
+2385,Customer 1385,53,Male,San Francisco,Spanish,Yes,2022-01-27,2022,1,27
+2386,Customer 1386,39,Other,Chicago,German,Yes,2023-01-29,2023,1,29
+2387,Customer 1387,28,Other,San Francisco,French,Yes,2023-09-14,2023,9,14
+2388,Customer 1388,44,Female,San Francisco,English,Yes,2022-10-31,2022,10,31
+2389,Customer 1389,19,Female,Chicago,English,Yes,2023-07-28,2023,7,28
+2390,Customer 1390,56,Male,Chicago,English,No,NA,NA,NA,NA
+2391,Customer 1391,23,Other,Chicago,French,No,NA,NA,NA,NA
+2392,Customer 1392,56,Male,New York,English,No,NA,NA,NA,NA
+2393,Customer 1393,53,Other,New York,French,Yes,2023-04-16,2023,4,16
+2394,Customer 1394,65,Female,New York,French,Yes,2023-10-12,2023,10,12
+2395,Customer 1395,45,Female,New York,English,Yes,2022-01-22,2022,1,22
+2396,Customer 1396,46,Male,Los Angeles,German,Yes,2022-04-07,2022,4,7
+2397,Customer 1397,21,Other,San Francisco,German,Yes,2023-06-06,2023,6,6
+2398,Customer 1398,58,Female,San Francisco,French,No,NA,NA,NA,NA
+2399,Customer 1399,22,Other,Houston,English,Yes,2023-07-23,2023,7,23
+2400,Customer 1400,65,Male,New York,English,No,NA,NA,NA,NA
+2401,Customer 1401,48,Male,Los Angeles,French,No,NA,NA,NA,NA
+2402,Customer 1402,60,Other,Chicago,English,No,NA,NA,NA,NA
+2403,Customer 1403,65,Other,Houston,German,No,NA,NA,NA,NA
+2404,Customer 1404,26,Male,Chicago,Spanish,Yes,2023-11-16,2023,11,16
+2405,Customer 1405,36,Male,New York,German,No,NA,NA,NA,NA
+2406,Customer 1406,45,Other,Chicago,German,No,NA,NA,NA,NA
+2407,Customer 1407,32,Female,New York,Spanish,Yes,2022-06-02,2022,6,2
+2408,Customer 1408,28,Male,Chicago,French,No,NA,NA,NA,NA
+2409,Customer 1409,46,Female,Chicago,English,Yes,2022-11-06,2022,11,6
+2410,Customer 1410,34,Male,Houston,German,Yes,2022-07-21,2022,7,21
+2411,Customer 1411,58,Other,San Francisco,English,No,NA,NA,NA,NA
+2412,Customer 1412,42,Female,San Francisco,French,No,NA,NA,NA,NA
+2413,Customer 1413,64,Female,Chicago,German,Yes,2023-07-29,2023,7,29
+2414,Customer 1414,29,Other,Chicago,English,No,NA,NA,NA,NA
+2415,Customer 1415,36,Female,New York,English,Yes,2022-08-16,2022,8,16
+2416,Customer 1416,69,Female,Los Angeles,English,Yes,2022-10-04,2022,10,4
+2417,Customer 1417,24,Male,Los Angeles,English,No,NA,NA,NA,NA
+2418,Customer 1418,28,Female,San Francisco,German,No,NA,NA,NA,NA
+2419,Customer 1419,32,Female,Los Angeles,German,Yes,2023-02-14,2023,2,14
+2420,Customer 1420,26,Other,Chicago,French,Yes,2022-03-30,2022,3,30
+2421,Customer 1421,63,Female,Los Angeles,English,No,NA,NA,NA,NA
+2422,Customer 1422,41,Male,Houston,English,No,NA,NA,NA,NA
+2423,Customer 1423,36,Other,New York,Spanish,No,NA,NA,NA,NA
+2424,Customer 1424,28,Female,Chicago,Spanish,No,NA,NA,NA,NA
+2425,Customer 1425,50,Other,San Francisco,English,No,NA,NA,NA,NA
+2426,Customer 1426,26,Other,Chicago,French,Yes,2023-01-26,2023,1,26
+2427,Customer 1427,58,Female,Houston,German,No,NA,NA,NA,NA
+2428,Customer 1428,40,Male,Chicago,Spanish,No,NA,NA,NA,NA
+2429,Customer 1429,34,Other,San Francisco,English,No,NA,NA,NA,NA
+2430,Customer 1430,27,Other,Houston,English,Yes,2022-02-06,2022,2,6
+2431,Customer 1431,25,Male,Houston,French,Yes,2023-01-26,2023,1,26
+2432,Customer 1432,35,Other,New York,English,Yes,2022-09-18,2022,9,18
+2433,Customer 1433,41,Male,Los Angeles,Spanish,Yes,2022-05-04,2022,5,4
+2434,Customer 1434,55,Female,Chicago,Spanish,No,NA,NA,NA,NA
+2435,Customer 1435,42,Other,New York,Spanish,Yes,2022-04-17,2022,4,17
+2436,Customer 1436,67,Male,New York,Spanish,No,NA,NA,NA,NA
+2437,Customer 1437,24,Other,Chicago,French,No,NA,NA,NA,NA
+2438,Customer 1438,56,Female,Chicago,German,No,NA,NA,NA,NA
+2439,Customer 1439,29,Other,Chicago,French,No,NA,NA,NA,NA
+2440,Customer 1440,58,Male,Chicago,German,Yes,2022-08-17,2022,8,17
+2441,Customer 1441,33,Female,Houston,French,No,NA,NA,NA,NA
+2442,Customer 1442,20,Other,Los Angeles,French,No,NA,NA,NA,NA
+2443,Customer 1443,48,Female,San Francisco,French,Yes,2023-06-14,2023,6,14
+2444,Customer 1444,52,Female,Houston,English,Yes,2023-06-09,2023,6,9
+2445,Customer 1445,38,Other,San Francisco,Spanish,No,NA,NA,NA,NA
+2446,Customer 1446,63,Male,Houston,Spanish,No,NA,NA,NA,NA
+2447,Customer 1447,51,Other,San Francisco,German,No,NA,NA,NA,NA
+2448,Customer 1448,45,Other,New York,English,Yes,2023-06-02,2023,6,2
+2449,Customer 1449,53,Female,Houston,Spanish,No,NA,NA,NA,NA
+2450,Customer 1450,43,Female,Chicago,Spanish,Yes,2023-07-20,2023,7,20
+2451,Customer 1451,18,Other,San Francisco,German,Yes,2023-12-02,2023,12,2
+2452,Customer 1452,43,Female,New York,German,Yes,2023-10-07,2023,10,7
+2453,Customer 1453,38,Female,San Francisco,German,No,NA,NA,NA,NA
+2454,Customer 1454,59,Male,New York,Spanish,No,NA,NA,NA,NA
+2455,Customer 1455,38,Male,Los Angeles,Spanish,Yes,2023-05-06,2023,5,6
+2456,Customer 1456,55,Male,Los Angeles,English,No,NA,NA,NA,NA
+2457,Customer 1457,52,Other,Houston,Spanish,No,NA,NA,NA,NA
+2458,Customer 1458,47,Female,Los Angeles,French,Yes,2022-05-27,2022,5,27
+2459,Customer 1459,29,Other,New York,German,No,NA,NA,NA,NA
+2460,Customer 1460,50,Male,New York,Spanish,Yes,2022-08-13,2022,8,13
+2461,Customer 1461,61,Female,San Francisco,Spanish,Yes,2022-02-01,2022,2,1
+2462,Customer 1462,30,Other,Los Angeles,English,Yes,2023-10-01,2023,10,1
+2463,Customer 1463,67,Female,New York,Spanish,No,NA,NA,NA,NA
+2464,Customer 1464,50,Other,New York,Spanish,No,NA,NA,NA,NA
+2465,Customer 1465,41,Female,New York,French,No,NA,NA,NA,NA
+2466,Customer 1466,26,Female,New York,English,No,NA,NA,NA,NA
+2467,Customer 1467,48,Male,Houston,German,Yes,2022-02-17,2022,2,17
+2468,Customer 1468,49,Other,Houston,English,Yes,2022-03-24,2022,3,24
+2469,Customer 1469,19,Male,New York,Spanish,Yes,2022-01-19,2022,1,19
+2470,Customer 1470,48,Female,New York,French,Yes,2022-05-24,2022,5,24
+2471,Customer 1471,44,Female,Houston,German,Yes,2023-01-17,2023,1,17
+2472,Customer 1472,52,Male,Chicago,German,Yes,2023-03-05,2023,3,5
+2473,Customer 1473,50,Other,Los Angeles,German,No,NA,NA,NA,NA
+2474,Customer 1474,40,Female,Houston,Spanish,Yes,2023-06-15,2023,6,15
+2475,Customer 1475,67,Male,Chicago,Spanish,Yes,2022-08-30,2022,8,30
+2476,Customer 1476,54,Other,Houston,German,Yes,2022-06-29,2022,6,29
+2477,Customer 1477,27,Other,San Francisco,French,Yes,2022-03-22,2022,3,22
+2478,Customer 1478,60,Male,Houston,Spanish,Yes,2022-08-22,2022,8,22
+2479,Customer 1479,36,Female,Los Angeles,French,Yes,2023-05-28,2023,5,28
+2480,Customer 1480,33,Other,San Francisco,German,Yes,2022-03-28,2022,3,28
+2481,Customer 1481,64,Male,Chicago,Spanish,No,NA,NA,NA,NA
+2482,Customer 1482,56,Male,San Francisco,English,Yes,2023-06-14,2023,6,14
+2483,Customer 1483,49,Female,Chicago,English,Yes,2023-08-02,2023,8,2
+2484,Customer 1484,65,Female,Los Angeles,French,No,NA,NA,NA,NA
+2485,Customer 1485,67,Male,Chicago,French,No,NA,NA,NA,NA
+2486,Customer 1486,36,Female,Los Angeles,Spanish,Yes,2022-11-22,2022,11,22
+2487,Customer 1487,21,Female,Chicago,Spanish,No,NA,NA,NA,NA
+2488,Customer 1488,68,Female,Chicago,German,Yes,2023-10-31,2023,10,31
+2489,Customer 1489,52,Male,Los Angeles,French,No,NA,NA,NA,NA
+2490,Customer 1490,51,Other,New York,English,No,NA,NA,NA,NA
+2491,Customer 1491,46,Other,Los Angeles,German,No,NA,NA,NA,NA
+2492,Customer 1492,30,Other,Los Angeles,German,Yes,2023-04-23,2023,4,23
+2493,Customer 1493,53,Female,New York,French,Yes,2023-04-04,2023,4,4
+2494,Customer 1494,37,Female,Los Angeles,German,Yes,2022-09-11,2022,9,11
+2495,Customer 1495,55,Female,Houston,German,No,NA,NA,NA,NA
+2496,Customer 1496,20,Male,New York,English,Yes,2023-10-29,2023,10,29
+2497,Customer 1497,42,Other,San Francisco,English,No,NA,NA,NA,NA
+2498,Customer 1498,38,Female,San Francisco,Spanish,Yes,2022-03-05,2022,3,5
+2499,Customer 1499,70,Male,Chicago,English,No,NA,NA,NA,NA
+2500,Customer 1500,57,Other,New York,French,Yes,2023-11-20,2023,11,20
+2501,Customer 1501,22,Female,Chicago,English,Yes,2023-06-08,2023,6,8
+2502,Customer 1502,22,Female,Los Angeles,English,No,NA,NA,NA,NA
+2503,Customer 1503,36,Male,Houston,German,No,NA,NA,NA,NA
+2504,Customer 1504,61,Other,Houston,French,Yes,2022-11-14,2022,11,14
+2505,Customer 1505,47,Female,Los Angeles,Spanish,Yes,2023-12-27,2023,12,27
+2506,Customer 1506,24,Other,Los Angeles,German,Yes,2022-11-22,2022,11,22
+2507,Customer 1507,63,Male,San Francisco,French,No,NA,NA,NA,NA
+2508,Customer 1508,34,Female,Houston,German,No,NA,NA,NA,NA
+2509,Customer 1509,46,Female,New York,English,No,NA,NA,NA,NA
+2510,Customer 1510,51,Male,Houston,English,No,NA,NA,NA,NA
+2511,Customer 1511,34,Female,Houston,Spanish,Yes,2022-04-11,2022,4,11
+2512,Customer 1512,28,Other,New York,French,No,NA,NA,NA,NA
+2513,Customer 1513,31,Male,San Francisco,French,No,NA,NA,NA,NA
+2514,Customer 1514,57,Other,Los Angeles,French,No,NA,NA,NA,NA
+2515,Customer 1515,50,Female,San Francisco,French,Yes,2023-03-06,2023,3,6
+2516,Customer 1516,51,Other,Los Angeles,Spanish,Yes,2022-09-07,2022,9,7
+2517,Customer 1517,27,Female,Los Angeles,Spanish,Yes,2023-08-09,2023,8,9
+2518,Customer 1518,51,Male,Houston,Spanish,Yes,2022-02-05,2022,2,5
+2519,Customer 1519,55,Male,Los Angeles,Spanish,No,NA,NA,NA,NA
+2520,Customer 1520,30,Other,Chicago,English,Yes,2022-10-28,2022,10,28
+2521,Customer 1521,29,Female,New York,French,No,NA,NA,NA,NA
+2522,Customer 1522,52,Female,Los Angeles,English,Yes,2023-10-26,2023,10,26
+2523,Customer 1523,57,Male,Chicago,French,No,NA,NA,NA,NA
+2524,Customer 1524,50,Male,Chicago,French,Yes,2022-10-10,2022,10,10
+2525,Customer 1525,63,Female,Chicago,French,Yes,2022-05-19,2022,5,19
+2526,Customer 1526,60,Female,San Francisco,Spanish,No,NA,NA,NA,NA
+2527,Customer 1527,28,Female,Houston,English,No,NA,NA,NA,NA
+2528,Customer 1528,25,Male,Houston,English,Yes,2022-09-29,2022,9,29
+2529,Customer 1529,34,Female,Los Angeles,English,Yes,2023-07-27,2023,7,27
+2530,Customer 1530,21,Male,Chicago,English,Yes,2022-03-01,2022,3,1
+2531,Customer 1531,29,Other,San Francisco,Spanish,Yes,2023-12-16,2023,12,16
+2532,Customer 1532,64,Other,Houston,English,No,NA,NA,NA,NA
+2533,Customer 1533,31,Other,Chicago,French,No,NA,NA,NA,NA
+2534,Customer 1534,68,Other,Chicago,German,No,NA,NA,NA,NA
+2535,Customer 1535,44,Male,Chicago,Spanish,No,NA,NA,NA,NA
+2536,Customer 1536,28,Male,Houston,French,Yes,2023-07-14,2023,7,14
+2537,Customer 1537,66,Other,Houston,English,Yes,2022-10-31,2022,10,31
+2538,Customer 1538,46,Other,Chicago,German,No,NA,NA,NA,NA
+2539,Customer 1539,55,Other,Chicago,Spanish,Yes,2022-01-18,2022,1,18
+2540,Customer 1540,61,Other,Los Angeles,English,No,NA,NA,NA,NA
+2541,Customer 1541,36,Other,Houston,Spanish,No,NA,NA,NA,NA
+2542,Customer 1542,38,Female,Los Angeles,English,Yes,2023-07-07,2023,7,7
+2543,Customer 1543,66,Other,Los Angeles,English,No,NA,NA,NA,NA
+2544,Customer 1544,23,Female,New York,French,No,NA,NA,NA,NA
+2545,Customer 1545,22,Female,New York,English,No,NA,NA,NA,NA
+2546,Customer 1546,66,Other,New York,French,No,NA,NA,NA,NA
+2547,Customer 1547,41,Female,Houston,English,Yes,2023-09-14,2023,9,14
+2548,Customer 1548,33,Male,New York,English,No,NA,NA,NA,NA
+2549,Customer 1549,26,Male,Los Angeles,English,Yes,2023-09-18,2023,9,18
+2550,Customer 1550,60,Male,Los Angeles,English,Yes,2022-01-22,2022,1,22
+2551,Customer 1551,54,Male,San Francisco,French,No,NA,NA,NA,NA
+2552,Customer 1552,31,Male,New York,German,No,NA,NA,NA,NA
+2553,Customer 1553,22,Male,San Francisco,English,Yes,2022-04-17,2022,4,17
+2554,Customer 1554,60,Other,Chicago,Spanish,No,NA,NA,NA,NA
+2555,Customer 1555,47,Female,San Francisco,English,Yes,2022-10-18,2022,10,18
+2556,Customer 1556,62,Male,Houston,French,Yes,2023-02-23,2023,2,23
+2557,Customer 1557,69,Male,San Francisco,English,No,NA,NA,NA,NA
+2558,Customer 1558,21,Other,Houston,German,No,NA,NA,NA,NA
+2559,Customer 1559,21,Male,Los Angeles,Spanish,No,NA,NA,NA,NA
+2560,Customer 1560,60,Other,Houston,German,Yes,2023-06-13,2023,6,13
+2561,Customer 1561,49,Female,Los Angeles,French,No,NA,NA,NA,NA
+2562,Customer 1562,45,Male,Chicago,English,No,NA,NA,NA,NA
+2563,Customer 1563,38,Female,Los Angeles,Spanish,Yes,2023-10-19,2023,10,19
+2564,Customer 1564,69,Female,San Francisco,German,No,NA,NA,NA,NA
+2565,Customer 1565,23,Male,Los Angeles,French,No,NA,NA,NA,NA
+2566,Customer 1566,59,Female,Los Angeles,German,No,NA,NA,NA,NA
+2567,Customer 1567,37,Female,Los Angeles,English,Yes,2022-04-02,2022,4,2
+2568,Customer 1568,34,Other,New York,Spanish,Yes,2023-08-01,2023,8,1
+2569,Customer 1569,28,Female,Houston,Spanish,No,NA,NA,NA,NA
+2570,Customer 1570,57,Male,Los Angeles,French,No,NA,NA,NA,NA
+2571,Customer 1571,38,Male,New York,English,No,NA,NA,NA,NA
+2572,Customer 1572,54,Other,New York,French,Yes,2023-01-20,2023,1,20
+2573,Customer 1573,49,Other,Chicago,English,No,NA,NA,NA,NA
+2574,Customer 1574,36,Male,New York,English,Yes,2023-07-04,2023,7,4
+2575,Customer 1575,60,Male,Chicago,Spanish,Yes,2022-02-15,2022,2,15
+2576,Customer 1576,18,Other,New York,German,Yes,2022-05-17,2022,5,17
+2577,Customer 1577,51,Female,San Francisco,French,No,NA,NA,NA,NA
+2578,Customer 1578,29,Male,Los Angeles,English,Yes,2022-01-04,2022,1,4
+2579,Customer 1579,31,Female,San Francisco,English,No,NA,NA,NA,NA
+2580,Customer 1580,20,Other,Chicago,English,No,NA,NA,NA,NA
+2581,Customer 1581,65,Female,Chicago,Spanish,Yes,2023-04-20,2023,4,20
+2582,Customer 1582,37,Other,San Francisco,German,No,NA,NA,NA,NA
+2583,Customer 1583,43,Other,New York,English,No,NA,NA,NA,NA
+2584,Customer 1584,21,Female,New York,English,No,NA,NA,NA,NA
+2585,Customer 1585,21,Female,Los Angeles,French,Yes,2023-02-20,2023,2,20
+2586,Customer 1586,43,Other,Los Angeles,German,No,NA,NA,NA,NA
+2587,Customer 1587,18,Female,Chicago,German,No,NA,NA,NA,NA
+2588,Customer 1588,42,Female,Chicago,Spanish,Yes,2022-06-15,2022,6,15
+2589,Customer 1589,34,Female,Houston,French,No,NA,NA,NA,NA
+2590,Customer 1590,38,Male,Chicago,German,Yes,2022-07-26,2022,7,26
+2591,Customer 1591,53,Male,New York,English,No,NA,NA,NA,NA
+2592,Customer 1592,34,Other,Houston,Spanish,Yes,2022-04-21,2022,4,21
+2593,Customer 1593,56,Other,New York,Spanish,Yes,2022-11-27,2022,11,27
+2594,Customer 1594,22,Female,Los Angeles,German,No,NA,NA,NA,NA
+2595,Customer 1595,46,Male,Houston,French,No,NA,NA,NA,NA
+2596,Customer 1596,26,Female,Houston,German,Yes,2022-12-30,2022,12,30
+2597,Customer 1597,48,Other,San Francisco,English,No,NA,NA,NA,NA
+2598,Customer 1598,23,Male,Houston,French,No,NA,NA,NA,NA
+2599,Customer 1599,58,Male,Chicago,English,No,NA,NA,NA,NA
+2600,Customer 1600,48,Female,San Francisco,German,Yes,2023-10-13,2023,10,13
+2601,Customer 1601,52,Male,Houston,Spanish,No,NA,NA,NA,NA
+2602,Customer 1602,26,Other,Houston,French,No,NA,NA,NA,NA
+2603,Customer 1603,66,Female,Los Angeles,French,No,NA,NA,NA,NA
+2604,Customer 1604,52,Female,San Francisco,English,No,NA,NA,NA,NA
+2605,Customer 1605,55,Female,Houston,Spanish,No,NA,NA,NA,NA
+2606,Customer 1606,35,Male,Chicago,German,No,NA,NA,NA,NA
+2607,Customer 1607,34,Female,Chicago,French,Yes,2022-02-16,2022,2,16
+2608,Customer 1608,30,Female,Houston,Spanish,Yes,2023-01-27,2023,1,27
+2609,Customer 1609,61,Female,Chicago,Spanish,Yes,2022-07-06,2022,7,6
+2610,Customer 1610,64,Female,Los Angeles,English,Yes,2022-02-17,2022,2,17
+2611,Customer 1611,46,Female,San Francisco,French,No,NA,NA,NA,NA
+2612,Customer 1612,59,Female,Chicago,French,No,NA,NA,NA,NA
+2613,Customer 1613,70,Female,Houston,Spanish,No,NA,NA,NA,NA
+2614,Customer 1614,33,Male,New York,German,No,NA,NA,NA,NA
+2615,Customer 1615,50,Male,Houston,Spanish,Yes,2023-05-04,2023,5,4
+2616,Customer 1616,55,Female,San Francisco,English,No,NA,NA,NA,NA
+2617,Customer 1617,32,Male,Los Angeles,French,No,NA,NA,NA,NA
+2618,Customer 1618,44,Female,Los Angeles,German,Yes,2022-11-11,2022,11,11
+2619,Customer 1619,39,Other,Houston,German,No,NA,NA,NA,NA
+2620,Customer 1620,25,Male,Houston,French,No,NA,NA,NA,NA
+2621,Customer 1621,18,Other,Chicago,French,No,NA,NA,NA,NA
+2622,Customer 1622,23,Female,Houston,Spanish,No,NA,NA,NA,NA
+2623,Customer 1623,66,Female,San Francisco,French,Yes,2023-09-09,2023,9,9
+2624,Customer 1624,39,Female,Houston,English,No,NA,NA,NA,NA
+2625,Customer 1625,23,Male,Chicago,English,No,NA,NA,NA,NA
+2626,Customer 1626,22,Female,New York,German,Yes,2023-11-18,2023,11,18
+2627,Customer 1627,43,Female,San Francisco,Spanish,Yes,2022-02-10,2022,2,10
+2628,Customer 1628,26,Female,New York,French,No,NA,NA,NA,NA
+2629,Customer 1629,48,Male,Los Angeles,French,No,NA,NA,NA,NA
+2630,Customer 1630,59,Female,Chicago,Spanish,No,NA,NA,NA,NA
+2631,Customer 1631,20,Male,New York,French,Yes,2023-09-20,2023,9,20
+2632,Customer 1632,58,Other,San Francisco,English,No,NA,NA,NA,NA
+2633,Customer 1633,49,Female,Houston,German,No,NA,NA,NA,NA
+2634,Customer 1634,70,Female,New York,Spanish,Yes,2022-03-23,2022,3,23
+2635,Customer 1635,40,Other,Los Angeles,German,No,NA,NA,NA,NA
+2636,Customer 1636,35,Other,San Francisco,Spanish,No,NA,NA,NA,NA
+2637,Customer 1637,39,Female,Chicago,French,No,NA,NA,NA,NA
+2638,Customer 1638,40,Female,Houston,German,No,NA,NA,NA,NA
+2639,Customer 1639,68,Female,Chicago,German,No,NA,NA,NA,NA
+2640,Customer 1640,42,Female,Los Angeles,French,No,NA,NA,NA,NA
+2641,Customer 1641,55,Female,San Francisco,German,No,NA,NA,NA,NA
+2642,Customer 1642,47,Female,San Francisco,Spanish,Yes,2022-09-20,2022,9,20
+2643,Customer 1643,55,Female,San Francisco,French,No,NA,NA,NA,NA
+2644,Customer 1644,57,Male,San Francisco,Spanish,No,NA,NA,NA,NA
+2645,Customer 1645,21,Male,Los Angeles,Spanish,No,NA,NA,NA,NA
+2646,Customer 1646,34,Male,Los Angeles,French,No,NA,NA,NA,NA
+2647,Customer 1647,69,Male,Houston,English,Yes,2022-11-10,2022,11,10
+2648,Customer 1648,23,Female,Chicago,Spanish,No,NA,NA,NA,NA
+2649,Customer 1649,43,Female,Los Angeles,English,Yes,2022-06-28,2022,6,28
+2650,Customer 1650,56,Male,Houston,English,Yes,2022-10-16,2022,10,16
+2651,Customer 1651,49,Male,Houston,German,No,NA,NA,NA,NA
+2652,Customer 1652,44,Female,Los Angeles,Spanish,No,NA,NA,NA,NA
+2653,Customer 1653,56,Female,New York,French,Yes,2023-03-05,2023,3,5
+2654,Customer 1654,28,Female,Los Angeles,English,Yes,2022-05-08,2022,5,8
+2655,Customer 1655,38,Other,New York,English,No,NA,NA,NA,NA
+2656,Customer 1656,50,Male,New York,English,No,NA,NA,NA,NA
+2657,Customer 1657,68,Female,Los Angeles,English,No,NA,NA,NA,NA
+2658,Customer 1658,25,Female,New York,Spanish,Yes,2022-11-05,2022,11,5
+2659,Customer 1659,34,Female,San Francisco,English,Yes,2022-12-27,2022,12,27
+2660,Customer 1660,47,Female,Los Angeles,English,No,NA,NA,NA,NA
+2661,Customer 1661,31,Female,Houston,French,No,NA,NA,NA,NA
+2662,Customer 1662,41,Other,Chicago,French,Yes,2022-06-17,2022,6,17
+2663,Customer 1663,24,Male,San Francisco,Spanish,Yes,2023-03-03,2023,3,3
+2664,Customer 1664,20,Female,San Francisco,French,Yes,2023-02-20,2023,2,20
+2665,Customer 1665,50,Male,Los Angeles,French,No,NA,NA,NA,NA
+2666,Customer 1666,41,Other,New York,French,No,NA,NA,NA,NA
+2667,Customer 1667,32,Male,San Francisco,English,No,NA,NA,NA,NA
+2668,Customer 1668,44,Female,Chicago,English,No,NA,NA,NA,NA
+2669,Customer 1669,41,Male,San Francisco,French,No,NA,NA,NA,NA
+2670,Customer 1670,40,Other,New York,English,No,NA,NA,NA,NA
+2671,Customer 1671,63,Female,New York,Spanish,No,NA,NA,NA,NA
+2672,Customer 1672,44,Other,San Francisco,French,No,NA,NA,NA,NA
+2673,Customer 1673,29,Other,Los Angeles,German,No,NA,NA,NA,NA
+2674,Customer 1674,66,Male,San Francisco,French,Yes,2023-08-29,2023,8,29
+2675,Customer 1675,25,Other,New York,German,Yes,2022-02-16,2022,2,16
+2676,Customer 1676,50,Other,New York,English,No,NA,NA,NA,NA
+2677,Customer 1677,39,Female,San Francisco,English,Yes,2023-03-29,2023,3,29
+2678,Customer 1678,51,Female,Houston,German,Yes,2023-09-11,2023,9,11
+2679,Customer 1679,22,Female,Houston,English,No,NA,NA,NA,NA
+2680,Customer 1680,30,Male,Chicago,French,Yes,2023-10-20,2023,10,20
+2681,Customer 1681,36,Other,Houston,English,No,NA,NA,NA,NA
+2682,Customer 1682,48,Male,Houston,German,No,NA,NA,NA,NA
+2683,Customer 1683,43,Female,Houston,German,Yes,2022-08-31,2022,8,31
+2684,Customer 1684,37,Female,Houston,French,Yes,2023-04-30,2023,4,30
+2685,Customer 1685,46,Male,Houston,German,Yes,2023-11-06,2023,11,6
+2686,Customer 1686,26,Other,Los Angeles,Spanish,No,NA,NA,NA,NA
+2687,Customer 1687,33,Female,Chicago,English,Yes,2023-12-28,2023,12,28
+2688,Customer 1688,38,Other,New York,Spanish,No,NA,NA,NA,NA
+2689,Customer 1689,50,Female,Houston,Spanish,Yes,2022-08-01,2022,8,1
+2690,Customer 1690,66,Other,Chicago,French,No,NA,NA,NA,NA
+2691,Customer 1691,67,Other,San Francisco,English,Yes,2023-05-26,2023,5,26
+2692,Customer 1692,59,Female,Los Angeles,German,No,NA,NA,NA,NA
+2693,Customer 1693,26,Female,San Francisco,French,Yes,2023-06-03,2023,6,3
+2694,Customer 1694,28,Other,Chicago,German,Yes,2023-02-10,2023,2,10
+2695,Customer 1695,18,Female,San Francisco,English,No,NA,NA,NA,NA
+2696,Customer 1696,51,Other,New York,German,No,NA,NA,NA,NA
+2697,Customer 1697,28,Male,Chicago,English,No,NA,NA,NA,NA
+2698,Customer 1698,42,Other,San Francisco,French,Yes,2023-08-13,2023,8,13
+2699,Customer 1699,66,Female,Los Angeles,English,Yes,2023-01-30,2023,1,30
+2700,Customer 1700,31,Male,Chicago,English,Yes,2022-07-02,2022,7,2
+2701,Customer 1701,67,Other,New York,Spanish,No,NA,NA,NA,NA
+2702,Customer 1702,48,Male,San Francisco,Spanish,Yes,2023-06-24,2023,6,24
+2703,Customer 1703,31,Other,Chicago,German,No,NA,NA,NA,NA
+2704,Customer 1704,37,Female,Chicago,German,No,NA,NA,NA,NA
+2705,Customer 1705,57,Female,Houston,Spanish,No,NA,NA,NA,NA
+2706,Customer 1706,41,Male,Chicago,French,No,NA,NA,NA,NA
+2707,Customer 1707,54,Other,Los Angeles,German,Yes,2022-03-11,2022,3,11
+2708,Customer 1708,58,Male,Los Angeles,German,No,NA,NA,NA,NA
+2709,Customer 1709,46,Male,Chicago,Spanish,No,NA,NA,NA,NA
+2710,Customer 1710,27,Male,New York,English,No,NA,NA,NA,NA
+2711,Customer 1711,66,Male,Chicago,Spanish,Yes,2022-02-03,2022,2,3
+2712,Customer 1712,69,Other,Houston,Spanish,No,NA,NA,NA,NA
+2713,Customer 1713,24,Female,New York,English,No,NA,NA,NA,NA
+2714,Customer 1714,39,Other,Chicago,German,Yes,2023-03-28,2023,3,28
+2715,Customer 1715,61,Male,Houston,English,Yes,2022-10-02,2022,10,2
+2716,Customer 1716,49,Other,Los Angeles,German,Yes,2022-05-11,2022,5,11
+2717,Customer 1717,28,Female,Chicago,Spanish,Yes,2023-07-30,2023,7,30
+2718,Customer 1718,35,Female,San Francisco,English,No,NA,NA,NA,NA
+2719,Customer 1719,29,Female,San Francisco,German,Yes,2023-02-15,2023,2,15
+2720,Customer 1720,24,Male,Los Angeles,Spanish,Yes,2023-10-08,2023,10,8
+2721,Customer 1721,20,Other,San Francisco,German,Yes,2022-02-21,2022,2,21
+2722,Customer 1722,63,Other,Los Angeles,French,No,NA,NA,NA,NA
+2723,Customer 1723,35,Other,Los Angeles,English,Yes,2023-12-28,2023,12,28
+2724,Customer 1724,65,Female,Chicago,German,No,NA,NA,NA,NA
+2725,Customer 1725,66,Female,Los Angeles,German,Yes,2022-01-22,2022,1,22
+2726,Customer 1726,23,Female,Los Angeles,German,Yes,2022-06-25,2022,6,25
+2727,Customer 1727,47,Other,Houston,Spanish,Yes,2022-10-04,2022,10,4
+2728,Customer 1728,23,Male,San Francisco,Spanish,Yes,2023-01-11,2023,1,11
+2729,Customer 1729,53,Other,San Francisco,Spanish,No,NA,NA,NA,NA
+2730,Customer 1730,70,Male,Chicago,Spanish,Yes,2022-01-25,2022,1,25
+2731,Customer 1731,46,Other,Houston,Spanish,Yes,2023-08-24,2023,8,24
+2732,Customer 1732,54,Male,Houston,German,No,NA,NA,NA,NA
+2733,Customer 1733,63,Female,New York,Spanish,Yes,2023-03-07,2023,3,7
+2734,Customer 1734,59,Other,Houston,French,No,NA,NA,NA,NA
+2735,Customer 1735,57,Other,Los Angeles,German,No,NA,NA,NA,NA
+2736,Customer 1736,59,Other,New York,Spanish,Yes,2023-06-25,2023,6,25
+2737,Customer 1737,63,Other,Houston,English,Yes,2022-10-23,2022,10,23
+2738,Customer 1738,46,Other,Los Angeles,English,No,NA,NA,NA,NA
+2739,Customer 1739,64,Male,Los Angeles,French,Yes,2022-06-23,2022,6,23
+2740,Customer 1740,68,Female,New York,French,No,NA,NA,NA,NA
+2741,Customer 1741,49,Female,San Francisco,French,Yes,2022-11-19,2022,11,19
+2742,Customer 1742,18,Other,Chicago,English,Yes,2023-08-10,2023,8,10
+2743,Customer 1743,51,Female,Chicago,English,No,NA,NA,NA,NA
+2744,Customer 1744,32,Female,New York,English,No,NA,NA,NA,NA
+2745,Customer 1745,27,Female,Los Angeles,German,Yes,2023-09-08,2023,9,8
+2746,Customer 1746,22,Other,New York,French,Yes,2023-05-01,2023,5,1
+2747,Customer 1747,22,Female,Chicago,French,Yes,2022-06-20,2022,6,20
+2748,Customer 1748,34,Female,Chicago,German,No,NA,NA,NA,NA
+2749,Customer 1749,66,Other,Los Angeles,Spanish,Yes,2023-04-10,2023,4,10
+2750,Customer 1750,67,Female,Los Angeles,German,Yes,2023-05-31,2023,5,31
+2751,Customer 1751,19,Female,Chicago,German,No,NA,NA,NA,NA
+2752,Customer 1752,44,Male,Chicago,French,No,NA,NA,NA,NA
+2753,Customer 1753,28,Other,San Francisco,English,No,NA,NA,NA,NA
+2754,Customer 1754,54,Other,Los Angeles,German,Yes,2023-10-30,2023,10,30
+2755,Customer 1755,34,Female,New York,German,No,NA,NA,NA,NA
+2756,Customer 1756,63,Female,New York,English,Yes,2023-09-05,2023,9,5
+2757,Customer 1757,52,Other,Houston,French,No,NA,NA,NA,NA
+2758,Customer 1758,59,Male,San Francisco,Spanish,No,NA,NA,NA,NA
+2759,Customer 1759,30,Male,Houston,Spanish,No,NA,NA,NA,NA
+2760,Customer 1760,47,Other,San Francisco,French,No,NA,NA,NA,NA
+2761,Customer 1761,48,Male,Houston,English,Yes,2023-11-13,2023,11,13
+2762,Customer 1762,68,Male,San Francisco,English,Yes,2023-10-13,2023,10,13
+2763,Customer 1763,51,Female,San Francisco,English,Yes,2023-06-25,2023,6,25
+2764,Customer 1764,34,Female,Chicago,English,Yes,2023-11-24,2023,11,24
+2765,Customer 1765,26,Male,San Francisco,German,Yes,2023-12-31,2023,12,31
+2766,Customer 1766,68,Male,Chicago,English,Yes,2022-11-04,2022,11,4
+2767,Customer 1767,67,Male,Houston,German,Yes,2023-02-03,2023,2,3
+2768,Customer 1768,26,Male,Los Angeles,French,Yes,2022-05-09,2022,5,9
+2769,Customer 1769,39,Other,Chicago,Spanish,Yes,2023-12-24,2023,12,24
+2770,Customer 1770,63,Other,New York,English,Yes,2022-06-19,2022,6,19
+2771,Customer 1771,64,Female,Houston,French,Yes,2023-04-28,2023,4,28
+2772,Customer 1772,49,Female,Houston,English,Yes,2022-02-06,2022,2,6
+2773,Customer 1773,55,Male,Los Angeles,English,Yes,2022-06-26,2022,6,26
+2774,Customer 1774,57,Male,Los Angeles,German,Yes,2022-04-26,2022,4,26
+2775,Customer 1775,69,Male,San Francisco,German,Yes,2022-05-03,2022,5,3
+2776,Customer 1776,19,Female,San Francisco,Spanish,Yes,2023-12-31,2023,12,31
+2777,Customer 1777,18,Female,New York,English,No,NA,NA,NA,NA
+2778,Customer 1778,35,Female,San Francisco,Spanish,Yes,2023-05-17,2023,5,17
+2779,Customer 1779,24,Female,Houston,English,No,NA,NA,NA,NA
+2780,Customer 1780,44,Male,Chicago,English,Yes,2022-07-04,2022,7,4
+2781,Customer 1781,24,Male,Chicago,English,Yes,2023-08-02,2023,8,2
+2782,Customer 1782,53,Other,Los Angeles,German,Yes,2023-12-05,2023,12,5
+2783,Customer 1783,22,Female,Los Angeles,English,Yes,2023-11-16,2023,11,16
+2784,Customer 1784,28,Female,San Francisco,Spanish,No,NA,NA,NA,NA
+2785,Customer 1785,44,Other,San Francisco,German,No,NA,NA,NA,NA
+2786,Customer 1786,48,Female,New York,French,Yes,2022-01-04,2022,1,4
+2787,Customer 1787,59,Female,San Francisco,English,No,NA,NA,NA,NA
+2788,Customer 1788,28,Female,San Francisco,French,Yes,2022-11-17,2022,11,17
+2789,Customer 1789,45,Other,San Francisco,Spanish,No,NA,NA,NA,NA
+2790,Customer 1790,50,Male,Los Angeles,Spanish,No,NA,NA,NA,NA
+2791,Customer 1791,59,Male,New York,Spanish,No,NA,NA,NA,NA
+2792,Customer 1792,49,Female,Los Angeles,English,Yes,2023-08-02,2023,8,2
+2793,Customer 1793,40,Other,Houston,Spanish,Yes,2023-01-10,2023,1,10
+2794,Customer 1794,38,Other,New York,English,No,NA,NA,NA,NA
+2795,Customer 1795,61,Female,San Francisco,German,Yes,2023-02-16,2023,2,16
+2796,Customer 1796,56,Male,New York,English,No,NA,NA,NA,NA
+2797,Customer 1797,54,Other,San Francisco,English,No,NA,NA,NA,NA
+2798,Customer 1798,49,Male,New York,English,No,NA,NA,NA,NA
+2799,Customer 1799,67,Female,New York,German,Yes,2022-08-16,2022,8,16
+2800,Customer 1800,57,Male,New York,French,No,NA,NA,NA,NA
+2801,Customer 1801,32,Male,Houston,German,Yes,2023-09-21,2023,9,21
+2802,Customer 1802,49,Male,Chicago,German,No,NA,NA,NA,NA
+2803,Customer 1803,24,Male,New York,French,Yes,2023-07-03,2023,7,3
+2804,Customer 1804,31,Male,San Francisco,French,Yes,2022-08-23,2022,8,23
+2805,Customer 1805,59,Other,New York,Spanish,Yes,2023-10-01,2023,10,1
+2806,Customer 1806,65,Other,Houston,Spanish,No,NA,NA,NA,NA
+2807,Customer 1807,42,Female,New York,Spanish,No,NA,NA,NA,NA
+2808,Customer 1808,20,Other,Houston,French,No,NA,NA,NA,NA
+2809,Customer 1809,40,Other,San Francisco,French,No,NA,NA,NA,NA
+2810,Customer 1810,28,Other,Houston,French,Yes,2023-01-16,2023,1,16
+2811,Customer 1811,48,Female,San Francisco,English,Yes,2023-07-22,2023,7,22
+2812,Customer 1812,20,Other,Houston,French,Yes,2023-04-04,2023,4,4
+2813,Customer 1813,25,Male,Houston,English,No,NA,NA,NA,NA
+2814,Customer 1814,44,Male,New York,Spanish,Yes,2022-10-25,2022,10,25
+2815,Customer 1815,44,Female,Chicago,English,Yes,2022-07-27,2022,7,27
+2816,Customer 1816,66,Other,Los Angeles,French,No,NA,NA,NA,NA
+2817,Customer 1817,42,Male,Chicago,Spanish,No,NA,NA,NA,NA
+2818,Customer 1818,45,Other,Houston,Spanish,Yes,2023-10-17,2023,10,17
+2819,Customer 1819,45,Male,Houston,German,No,NA,NA,NA,NA
+2820,Customer 1820,30,Female,New York,English,Yes,2023-09-10,2023,9,10
+2821,Customer 1821,32,Other,Houston,German,No,NA,NA,NA,NA
+2822,Customer 1822,61,Male,Houston,French,No,NA,NA,NA,NA
+2823,Customer 1823,58,Other,Chicago,Spanish,Yes,2022-06-18,2022,6,18
+2824,Customer 1824,68,Male,Houston,Spanish,Yes,2023-03-07,2023,3,7
+2825,Customer 1825,68,Female,San Francisco,English,No,NA,NA,NA,NA
+2826,Customer 1826,48,Male,Los Angeles,German,No,NA,NA,NA,NA
+2827,Customer 1827,55,Other,Los Angeles,Spanish,No,NA,NA,NA,NA
+2828,Customer 1828,30,Male,Houston,Spanish,No,NA,NA,NA,NA
+2829,Customer 1829,58,Other,San Francisco,Spanish,No,NA,NA,NA,NA
+2830,Customer 1830,28,Female,Chicago,Spanish,No,NA,NA,NA,NA
+2831,Customer 1831,63,Other,Chicago,German,No,NA,NA,NA,NA
+2832,Customer 1832,68,Male,New York,German,Yes,2023-10-21,2023,10,21
+2833,Customer 1833,70,Male,Los Angeles,French,Yes,2023-03-27,2023,3,27
+2834,Customer 1834,67,Other,New York,French,Yes,2023-11-22,2023,11,22
+2835,Customer 1835,39,Male,Houston,Spanish,Yes,2023-10-12,2023,10,12
+2836,Customer 1836,41,Male,Los Angeles,English,Yes,2022-05-04,2022,5,4
+2837,Customer 1837,70,Other,Houston,French,Yes,2022-06-17,2022,6,17
+2838,Customer 1838,62,Male,Chicago,Spanish,Yes,2023-08-11,2023,8,11
+2839,Customer 1839,29,Male,Houston,French,Yes,2023-05-03,2023,5,3
+2840,Customer 1840,68,Other,Los Angeles,German,Yes,2023-05-05,2023,5,5
+2841,Customer 1841,61,Female,Chicago,English,Yes,2023-08-11,2023,8,11
+2842,Customer 1842,43,Other,Houston,Spanish,Yes,2023-07-18,2023,7,18
+2843,Customer 1843,70,Female,Houston,French,Yes,2023-11-28,2023,11,28
+2844,Customer 1844,37,Male,Los Angeles,English,No,NA,NA,NA,NA
+2845,Customer 1845,53,Female,Los Angeles,English,No,NA,NA,NA,NA
+2846,Customer 1846,45,Female,Houston,Spanish,No,NA,NA,NA,NA
+2847,Customer 1847,33,Male,Chicago,French,Yes,2022-05-12,2022,5,12
+2848,Customer 1848,66,Male,Los Angeles,German,No,NA,NA,NA,NA
+2849,Customer 1849,61,Male,Chicago,Spanish,No,NA,NA,NA,NA
+2850,Customer 1850,19,Other,Chicago,German,Yes,2023-04-13,2023,4,13
+2851,Customer 1851,54,Male,Chicago,French,Yes,2022-05-25,2022,5,25
+2852,Customer 1852,36,Other,Chicago,German,Yes,2023-12-31,2023,12,31
+2853,Customer 1853,30,Male,Houston,French,Yes,2023-06-23,2023,6,23
+2854,Customer 1854,56,Female,San Francisco,German,No,NA,NA,NA,NA
+2855,Customer 1855,47,Male,New York,French,Yes,2023-12-20,2023,12,20
+2856,Customer 1856,22,Other,San Francisco,German,Yes,2023-05-21,2023,5,21
+2857,Customer 1857,24,Other,New York,Spanish,Yes,2023-12-23,2023,12,23
+2858,Customer 1858,33,Female,San Francisco,English,Yes,2023-07-20,2023,7,20
+2859,Customer 1859,61,Female,New York,German,No,NA,NA,NA,NA
+2860,Customer 1860,60,Female,San Francisco,English,Yes,2023-03-17,2023,3,17
+2861,Customer 1861,36,Female,Chicago,German,Yes,2022-11-24,2022,11,24
+2862,Customer 1862,55,Other,Los Angeles,Spanish,No,NA,NA,NA,NA
+2863,Customer 1863,43,Other,San Francisco,Spanish,No,NA,NA,NA,NA
+2864,Customer 1864,61,Other,San Francisco,Spanish,Yes,2023-08-15,2023,8,15
+2865,Customer 1865,62,Male,San Francisco,English,No,NA,NA,NA,NA
+2866,Customer 1866,55,Female,Houston,German,No,NA,NA,NA,NA
+2867,Customer 1867,27,Female,New York,German,No,NA,NA,NA,NA
+2868,Customer 1868,57,Other,Los Angeles,Spanish,Yes,2023-01-27,2023,1,27
+2869,Customer 1869,27,Other,San Francisco,English,No,NA,NA,NA,NA
+2870,Customer 1870,55,Female,New York,English,Yes,2022-05-05,2022,5,5
+2871,Customer 1871,44,Other,San Francisco,French,Yes,2023-09-20,2023,9,20
+2872,Customer 1872,68,Female,Houston,French,No,NA,NA,NA,NA
+2873,Customer 1873,46,Female,New York,French,No,NA,NA,NA,NA
+2874,Customer 1874,47,Other,Houston,English,No,NA,NA,NA,NA
+2875,Customer 1875,40,Female,Houston,Spanish,No,NA,NA,NA,NA
+2876,Customer 1876,66,Male,Chicago,English,No,NA,NA,NA,NA
+2877,Customer 1877,38,Male,Chicago,English,No,NA,NA,NA,NA
+2878,Customer 1878,19,Male,Los Angeles,German,Yes,2022-12-10,2022,12,10
+2879,Customer 1879,40,Male,San Francisco,English,No,NA,NA,NA,NA
+2880,Customer 1880,36,Other,New York,English,No,NA,NA,NA,NA
+2881,Customer 1881,36,Other,San Francisco,German,No,NA,NA,NA,NA
+2882,Customer 1882,69,Female,Los Angeles,Spanish,Yes,2023-02-03,2023,2,3
+2883,Customer 1883,30,Male,Chicago,Spanish,Yes,2023-08-25,2023,8,25
+2884,Customer 1884,50,Other,San Francisco,French,No,NA,NA,NA,NA
+2885,Customer 1885,55,Other,New York,French,No,NA,NA,NA,NA
+2886,Customer 1886,54,Other,Chicago,French,No,NA,NA,NA,NA
+2887,Customer 1887,67,Other,Chicago,Spanish,Yes,2023-12-19,2023,12,19
+2888,Customer 1888,24,Other,San Francisco,French,Yes,2022-08-04,2022,8,4
+2889,Customer 1889,43,Female,Chicago,German,Yes,2022-09-27,2022,9,27
+2890,Customer 1890,34,Male,Los Angeles,German,Yes,2022-06-18,2022,6,18
+2891,Customer 1891,64,Male,San Francisco,French,No,NA,NA,NA,NA
+2892,Customer 1892,54,Other,Chicago,French,No,NA,NA,NA,NA
+2893,Customer 1893,54,Female,San Francisco,English,No,NA,NA,NA,NA
+2894,Customer 1894,49,Female,Houston,German,No,NA,NA,NA,NA
+2895,Customer 1895,62,Female,Houston,French,Yes,2023-05-16,2023,5,16
+2896,Customer 1896,57,Female,Chicago,French,No,NA,NA,NA,NA
+2897,Customer 1897,68,Female,Los Angeles,French,No,NA,NA,NA,NA
+2898,Customer 1898,50,Female,Chicago,English,Yes,2022-11-16,2022,11,16
+2899,Customer 1899,53,Female,San Francisco,Spanish,No,NA,NA,NA,NA
+2900,Customer 1900,67,Female,New York,English,Yes,2023-02-27,2023,2,27
+2901,Customer 1901,21,Female,Los Angeles,English,No,NA,NA,NA,NA
+2902,Customer 1902,57,Other,San Francisco,Spanish,No,NA,NA,NA,NA
+2903,Customer 1903,45,Female,Houston,Spanish,Yes,2022-12-04,2022,12,4
+2904,Customer 1904,38,Other,Chicago,French,No,NA,NA,NA,NA
+2905,Customer 1905,40,Other,Houston,Spanish,No,NA,NA,NA,NA
+2906,Customer 1906,53,Male,New York,German,No,NA,NA,NA,NA
+2907,Customer 1907,35,Female,Houston,English,No,NA,NA,NA,NA
+2908,Customer 1908,63,Male,Houston,English,No,NA,NA,NA,NA
+2909,Customer 1909,45,Other,Chicago,English,No,NA,NA,NA,NA
+2910,Customer 1910,48,Female,Los Angeles,French,Yes,2022-02-12,2022,2,12
+2911,Customer 1911,29,Male,Houston,Spanish,Yes,2022-05-20,2022,5,20
+2912,Customer 1912,28,Male,Houston,French,No,NA,NA,NA,NA
+2913,Customer 1913,41,Other,Chicago,German,Yes,2022-08-12,2022,8,12
+2914,Customer 1914,47,Male,Houston,English,Yes,2022-08-24,2022,8,24
+2915,Customer 1915,28,Female,Los Angeles,German,Yes,2022-10-03,2022,10,3
+2916,Customer 1916,41,Female,Chicago,Spanish,Yes,2022-04-03,2022,4,3
+2917,Customer 1917,34,Other,Los Angeles,French,Yes,2023-09-16,2023,9,16
+2918,Customer 1918,40,Male,Chicago,Spanish,Yes,2022-09-19,2022,9,19
+2919,Customer 1919,51,Female,New York,French,Yes,2023-12-26,2023,12,26
+2920,Customer 1920,27,Female,San Francisco,German,Yes,2023-12-07,2023,12,7
+2921,Customer 1921,21,Male,New York,Spanish,No,NA,NA,NA,NA
+2922,Customer 1922,23,Male,Los Angeles,French,Yes,2023-12-06,2023,12,6
+2923,Customer 1923,27,Male,San Francisco,German,Yes,2023-12-28,2023,12,28
+2924,Customer 1924,36,Male,San Francisco,German,No,NA,NA,NA,NA
+2925,Customer 1925,55,Female,Chicago,English,Yes,2022-08-11,2022,8,11
+2926,Customer 1926,58,Male,Los Angeles,French,No,NA,NA,NA,NA
+2927,Customer 1927,45,Female,Chicago,German,No,NA,NA,NA,NA
+2928,Customer 1928,65,Other,San Francisco,English,Yes,2023-06-12,2023,6,12
+2929,Customer 1929,62,Female,Chicago,French,Yes,2023-10-25,2023,10,25
+2930,Customer 1930,26,Other,New York,Spanish,Yes,2023-10-01,2023,10,1
+2931,Customer 1931,24,Female,Chicago,Spanish,No,NA,NA,NA,NA
+2932,Customer 1932,68,Female,New York,German,No,NA,NA,NA,NA
+2933,Customer 1933,41,Male,San Francisco,German,No,NA,NA,NA,NA
+2934,Customer 1934,59,Female,New York,Spanish,Yes,2023-05-02,2023,5,2
+2935,Customer 1935,35,Female,Los Angeles,English,No,NA,NA,NA,NA
+2936,Customer 1936,41,Female,Los Angeles,German,No,NA,NA,NA,NA
+2937,Customer 1937,25,Male,New York,English,Yes,2022-07-20,2022,7,20
+2938,Customer 1938,33,Female,Los Angeles,German,Yes,2022-04-16,2022,4,16
+2939,Customer 1939,64,Female,San Francisco,English,No,NA,NA,NA,NA
+2940,Customer 1940,35,Female,Chicago,English,No,NA,NA,NA,NA
+2941,Customer 1941,46,Other,San Francisco,Spanish,Yes,2023-05-02,2023,5,2
+2942,Customer 1942,66,Male,Los Angeles,Spanish,Yes,2022-02-12,2022,2,12
+2943,Customer 1943,42,Other,New York,Spanish,Yes,2022-04-24,2022,4,24
+2944,Customer 1944,33,Male,Los Angeles,Spanish,Yes,2023-12-02,2023,12,2
+2945,Customer 1945,22,Male,New York,Spanish,Yes,2022-05-10,2022,5,10
+2946,Customer 1946,40,Male,New York,Spanish,No,NA,NA,NA,NA
+2947,Customer 1947,20,Other,San Francisco,French,Yes,2022-02-04,2022,2,4
+2948,Customer 1948,23,Male,Los Angeles,German,No,NA,NA,NA,NA
+2949,Customer 1949,42,Other,Los Angeles,French,Yes,2022-09-08,2022,9,8
+2950,Customer 1950,36,Female,San Francisco,English,No,NA,NA,NA,NA
+2951,Customer 1951,28,Other,New York,English,No,NA,NA,NA,NA
+2952,Customer 1952,60,Other,Houston,English,Yes,2022-05-31,2022,5,31
+2953,Customer 1953,29,Other,San Francisco,German,Yes,2023-07-31,2023,7,31
+2954,Customer 1954,50,Male,Houston,Spanish,No,NA,NA,NA,NA
+2955,Customer 1955,25,Other,Chicago,Spanish,No,NA,NA,NA,NA
+2956,Customer 1956,24,Male,New York,English,No,NA,NA,NA,NA
+2957,Customer 1957,32,Other,Chicago,Spanish,Yes,2023-04-09,2023,4,9
+2958,Customer 1958,54,Female,New York,German,Yes,2022-04-02,2022,4,2
+2959,Customer 1959,52,Other,San Francisco,French,No,NA,NA,NA,NA
+2960,Customer 1960,24,Female,Houston,English,No,NA,NA,NA,NA
+2961,Customer 1961,30,Male,San Francisco,English,No,NA,NA,NA,NA
+2962,Customer 1962,37,Male,Houston,Spanish,Yes,2023-04-26,2023,4,26
+2963,Customer 1963,26,Other,New York,German,Yes,2023-11-15,2023,11,15
+2964,Customer 1964,70,Other,Houston,Spanish,Yes,2023-10-14,2023,10,14
+2965,Customer 1965,29,Male,New York,English,Yes,2022-11-18,2022,11,18
+2966,Customer 1966,31,Male,Los Angeles,Spanish,Yes,2022-12-11,2022,12,11
+2967,Customer 1967,56,Female,Los Angeles,French,No,NA,NA,NA,NA
+2968,Customer 1968,45,Other,San Francisco,English,No,NA,NA,NA,NA
+2969,Customer 1969,26,Other,New York,English,Yes,2022-08-09,2022,8,9
+2970,Customer 1970,49,Male,New York,German,Yes,2023-11-16,2023,11,16
+2971,Customer 1971,53,Female,Los Angeles,German,No,NA,NA,NA,NA
+2972,Customer 1972,36,Female,Chicago,German,Yes,2023-07-27,2023,7,27
+2973,Customer 1973,58,Male,San Francisco,Spanish,No,NA,NA,NA,NA
+2974,Customer 1974,51,Female,Chicago,German,No,NA,NA,NA,NA
+2975,Customer 1975,66,Male,San Francisco,French,Yes,2023-03-20,2023,3,20
+2976,Customer 1976,29,Male,Chicago,Spanish,Yes,2022-02-01,2022,2,1
+2977,Customer 1977,31,Other,Los Angeles,Spanish,Yes,2023-03-23,2023,3,23
+2978,Customer 1978,27,Male,Houston,French,No,NA,NA,NA,NA
+2979,Customer 1979,56,Male,Chicago,French,No,NA,NA,NA,NA
+2980,Customer 1980,33,Other,San Francisco,English,Yes,2023-05-03,2023,5,3
+2981,Customer 1981,51,Female,Los Angeles,German,Yes,2023-11-01,2023,11,1
+2982,Customer 1982,27,Other,Chicago,Spanish,No,NA,NA,NA,NA
+2983,Customer 1983,68,Male,Los Angeles,French,No,NA,NA,NA,NA
+2984,Customer 1984,19,Female,Los Angeles,French,No,NA,NA,NA,NA
+2985,Customer 1985,38,Male,San Francisco,French,No,NA,NA,NA,NA
+2986,Customer 1986,25,Male,Los Angeles,French,No,NA,NA,NA,NA
+2987,Customer 1987,50,Other,Chicago,Spanish,Yes,2023-05-09,2023,5,9
+2988,Customer 1988,50,Other,Houston,French,No,NA,NA,NA,NA
+2989,Customer 1989,32,Male,Los Angeles,French,No,NA,NA,NA,NA
+2990,Customer 1990,41,Male,Houston,French,No,NA,NA,NA,NA
+2991,Customer 1991,35,Other,Chicago,Spanish,No,NA,NA,NA,NA
+2992,Customer 1992,52,Male,Houston,French,Yes,2022-11-02,2022,11,2
+2993,Customer 1993,33,Other,Chicago,Spanish,Yes,2023-10-16,2023,10,16
+2994,Customer 1994,21,Female,San Francisco,Spanish,Yes,2022-05-05,2022,5,5
+2995,Customer 1995,56,Other,Chicago,Spanish,Yes,2023-02-27,2023,2,27
+2996,Customer 1996,51,Male,Chicago,French,Yes,2022-01-26,2022,1,26
+2997,Customer 1997,63,Female,Los Angeles,English,Yes,2023-05-17,2023,5,17
+2998,Customer 1998,45,Female,San Francisco,English,Yes,2023-07-20,2023,7,20
+2999,Customer 1999,53,Other,New York,Spanish,No,NA,NA,NA,NA
+3000,Customer 2000,66,Female,New York,Spanish,Yes,2022-05-27,2022,5,27
+3001,Customer 2001,36,Male,New York,French,No,NA,NA,NA,NA
+3002,Customer 2002,40,Female,Houston,German,Yes,2022-05-08,2022,5,8
+3003,Customer 2003,25,Male,Los Angeles,Spanish,Yes,2022-11-29,2022,11,29
+3004,Customer 2004,36,Other,Los Angeles,French,No,NA,NA,NA,NA
+3005,Customer 2005,24,Other,New York,Spanish,No,NA,NA,NA,NA
+3006,Customer 2006,29,Female,New York,French,No,NA,NA,NA,NA
+3007,Customer 2007,19,Other,Houston,Spanish,No,NA,NA,NA,NA
+3008,Customer 2008,35,Other,Chicago,German,Yes,2022-03-14,2022,3,14
+3009,Customer 2009,65,Female,San Francisco,English,Yes,2023-02-21,2023,2,21
+3010,Customer 2010,40,Male,Los Angeles,Spanish,No,NA,NA,NA,NA
+3011,Customer 2011,66,Other,New York,Spanish,Yes,2022-10-09,2022,10,9
+3012,Customer 2012,28,Other,Chicago,French,Yes,2023-07-17,2023,7,17
+3013,Customer 2013,19,Male,New York,French,Yes,2022-02-22,2022,2,22
+3014,Customer 2014,63,Male,Houston,English,Yes,2022-08-04,2022,8,4
+3015,Customer 2015,42,Female,Los Angeles,German,Yes,2023-01-22,2023,1,22
+3016,Customer 2016,42,Male,Chicago,English,Yes,2022-12-09,2022,12,9
+3017,Customer 2017,34,Female,New York,English,No,NA,NA,NA,NA
+3018,Customer 2018,39,Female,Los Angeles,German,No,NA,NA,NA,NA
+3019,Customer 2019,30,Male,New York,German,Yes,2022-05-12,2022,5,12
+3020,Customer 2020,39,Male,Chicago,German,Yes,2022-07-02,2022,7,2
+3021,Customer 2021,42,Male,Chicago,Spanish,Yes,2022-07-04,2022,7,4
+3022,Customer 2022,26,Male,Los Angeles,French,Yes,2022-04-14,2022,4,14
+3023,Customer 2023,64,Male,Chicago,French,Yes,2022-09-19,2022,9,19
+3024,Customer 2024,52,Male,Chicago,English,No,NA,NA,NA,NA
+3025,Customer 2025,41,Other,San Francisco,German,Yes,2023-04-30,2023,4,30
+3026,Customer 2026,55,Other,Houston,Spanish,Yes,2023-08-05,2023,8,5
+3027,Customer 2027,59,Other,Houston,German,Yes,2023-02-08,2023,2,8
+3028,Customer 2028,29,Female,New York,French,Yes,2022-12-12,2022,12,12
+3029,Customer 2029,32,Male,Los Angeles,French,No,NA,NA,NA,NA
+3030,Customer 2030,58,Female,Chicago,French,Yes,2023-03-18,2023,3,18
+3031,Customer 2031,32,Male,San Francisco,German,No,NA,NA,NA,NA
+3032,Customer 2032,53,Other,San Francisco,English,No,NA,NA,NA,NA
+3033,Customer 2033,42,Female,Los Angeles,French,Yes,2023-01-26,2023,1,26
+3034,Customer 2034,58,Other,San Francisco,French,Yes,2022-01-29,2022,1,29
+3035,Customer 2035,22,Other,New York,English,No,NA,NA,NA,NA
+3036,Customer 2036,31,Female,San Francisco,Spanish,No,NA,NA,NA,NA
+3037,Customer 2037,34,Female,Los Angeles,French,No,NA,NA,NA,NA
+3038,Customer 2038,19,Male,Houston,French,No,NA,NA,NA,NA
+3039,Customer 2039,68,Other,Los Angeles,German,Yes,2022-11-29,2022,11,29
+3040,Customer 2040,54,Other,Los Angeles,English,Yes,2023-11-12,2023,11,12
+3041,Customer 2041,41,Female,Houston,Spanish,No,NA,NA,NA,NA
+3042,Customer 2042,28,Female,Houston,English,Yes,2022-08-03,2022,8,3
+3043,Customer 2043,50,Male,Houston,German,Yes,2022-03-30,2022,3,30
+3044,Customer 2044,24,Female,Houston,English,No,NA,NA,NA,NA
+3045,Customer 2045,32,Other,Los Angeles,French,Yes,2023-07-16,2023,7,16
+3046,Customer 2046,43,Female,Houston,French,No,NA,NA,NA,NA
+3047,Customer 2047,54,Male,Houston,English,No,NA,NA,NA,NA
+3048,Customer 2048,40,Male,San Francisco,English,No,NA,NA,NA,NA
+3049,Customer 2049,28,Other,Houston,English,No,NA,NA,NA,NA
+3050,Customer 2050,65,Other,San Francisco,French,Yes,2023-12-01,2023,12,1
+3051,Customer 2051,42,Other,Los Angeles,Spanish,No,NA,NA,NA,NA
+3052,Customer 2052,27,Male,New York,French,Yes,2022-03-13,2022,3,13
+3053,Customer 2053,51,Other,New York,German,Yes,2023-03-17,2023,3,17
+3054,Customer 2054,45,Other,New York,French,Yes,2022-11-30,2022,11,30
+3055,Customer 2055,23,Male,Chicago,French,Yes,2023-04-29,2023,4,29
+3056,Customer 2056,29,Male,Los Angeles,English,No,NA,NA,NA,NA
+3057,Customer 2057,36,Male,New York,Spanish,Yes,2022-04-20,2022,4,20
+3058,Customer 2058,61,Male,San Francisco,English,No,NA,NA,NA,NA
+3059,Customer 2059,52,Female,Houston,Spanish,Yes,2023-10-13,2023,10,13
+3060,Customer 2060,25,Male,New York,French,Yes,2022-03-28,2022,3,28
+3061,Customer 2061,45,Male,Los Angeles,English,Yes,2023-06-03,2023,6,3
+3062,Customer 2062,62,Other,Chicago,Spanish,Yes,2023-09-12,2023,9,12
+3063,Customer 2063,65,Female,Chicago,Spanish,No,NA,NA,NA,NA
+3064,Customer 2064,19,Female,San Francisco,Spanish,Yes,2023-04-16,2023,4,16
+3065,Customer 2065,30,Other,San Francisco,English,No,NA,NA,NA,NA
+3066,Customer 2066,62,Male,Houston,Spanish,No,NA,NA,NA,NA
+3067,Customer 2067,70,Female,San Francisco,English,No,NA,NA,NA,NA
+3068,Customer 2068,55,Other,Houston,English,Yes,2022-08-26,2022,8,26
+3069,Customer 2069,36,Female,Houston,Spanish,No,NA,NA,NA,NA
+3070,Customer 2070,48,Male,Chicago,Spanish,No,NA,NA,NA,NA
+3071,Customer 2071,28,Female,Los Angeles,French,No,NA,NA,NA,NA
+3072,Customer 2072,61,Male,Chicago,French,Yes,2022-06-17,2022,6,17
+3073,Customer 2073,28,Female,Chicago,German,No,NA,NA,NA,NA
+3074,Customer 2074,46,Male,New York,English,No,NA,NA,NA,NA
+3075,Customer 2075,50,Female,New York,German,Yes,2022-09-19,2022,9,19
+3076,Customer 2076,44,Male,San Francisco,English,Yes,2023-05-02,2023,5,2
+3077,Customer 2077,42,Female,Chicago,English,Yes,2022-01-05,2022,1,5
+3078,Customer 2078,25,Female,New York,English,No,NA,NA,NA,NA
+3079,Customer 2079,50,Male,Houston,German,Yes,2023-10-20,2023,10,20
+3080,Customer 2080,45,Other,Houston,French,No,NA,NA,NA,NA
+3081,Customer 2081,57,Other,Chicago,English,Yes,2022-05-08,2022,5,8
+3082,Customer 2082,61,Male,Houston,French,Yes,2023-01-20,2023,1,20
+3083,Customer 2083,25,Female,San Francisco,English,No,NA,NA,NA,NA
+3084,Customer 2084,33,Male,Los Angeles,English,No,NA,NA,NA,NA
+3085,Customer 2085,27,Female,New York,Spanish,Yes,2023-04-24,2023,4,24
+3086,Customer 2086,32,Female,Houston,Spanish,No,NA,NA,NA,NA
+3087,Customer 2087,59,Other,Houston,French,Yes,2022-09-14,2022,9,14
+3088,Customer 2088,41,Other,Chicago,French,Yes,2022-03-24,2022,3,24
+3089,Customer 2089,57,Male,New York,English,Yes,2023-05-06,2023,5,6
+3090,Customer 2090,45,Other,Chicago,Spanish,No,NA,NA,NA,NA
+3091,Customer 2091,57,Other,Los Angeles,German,Yes,2022-04-18,2022,4,18
+3092,Customer 2092,19,Male,Chicago,Spanish,No,NA,NA,NA,NA
+3093,Customer 2093,63,Female,New York,English,No,NA,NA,NA,NA
+3094,Customer 2094,35,Other,Chicago,English,No,NA,NA,NA,NA
+3095,Customer 2095,28,Other,New York,German,No,NA,NA,NA,NA
+3096,Customer 2096,19,Other,Chicago,French,No,NA,NA,NA,NA
+3097,Customer 2097,36,Other,Chicago,Spanish,No,NA,NA,NA,NA
+3098,Customer 2098,65,Male,New York,English,Yes,2022-06-24,2022,6,24
+3099,Customer 2099,19,Other,Chicago,German,Yes,2023-02-11,2023,2,11
+3100,Customer 2100,58,Other,Houston,Spanish,Yes,2022-03-26,2022,3,26
+3101,Customer 2101,40,Female,Chicago,English,Yes,2022-07-17,2022,7,17
+3102,Customer 2102,22,Male,San Francisco,French,No,NA,NA,NA,NA
+3103,Customer 2103,23,Male,New York,German,No,NA,NA,NA,NA
+3104,Customer 2104,67,Female,San Francisco,English,Yes,2022-12-09,2022,12,9
+3105,Customer 2105,34,Other,Houston,French,Yes,2022-08-27,2022,8,27
+3106,Customer 2106,44,Female,Los Angeles,French,No,NA,NA,NA,NA
+3107,Customer 2107,29,Female,Los Angeles,Spanish,No,NA,NA,NA,NA
+3108,Customer 2108,32,Other,Houston,English,No,NA,NA,NA,NA
+3109,Customer 2109,51,Female,New York,French,No,NA,NA,NA,NA
+3110,Customer 2110,31,Female,Los Angeles,German,Yes,2022-04-15,2022,4,15
+3111,Customer 2111,19,Other,San Francisco,Spanish,Yes,2022-04-23,2022,4,23
+3112,Customer 2112,33,Female,Houston,Spanish,Yes,2023-05-23,2023,5,23
+3113,Customer 2113,32,Male,Chicago,German,No,NA,NA,NA,NA
+3114,Customer 2114,27,Male,Chicago,Spanish,Yes,2022-04-17,2022,4,17
+3115,Customer 2115,70,Female,New York,English,Yes,2023-07-25,2023,7,25
+3116,Customer 2116,41,Female,Los Angeles,Spanish,No,NA,NA,NA,NA
+3117,Customer 2117,44,Male,Houston,English,No,NA,NA,NA,NA
+3118,Customer 2118,20,Female,New York,English,No,NA,NA,NA,NA
+3119,Customer 2119,51,Other,San Francisco,French,Yes,2022-11-13,2022,11,13
+3120,Customer 2120,60,Male,Houston,Spanish,No,NA,NA,NA,NA
+3121,Customer 2121,57,Other,San Francisco,German,Yes,2023-08-28,2023,8,28
+3122,Customer 2122,47,Male,San Francisco,French,Yes,2022-12-27,2022,12,27
+3123,Customer 2123,33,Female,Houston,German,Yes,2023-10-01,2023,10,1
+3124,Customer 2124,26,Other,San Francisco,English,No,NA,NA,NA,NA
+3125,Customer 2125,64,Other,Chicago,English,Yes,2023-12-02,2023,12,2
+3126,Customer 2126,30,Other,Houston,Spanish,Yes,2023-09-25,2023,9,25
+3127,Customer 2127,44,Male,San Francisco,English,No,NA,NA,NA,NA
+3128,Customer 2128,35,Other,New York,English,Yes,2022-06-11,2022,6,11
+3129,Customer 2129,64,Male,Chicago,English,No,NA,NA,NA,NA
+3130,Customer 2130,61,Other,Chicago,German,Yes,2023-01-26,2023,1,26
+3131,Customer 2131,70,Female,San Francisco,English,Yes,2022-12-13,2022,12,13
+3132,Customer 2132,26,Other,New York,English,No,NA,NA,NA,NA
+3133,Customer 2133,52,Other,Chicago,German,No,NA,NA,NA,NA
+3134,Customer 2134,62,Female,Chicago,German,Yes,2022-10-09,2022,10,9
+3135,Customer 2135,26,Male,Chicago,German,No,NA,NA,NA,NA
+3136,Customer 2136,65,Female,Los Angeles,German,Yes,2022-02-07,2022,2,7
+3137,Customer 2137,22,Other,New York,French,No,NA,NA,NA,NA
+3138,Customer 2138,57,Female,New York,German,No,NA,NA,NA,NA
+3139,Customer 2139,45,Other,Chicago,French,Yes,2022-05-03,2022,5,3
+3140,Customer 2140,35,Female,New York,German,Yes,2022-05-04,2022,5,4
+3141,Customer 2141,23,Female,Chicago,Spanish,No,NA,NA,NA,NA
+3142,Customer 2142,57,Female,Chicago,English,No,NA,NA,NA,NA
+3143,Customer 2143,60,Female,Houston,German,No,NA,NA,NA,NA
+3144,Customer 2144,60,Other,New York,Spanish,Yes,2023-11-08,2023,11,8
+3145,Customer 2145,39,Male,Houston,French,Yes,2023-09-18,2023,9,18
+3146,Customer 2146,43,Male,Los Angeles,English,Yes,2022-12-13,2022,12,13
+3147,Customer 2147,55,Male,Chicago,Spanish,No,NA,NA,NA,NA
+3148,Customer 2148,53,Male,New York,English,Yes,2023-04-06,2023,4,6
+3149,Customer 2149,32,Other,San Francisco,German,No,NA,NA,NA,NA
+3150,Customer 2150,66,Other,New York,French,No,NA,NA,NA,NA
+3151,Customer 2151,44,Female,New York,German,No,NA,NA,NA,NA
+3152,Customer 2152,25,Male,New York,French,Yes,2023-07-25,2023,7,25
+3153,Customer 2153,39,Female,Houston,German,No,NA,NA,NA,NA
+3154,Customer 2154,60,Male,New York,German,No,NA,NA,NA,NA
+3155,Customer 2155,67,Male,San Francisco,Spanish,Yes,2022-01-07,2022,1,7
+3156,Customer 2156,42,Female,San Francisco,English,No,NA,NA,NA,NA
+3157,Customer 2157,31,Male,Los Angeles,French,Yes,2023-08-20,2023,8,20
+3158,Customer 2158,61,Female,Houston,German,Yes,2023-01-07,2023,1,7
+3159,Customer 2159,25,Male,Houston,English,No,NA,NA,NA,NA
+3160,Customer 2160,20,Male,New York,English,Yes,2022-05-30,2022,5,30
+3161,Customer 2161,59,Female,New York,German,No,NA,NA,NA,NA
+3162,Customer 2162,36,Female,Los Angeles,Spanish,No,NA,NA,NA,NA
+3163,Customer 2163,48,Female,Chicago,French,No,NA,NA,NA,NA
+3164,Customer 2164,61,Other,New York,German,No,NA,NA,NA,NA
+3165,Customer 2165,63,Male,Los Angeles,Spanish,Yes,2022-02-18,2022,2,18
+3166,Customer 2166,62,Male,New York,English,Yes,2023-03-09,2023,3,9
+3167,Customer 2167,23,Male,Houston,English,No,NA,NA,NA,NA
+3168,Customer 2168,43,Female,San Francisco,Spanish,Yes,2023-04-22,2023,4,22
+3169,Customer 2169,46,Male,Los Angeles,Spanish,Yes,2022-10-25,2022,10,25
+3170,Customer 2170,56,Female,New York,French,No,NA,NA,NA,NA
+3171,Customer 2171,38,Female,San Francisco,Spanish,Yes,2022-05-10,2022,5,10
+3172,Customer 2172,70,Other,Los Angeles,French,Yes,2022-05-19,2022,5,19
+3173,Customer 2173,21,Male,New York,French,Yes,2023-01-19,2023,1,19
+3174,Customer 2174,27,Male,Houston,French,No,NA,NA,NA,NA
+3175,Customer 2175,33,Other,San Francisco,French,Yes,2023-12-31,2023,12,31
+3176,Customer 2176,33,Other,San Francisco,Spanish,No,NA,NA,NA,NA
+3177,Customer 2177,52,Other,Houston,English,No,NA,NA,NA,NA
+3178,Customer 2178,68,Female,Houston,German,No,NA,NA,NA,NA
+3179,Customer 2179,68,Female,San Francisco,French,Yes,2022-08-10,2022,8,10
+3180,Customer 2180,56,Female,San Francisco,English,No,NA,NA,NA,NA
+3181,Customer 2181,47,Male,Los Angeles,Spanish,No,NA,NA,NA,NA
+3182,Customer 2182,38,Male,Houston,Spanish,No,NA,NA,NA,NA
+3183,Customer 2183,44,Female,Houston,English,No,NA,NA,NA,NA
+3184,Customer 2184,55,Male,Chicago,German,No,NA,NA,NA,NA
+3185,Customer 2185,64,Male,Houston,German,Yes,2023-09-30,2023,9,30
+3186,Customer 2186,19,Male,New York,French,No,NA,NA,NA,NA
+3187,Customer 2187,63,Female,Los Angeles,English,Yes,2022-10-21,2022,10,21
+3188,Customer 2188,53,Other,San Francisco,Spanish,No,NA,NA,NA,NA
+3189,Customer 2189,27,Other,San Francisco,German,Yes,2023-03-20,2023,3,20
+3190,Customer 2190,54,Other,New York,German,Yes,2023-08-30,2023,8,30
+3191,Customer 2191,61,Male,San Francisco,German,No,NA,NA,NA,NA
+3192,Customer 2192,21,Male,Los Angeles,French,Yes,2023-11-02,2023,11,2
+3193,Customer 2193,52,Male,San Francisco,German,No,NA,NA,NA,NA
+3194,Customer 2194,24,Female,Los Angeles,French,Yes,2022-11-25,2022,11,25
+3195,Customer 2195,28,Other,New York,Spanish,Yes,2023-11-23,2023,11,23
+3196,Customer 2196,64,Other,Houston,English,Yes,2022-06-01,2022,6,1
+3197,Customer 2197,19,Female,Chicago,English,Yes,2023-06-08,2023,6,8
+3198,Customer 2198,58,Other,Los Angeles,English,Yes,2023-10-20,2023,10,20
+3199,Customer 2199,30,Other,New York,French,Yes,2023-07-30,2023,7,30
+3200,Customer 2200,49,Female,Houston,Spanish,Yes,2022-07-16,2022,7,16
+3201,Customer 2201,28,Male,New York,English,No,NA,NA,NA,NA
+3202,Customer 2202,40,Other,New York,English,Yes,2023-01-04,2023,1,4
+3203,Customer 2203,57,Female,New York,English,No,NA,NA,NA,NA
+3204,Customer 2204,57,Female,Houston,French,Yes,2023-09-11,2023,9,11
+3205,Customer 2205,23,Male,New York,English,No,NA,NA,NA,NA
+3206,Customer 2206,22,Other,Houston,English,Yes,2022-03-21,2022,3,21
+3207,Customer 2207,46,Other,San Francisco,Spanish,Yes,2022-04-10,2022,4,10
+3208,Customer 2208,58,Other,Los Angeles,Spanish,Yes,2022-05-28,2022,5,28
+3209,Customer 2209,58,Female,New York,German,Yes,2022-03-18,2022,3,18
+3210,Customer 2210,54,Other,Houston,French,No,NA,NA,NA,NA
+3211,Customer 2211,65,Male,Los Angeles,German,No,NA,NA,NA,NA
+3212,Customer 2212,59,Male,Los Angeles,English,No,NA,NA,NA,NA
+3213,Customer 2213,18,Other,New York,English,Yes,2022-06-26,2022,6,26
+3214,Customer 2214,27,Other,Los Angeles,English,No,NA,NA,NA,NA
+3215,Customer 2215,19,Other,New York,German,Yes,2022-05-26,2022,5,26
+3216,Customer 2216,52,Female,Chicago,English,No,NA,NA,NA,NA
+3217,Customer 2217,62,Female,Chicago,French,No,NA,NA,NA,NA
+3218,Customer 2218,56,Female,New York,German,Yes,2022-09-06,2022,9,6
+3219,Customer 2219,30,Other,San Francisco,English,No,NA,NA,NA,NA
+3220,Customer 2220,45,Male,Los Angeles,English,Yes,2022-08-20,2022,8,20
+3221,Customer 2221,32,Female,Los Angeles,English,Yes,2023-12-15,2023,12,15
+3222,Customer 2222,23,Male,San Francisco,English,Yes,2023-03-10,2023,3,10
+3223,Customer 2223,32,Male,Chicago,German,No,NA,NA,NA,NA
+3224,Customer 2224,51,Female,New York,German,Yes,2022-12-13,2022,12,13
+3225,Customer 2225,66,Other,San Francisco,French,No,NA,NA,NA,NA
+3226,Customer 2226,52,Other,New York,Spanish,No,NA,NA,NA,NA
+3227,Customer 2227,67,Other,New York,Spanish,No,NA,NA,NA,NA
+3228,Customer 2228,27,Female,New York,Spanish,Yes,2022-10-28,2022,10,28
+3229,Customer 2229,29,Other,Chicago,German,Yes,2022-12-23,2022,12,23
+3230,Customer 2230,25,Female,San Francisco,French,No,NA,NA,NA,NA
+3231,Customer 2231,25,Other,Houston,Spanish,Yes,2022-06-02,2022,6,2
+3232,Customer 2232,58,Other,San Francisco,German,Yes,2022-11-26,2022,11,26
+3233,Customer 2233,21,Other,New York,English,No,NA,NA,NA,NA
+3234,Customer 2234,69,Male,Chicago,English,Yes,2022-01-20,2022,1,20
+3235,Customer 2235,32,Other,New York,German,No,NA,NA,NA,NA
+3236,Customer 2236,34,Other,Los Angeles,German,No,NA,NA,NA,NA
+3237,Customer 2237,44,Male,Houston,French,Yes,2022-12-29,2022,12,29
+3238,Customer 2238,51,Other,Chicago,English,No,NA,NA,NA,NA
+3239,Customer 2239,44,Other,New York,French,Yes,2023-01-07,2023,1,7
+3240,Customer 2240,24,Other,New York,French,No,NA,NA,NA,NA
+3241,Customer 2241,44,Male,Houston,English,No,NA,NA,NA,NA
+3242,Customer 2242,30,Other,San Francisco,Spanish,Yes,2022-11-02,2022,11,2
+3243,Customer 2243,25,Other,San Francisco,French,Yes,2022-11-26,2022,11,26
+3244,Customer 2244,42,Other,Chicago,French,No,NA,NA,NA,NA
+3245,Customer 2245,70,Female,Los Angeles,English,Yes,2022-11-02,2022,11,2
+3246,Customer 2246,70,Male,New York,Spanish,Yes,2022-03-30,2022,3,30
+3247,Customer 2247,43,Female,Los Angeles,English,No,NA,NA,NA,NA
+3248,Customer 2248,34,Male,Los Angeles,Spanish,Yes,2023-07-09,2023,7,9
+3249,Customer 2249,29,Female,Los Angeles,Spanish,Yes,2022-09-18,2022,9,18
+3250,Customer 2250,62,Female,San Francisco,English,Yes,2022-04-09,2022,4,9
+3251,Customer 2251,33,Female,San Francisco,English,Yes,2023-09-06,2023,9,6
+3252,Customer 2252,27,Other,Los Angeles,German,No,NA,NA,NA,NA
+3253,Customer 2253,22,Other,San Francisco,German,Yes,2022-04-04,2022,4,4
+3254,Customer 2254,64,Male,New York,Spanish,No,NA,NA,NA,NA
+3255,Customer 2255,23,Other,Chicago,English,No,NA,NA,NA,NA
+3256,Customer 2256,38,Male,Houston,Spanish,No,NA,NA,NA,NA
+3257,Customer 2257,34,Other,Los Angeles,Spanish,Yes,2023-09-04,2023,9,4
+3258,Customer 2258,43,Other,Chicago,German,Yes,2023-08-22,2023,8,22
+3259,Customer 2259,54,Male,New York,French,No,NA,NA,NA,NA
+3260,Customer 2260,60,Male,Chicago,French,Yes,2023-01-22,2023,1,22
+3261,Customer 2261,48,Male,San Francisco,English,Yes,2023-04-04,2023,4,4
+3262,Customer 2262,65,Female,Los Angeles,French,No,NA,NA,NA,NA
+3263,Customer 2263,29,Male,Chicago,French,No,NA,NA,NA,NA
+3264,Customer 2264,46,Male,San Francisco,French,No,NA,NA,NA,NA
+3265,Customer 2265,60,Other,Los Angeles,Spanish,No,NA,NA,NA,NA
+3266,Customer 2266,41,Other,New York,English,No,NA,NA,NA,NA
+3267,Customer 2267,25,Other,Los Angeles,German,No,NA,NA,NA,NA
+3268,Customer 2268,18,Other,San Francisco,Spanish,Yes,2022-03-02,2022,3,2
+3269,Customer 2269,40,Female,Chicago,Spanish,No,NA,NA,NA,NA
+3270,Customer 2270,52,Male,New York,English,No,NA,NA,NA,NA
+3271,Customer 2271,63,Female,San Francisco,French,Yes,2023-12-10,2023,12,10
+3272,Customer 2272,27,Male,New York,English,Yes,2023-12-20,2023,12,20
+3273,Customer 2273,45,Male,Chicago,English,Yes,2022-10-08,2022,10,8
+3274,Customer 2274,69,Female,Houston,English,Yes,2022-03-21,2022,3,21
+3275,Customer 2275,40,Other,New York,French,Yes,2023-07-17,2023,7,17
+3276,Customer 2276,32,Other,Los Angeles,Spanish,No,NA,NA,NA,NA
+3277,Customer 2277,56,Other,Houston,Spanish,Yes,2022-05-10,2022,5,10
+3278,Customer 2278,46,Male,Houston,German,Yes,2023-06-17,2023,6,17
+3279,Customer 2279,39,Male,Chicago,French,Yes,2023-03-14,2023,3,14
+3280,Customer 2280,33,Other,Los Angeles,English,Yes,2022-04-14,2022,4,14
+3281,Customer 2281,48,Male,Houston,English,Yes,2023-11-25,2023,11,25
+3282,Customer 2282,29,Other,San Francisco,French,Yes,2023-02-02,2023,2,2
+3283,Customer 2283,37,Male,Los Angeles,Spanish,No,NA,NA,NA,NA
+3284,Customer 2284,26,Other,Houston,French,Yes,2023-03-16,2023,3,16
+3285,Customer 2285,45,Other,San Francisco,Spanish,No,NA,NA,NA,NA
+3286,Customer 2286,20,Other,San Francisco,German,Yes,2022-09-30,2022,9,30
+3287,Customer 2287,68,Female,Houston,Spanish,No,NA,NA,NA,NA
+3288,Customer 2288,62,Other,Chicago,French,Yes,2022-03-26,2022,3,26
+3289,Customer 2289,57,Male,Los Angeles,English,Yes,2023-07-05,2023,7,5
+3290,Customer 2290,66,Female,Chicago,Spanish,No,NA,NA,NA,NA
+3291,Customer 2291,21,Other,Chicago,French,Yes,2022-10-26,2022,10,26
+3292,Customer 2292,27,Male,New York,English,No,NA,NA,NA,NA
+3293,Customer 2293,66,Female,San Francisco,English,No,NA,NA,NA,NA
+3294,Customer 2294,27,Other,Chicago,Spanish,No,NA,NA,NA,NA
+3295,Customer 2295,22,Female,Los Angeles,French,Yes,2023-11-21,2023,11,21
+3296,Customer 2296,28,Female,San Francisco,English,No,NA,NA,NA,NA
+3297,Customer 2297,58,Male,San Francisco,English,Yes,2022-02-01,2022,2,1
+3298,Customer 2298,29,Female,Chicago,Spanish,Yes,2022-06-08,2022,6,8
+3299,Customer 2299,22,Male,New York,German,Yes,2022-07-15,2022,7,15
+3300,Customer 2300,41,Female,San Francisco,English,Yes,2022-07-09,2022,7,9
+3301,Customer 2301,21,Male,Houston,German,Yes,2022-07-23,2022,7,23
+3302,Customer 2302,51,Male,Houston,Spanish,No,NA,NA,NA,NA
+3303,Customer 2303,49,Female,San Francisco,English,Yes,2023-02-15,2023,2,15
+3304,Customer 2304,18,Female,New York,Spanish,Yes,2023-09-21,2023,9,21
+3305,Customer 2305,36,Other,Los Angeles,English,Yes,2023-07-06,2023,7,6
+3306,Customer 2306,65,Other,Houston,English,Yes,2022-09-15,2022,9,15
+3307,Customer 2307,28,Male,Los Angeles,German,Yes,2022-08-30,2022,8,30
+3308,Customer 2308,56,Female,Houston,English,Yes,2022-04-21,2022,4,21
+3309,Customer 2309,46,Male,San Francisco,French,No,NA,NA,NA,NA
+3310,Customer 2310,44,Female,New York,Spanish,Yes,2023-03-29,2023,3,29
+3311,Customer 2311,41,Female,Los Angeles,French,No,NA,NA,NA,NA
+3312,Customer 2312,22,Female,Los Angeles,French,No,NA,NA,NA,NA
+3313,Customer 2313,19,Male,Los Angeles,English,No,NA,NA,NA,NA
+3314,Customer 2314,58,Other,Houston,Spanish,No,NA,NA,NA,NA
+3315,Customer 2315,43,Male,New York,German,Yes,2023-11-10,2023,11,10
+3316,Customer 2316,70,Male,Houston,German,No,NA,NA,NA,NA
+3317,Customer 2317,45,Other,Houston,English,Yes,2023-11-17,2023,11,17
+3318,Customer 2318,64,Female,Los Angeles,German,Yes,2023-12-27,2023,12,27
+3319,Customer 2319,23,Female,Chicago,Spanish,No,NA,NA,NA,NA
+3320,Customer 2320,43,Male,Los Angeles,Spanish,No,NA,NA,NA,NA
+3321,Customer 2321,45,Male,Los Angeles,French,Yes,2022-12-10,2022,12,10
+3322,Customer 2322,23,Male,Los Angeles,English,No,NA,NA,NA,NA
+3323,Customer 2323,21,Male,Chicago,German,No,NA,NA,NA,NA
+3324,Customer 2324,39,Male,Chicago,French,No,NA,NA,NA,NA
+3325,Customer 2325,32,Female,New York,German,Yes,2023-06-04,2023,6,4
+3326,Customer 2326,23,Female,Los Angeles,French,No,NA,NA,NA,NA
+3327,Customer 2327,20,Female,Chicago,English,No,NA,NA,NA,NA
+3328,Customer 2328,38,Female,Los Angeles,English,No,NA,NA,NA,NA
+3329,Customer 2329,27,Male,San Francisco,English,No,NA,NA,NA,NA
+3330,Customer 2330,54,Male,Chicago,French,No,NA,NA,NA,NA
+3331,Customer 2331,42,Female,Houston,English,Yes,2022-05-25,2022,5,25
+3332,Customer 2332,55,Other,Los Angeles,English,No,NA,NA,NA,NA
+3333,Customer 2333,45,Other,San Francisco,German,No,NA,NA,NA,NA
+3334,Customer 2334,18,Other,Los Angeles,French,No,NA,NA,NA,NA
+3335,Customer 2335,52,Other,Chicago,English,No,NA,NA,NA,NA
+3336,Customer 2336,57,Male,Los Angeles,German,Yes,2023-12-06,2023,12,6
+3337,Customer 2337,19,Male,Houston,English,Yes,2023-03-09,2023,3,9
+3338,Customer 2338,63,Male,Chicago,English,No,NA,NA,NA,NA
+3339,Customer 2339,36,Female,San Francisco,French,Yes,2022-07-31,2022,7,31
+3340,Customer 2340,43,Male,San Francisco,English,Yes,2022-08-13,2022,8,13
+3341,Customer 2341,50,Male,New York,Spanish,Yes,2023-09-07,2023,9,7
+3342,Customer 2342,40,Female,San Francisco,German,No,NA,NA,NA,NA
+3343,Customer 2343,20,Other,San Francisco,French,Yes,2023-03-08,2023,3,8
+3344,Customer 2344,54,Male,Houston,French,Yes,2022-07-21,2022,7,21
+3345,Customer 2345,41,Male,San Francisco,Spanish,Yes,2023-11-24,2023,11,24
+3346,Customer 2346,49,Female,Chicago,Spanish,No,NA,NA,NA,NA
+3347,Customer 2347,30,Female,Chicago,Spanish,Yes,2022-03-09,2022,3,9
+3348,Customer 2348,26,Female,Los Angeles,French,No,NA,NA,NA,NA
+3349,Customer 2349,34,Male,Chicago,English,No,NA,NA,NA,NA
+3350,Customer 2350,64,Female,Los Angeles,English,No,NA,NA,NA,NA
+3351,Customer 2351,31,Female,New York,German,No,NA,NA,NA,NA
+3352,Customer 2352,66,Female,New York,English,No,NA,NA,NA,NA
+3353,Customer 2353,66,Female,Los Angeles,English,Yes,2022-05-21,2022,5,21
+3354,Customer 2354,48,Male,Houston,Spanish,Yes,2022-04-22,2022,4,22
+3355,Customer 2355,70,Female,Los Angeles,Spanish,Yes,2023-07-17,2023,7,17
+3356,Customer 2356,25,Male,Chicago,German,Yes,2023-07-13,2023,7,13
+3357,Customer 2357,54,Female,Houston,French,Yes,2022-09-25,2022,9,25
+3358,Customer 2358,29,Female,New York,French,Yes,2022-11-27,2022,11,27
+3359,Customer 2359,69,Female,Houston,English,Yes,2022-03-07,2022,3,7
+3360,Customer 2360,37,Female,Chicago,Spanish,No,NA,NA,NA,NA
+3361,Customer 2361,22,Female,New York,English,No,NA,NA,NA,NA
+3362,Customer 2362,67,Female,San Francisco,Spanish,No,NA,NA,NA,NA
+3363,Customer 2363,57,Female,San Francisco,English,Yes,2022-11-09,2022,11,9
+3364,Customer 2364,68,Female,New York,French,No,NA,NA,NA,NA
+3365,Customer 2365,52,Female,San Francisco,French,Yes,2023-12-11,2023,12,11
+3366,Customer 2366,22,Male,Chicago,German,Yes,2023-09-26,2023,9,26
+3367,Customer 2367,25,Male,San Francisco,English,Yes,2022-07-01,2022,7,1
+3368,Customer 2368,61,Other,Chicago,Spanish,No,NA,NA,NA,NA
+3369,Customer 2369,54,Other,Houston,Spanish,No,NA,NA,NA,NA
+3370,Customer 2370,43,Other,New York,German,Yes,2022-04-05,2022,4,5
+3371,Customer 2371,42,Female,New York,German,No,NA,NA,NA,NA
+3372,Customer 2372,64,Other,Chicago,German,Yes,2022-11-14,2022,11,14
+3373,Customer 2373,59,Male,Houston,English,Yes,2023-01-09,2023,1,9
+3374,Customer 2374,39,Other,San Francisco,German,Yes,2023-01-06,2023,1,6
+3375,Customer 2375,48,Male,Los Angeles,German,No,NA,NA,NA,NA
+3376,Customer 2376,69,Female,Los Angeles,German,No,NA,NA,NA,NA
+3377,Customer 2377,26,Male,New York,Spanish,No,NA,NA,NA,NA
+3378,Customer 2378,26,Female,New York,Spanish,No,NA,NA,NA,NA
+3379,Customer 2379,70,Other,Houston,English,Yes,2023-01-08,2023,1,8
+3380,Customer 2380,34,Male,Chicago,English,Yes,2023-05-02,2023,5,2
+3381,Customer 2381,58,Male,New York,English,Yes,2023-11-26,2023,11,26
+3382,Customer 2382,59,Other,Chicago,Spanish,No,NA,NA,NA,NA
+3383,Customer 2383,41,Female,San Francisco,Spanish,Yes,2023-01-27,2023,1,27
+3384,Customer 2384,54,Female,San Francisco,German,Yes,2023-06-04,2023,6,4
+3385,Customer 2385,28,Female,New York,Spanish,Yes,2023-12-01,2023,12,1
+3386,Customer 2386,49,Female,San Francisco,Spanish,No,NA,NA,NA,NA
+3387,Customer 2387,33,Female,Chicago,English,No,NA,NA,NA,NA
+3388,Customer 2388,63,Other,New York,Spanish,Yes,2023-04-28,2023,4,28
+3389,Customer 2389,44,Male,San Francisco,German,Yes,2022-05-07,2022,5,7
+3390,Customer 2390,45,Male,Los Angeles,German,No,NA,NA,NA,NA
+3391,Customer 2391,48,Male,New York,English,No,NA,NA,NA,NA
+3392,Customer 2392,31,Female,Los Angeles,German,Yes,2023-05-21,2023,5,21
+3393,Customer 2393,30,Other,Houston,Spanish,Yes,2022-12-31,2022,12,31
+3394,Customer 2394,64,Female,Chicago,English,Yes,2022-03-22,2022,3,22
+3395,Customer 2395,31,Male,San Francisco,English,No,NA,NA,NA,NA
+3396,Customer 2396,56,Male,Chicago,French,Yes,2023-06-22,2023,6,22
+3397,Customer 2397,48,Female,Houston,English,Yes,2022-12-25,2022,12,25
+3398,Customer 2398,27,Male,Houston,French,Yes,2022-12-26,2022,12,26
+3399,Customer 2399,46,Other,New York,English,No,NA,NA,NA,NA
+3400,Customer 2400,45,Female,New York,English,Yes,2023-08-21,2023,8,21
+3401,Customer 2401,26,Other,Houston,French,No,NA,NA,NA,NA
+3402,Customer 2402,30,Female,Los Angeles,Spanish,No,NA,NA,NA,NA
+3403,Customer 2403,31,Other,Chicago,Spanish,No,NA,NA,NA,NA
+3404,Customer 2404,65,Other,Houston,English,Yes,2023-03-22,2023,3,22
+3405,Customer 2405,22,Female,San Francisco,German,Yes,2022-09-17,2022,9,17
+3406,Customer 2406,43,Female,Los Angeles,German,No,NA,NA,NA,NA
+3407,Customer 2407,30,Other,Chicago,English,No,NA,NA,NA,NA
+3408,Customer 2408,31,Male,Los Angeles,Spanish,No,NA,NA,NA,NA
+3409,Customer 2409,25,Female,Houston,French,No,NA,NA,NA,NA
+3410,Customer 2410,24,Female,Chicago,English,Yes,2023-04-17,2023,4,17
+3411,Customer 2411,52,Male,New York,English,No,NA,NA,NA,NA
+3412,Customer 2412,62,Female,Chicago,English,Yes,2022-12-12,2022,12,12
+3413,Customer 2413,63,Female,New York,Spanish,No,NA,NA,NA,NA
+3414,Customer 2414,30,Other,New York,Spanish,No,NA,NA,NA,NA
+3415,Customer 2415,70,Other,San Francisco,German,Yes,2023-08-07,2023,8,7
+3416,Customer 2416,62,Female,San Francisco,Spanish,Yes,2022-01-07,2022,1,7
+3417,Customer 2417,63,Female,San Francisco,French,Yes,2023-03-26,2023,3,26
+3418,Customer 2418,35,Male,Los Angeles,English,Yes,2023-05-06,2023,5,6
+3419,Customer 2419,37,Female,Chicago,Spanish,No,NA,NA,NA,NA
+3420,Customer 2420,49,Other,New York,Spanish,No,NA,NA,NA,NA
+3421,Customer 2421,69,Other,Houston,English,No,NA,NA,NA,NA
+3422,Customer 2422,60,Female,Los Angeles,English,No,NA,NA,NA,NA
+3423,Customer 2423,25,Male,Los Angeles,English,No,NA,NA,NA,NA
+3424,Customer 2424,64,Other,New York,German,Yes,2023-12-03,2023,12,3
+3425,Customer 2425,25,Other,Houston,German,Yes,2022-11-05,2022,11,5
+3426,Customer 2426,32,Female,San Francisco,German,No,NA,NA,NA,NA
+3427,Customer 2427,50,Male,Chicago,French,Yes,2022-08-05,2022,8,5
+3428,Customer 2428,38,Male,Chicago,French,Yes,2022-03-27,2022,3,27
+3429,Customer 2429,67,Male,Los Angeles,English,No,NA,NA,NA,NA
+3430,Customer 2430,58,Male,Los Angeles,German,Yes,2023-09-16,2023,9,16
+3431,Customer 2431,61,Female,Los Angeles,English,No,NA,NA,NA,NA
+3432,Customer 2432,34,Male,New York,French,Yes,2022-04-14,2022,4,14
+3433,Customer 2433,62,Female,Houston,English,No,NA,NA,NA,NA
+3434,Customer 2434,65,Female,Los Angeles,French,Yes,2022-01-11,2022,1,11
+3435,Customer 2435,50,Female,New York,French,Yes,2023-11-30,2023,11,30
+3436,Customer 2436,70,Male,Chicago,French,Yes,2022-10-19,2022,10,19
+3437,Customer 2437,40,Other,Los Angeles,English,No,NA,NA,NA,NA
+3438,Customer 2438,23,Other,Chicago,English,Yes,2023-07-29,2023,7,29
+3439,Customer 2439,34,Male,Houston,German,Yes,2023-03-12,2023,3,12
+3440,Customer 2440,45,Other,Chicago,French,Yes,2023-06-18,2023,6,18
+3441,Customer 2441,55,Male,New York,German,Yes,2022-12-07,2022,12,7
+3442,Customer 2442,21,Other,Los Angeles,French,Yes,2022-07-23,2022,7,23
+3443,Customer 2443,27,Other,New York,Spanish,Yes,2023-02-13,2023,2,13
+3444,Customer 2444,46,Other,San Francisco,English,No,NA,NA,NA,NA
+3445,Customer 2445,64,Male,Chicago,English,No,NA,NA,NA,NA
+3446,Customer 2446,40,Other,New York,French,No,NA,NA,NA,NA
+3447,Customer 2447,19,Male,Los Angeles,French,Yes,2022-06-24,2022,6,24
+3448,Customer 2448,45,Male,Chicago,English,No,NA,NA,NA,NA
+3449,Customer 2449,24,Female,Chicago,Spanish,Yes,2022-11-02,2022,11,2
+3450,Customer 2450,35,Male,Los Angeles,English,Yes,2023-03-02,2023,3,2
+3451,Customer 2451,58,Female,Los Angeles,German,Yes,2023-02-12,2023,2,12
+3452,Customer 2452,18,Other,Houston,French,No,NA,NA,NA,NA
+3453,Customer 2453,28,Other,Los Angeles,French,Yes,2023-08-28,2023,8,28
+3454,Customer 2454,25,Female,Houston,German,No,NA,NA,NA,NA
+3455,Customer 2455,67,Male,Chicago,French,No,NA,NA,NA,NA
+3456,Customer 2456,31,Other,New York,German,No,NA,NA,NA,NA
+3457,Customer 2457,25,Other,Houston,German,No,NA,NA,NA,NA
+3458,Customer 2458,25,Male,Los Angeles,French,Yes,2022-01-06,2022,1,6
+3459,Customer 2459,24,Female,Los Angeles,Spanish,Yes,2023-01-23,2023,1,23
+3460,Customer 2460,69,Male,Chicago,English,Yes,2023-09-24,2023,9,24
+3461,Customer 2461,67,Other,Los Angeles,German,Yes,2022-09-07,2022,9,7
+3462,Customer 2462,25,Female,Los Angeles,English,Yes,2023-03-12,2023,3,12
+3463,Customer 2463,26,Male,San Francisco,French,No,NA,NA,NA,NA
+3464,Customer 2464,55,Male,San Francisco,German,Yes,2023-10-23,2023,10,23
+3465,Customer 2465,60,Female,Chicago,French,No,NA,NA,NA,NA
+3466,Customer 2466,65,Other,Houston,French,No,NA,NA,NA,NA
+3467,Customer 2467,59,Female,New York,Spanish,Yes,2022-11-03,2022,11,3
+3468,Customer 2468,54,Other,San Francisco,Spanish,Yes,2023-02-28,2023,2,28
+3469,Customer 2469,69,Male,Houston,English,No,NA,NA,NA,NA
+3470,Customer 2470,26,Female,Chicago,German,Yes,2022-07-30,2022,7,30
+3471,Customer 2471,20,Male,New York,English,No,NA,NA,NA,NA
+3472,Customer 2472,51,Female,San Francisco,Spanish,Yes,2023-09-16,2023,9,16
+3473,Customer 2473,52,Female,Los Angeles,French,Yes,2022-08-27,2022,8,27
+3474,Customer 2474,18,Female,San Francisco,French,Yes,2023-12-30,2023,12,30
+3475,Customer 2475,57,Other,Houston,English,No,NA,NA,NA,NA
+3476,Customer 2476,20,Female,Houston,English,No,NA,NA,NA,NA
+3477,Customer 2477,49,Male,Los Angeles,German,No,NA,NA,NA,NA
+3478,Customer 2478,23,Male,San Francisco,German,Yes,2022-04-05,2022,4,5
+3479,Customer 2479,57,Other,Chicago,Spanish,Yes,2022-06-24,2022,6,24
+3480,Customer 2480,32,Other,Chicago,Spanish,No,NA,NA,NA,NA
+3481,Customer 2481,34,Other,Houston,English,Yes,2022-07-05,2022,7,5
+3482,Customer 2482,48,Male,Los Angeles,French,Yes,2022-06-04,2022,6,4
+3483,Customer 2483,37,Female,Houston,English,Yes,2023-09-06,2023,9,6
+3484,Customer 2484,36,Female,Chicago,Spanish,Yes,2023-01-11,2023,1,11
+3485,Customer 2485,35,Female,Chicago,French,No,NA,NA,NA,NA
+3486,Customer 2486,52,Male,New York,Spanish,Yes,2022-12-22,2022,12,22
+3487,Customer 2487,33,Other,Los Angeles,German,No,NA,NA,NA,NA
+3488,Customer 2488,46,Female,San Francisco,French,No,NA,NA,NA,NA
+3489,Customer 2489,28,Male,Los Angeles,French,No,NA,NA,NA,NA
+3490,Customer 2490,22,Other,Los Angeles,Spanish,Yes,2022-04-18,2022,4,18
+3491,Customer 2491,29,Female,San Francisco,Spanish,Yes,2023-12-06,2023,12,6
+3492,Customer 2492,20,Other,Houston,English,Yes,2022-06-09,2022,6,9
+3493,Customer 2493,55,Other,Los Angeles,Spanish,Yes,2022-03-31,2022,3,31
+3494,Customer 2494,53,Male,Chicago,German,Yes,2023-11-05,2023,11,5
+3495,Customer 2495,47,Other,New York,Spanish,No,NA,NA,NA,NA
+3496,Customer 2496,45,Female,Los Angeles,English,No,NA,NA,NA,NA
+3497,Customer 2497,38,Male,Houston,French,Yes,2022-11-09,2022,11,9
+3498,Customer 2498,49,Male,Los Angeles,English,Yes,2023-04-28,2023,4,28
+3499,Customer 2499,27,Other,Chicago,English,No,NA,NA,NA,NA
+3500,Customer 2500,37,Female,Chicago,Spanish,No,NA,NA,NA,NA

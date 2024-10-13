@@ -1,0 +1,101 @@
+Product_ID,Product_Name,Category,Price,Supplier,Discontinued
+2001,Product 1,Toys,305.22,Supplier i,No
+2002,Product 2,Toys,468.55,Supplier j,Yes
+2003,Product 3,Home Goods,230.25,Supplier i,No
+2004,Product 4,Toys,68.85,Supplier d,Yes
+2005,Product 5,Books,102.17,Supplier w,No
+2006,Product 6,Home Goods,493.17,Supplier w,No
+2007,Product 7,Electronics,79.56,Supplier a,No
+2008,Product 8,Clothing,346.95,Supplier r,Yes
+2009,Product 9,Electronics,295.99,Supplier k,Yes
+2010,Product 10,Clothing,293.94,Supplier j,Yes
+2011,Product 11,Home Goods,74.39,Supplier v,No
+2012,Product 12,Home Goods,333.56,Supplier q,No
+2013,Product 13,Toys,168.09,Supplier k,Yes
+2014,Product 14,Toys,273.01,Supplier k,No
+2015,Product 15,Books,489.28,Supplier e,No
+2016,Product 16,Electronics,45.03,Supplier d,No
+2017,Product 17,Electronics,266.87,Supplier d,No
+2018,Product 18,Toys,201.79,Supplier l,Yes
+2019,Product 19,Electronics,381.59,Supplier n,Yes
+2020,Product 20,Clothing,491.15,Supplier p,Yes
+2021,Product 21,Books,402.23,Supplier f,Yes
+2022,Product 22,Clothing,286.04,Supplier n,Yes
+2023,Product 23,Home Goods,38.96,Supplier e,No
+2024,Product 24,Books,97.91,Supplier u,Yes
+2025,Product 25,Books,411.57,Supplier v,No
+2026,Product 26,Clothing,250.44,Supplier i,Yes
+2027,Product 27,Electronics,281.68,Supplier i,No
+2028,Product 28,Clothing,369.07,Supplier i,No
+2029,Product 29,Electronics,206.16,Supplier v,Yes
+2030,Product 30,Home Goods,464.55,Supplier r,No
+2031,Product 31,Books,162.42,Supplier o,Yes
+2032,Product 32,Home Goods,431.21,Supplier i,Yes
+2033,Product 33,Clothing,129.58,Supplier k,No
+2034,Product 34,Home Goods,55.65,Supplier m,Yes
+2035,Product 35,Home Goods,456.86,Supplier d,Yes
+2036,Product 36,Electronics,398.9,Supplier d,Yes
+2037,Product 37,Books,460.97,Supplier p,No
+2038,Product 38,Books,338.73,Supplier z,No
+2039,Product 39,Electronics,119.76,Supplier x,No
+2040,Product 40,Electronics,92.56,Supplier r,Yes
+2041,Product 41,Clothing,236.61,Supplier s,No
+2042,Product 42,Home Goods,152.76,Supplier x,No
+2043,Product 43,Electronics,396.59,Supplier q,Yes
+2044,Product 44,Home Goods,203.45,Supplier o,Yes
+2045,Product 45,Clothing,347.72,Supplier b,Yes
+2046,Product 46,Home Goods,35.27,Supplier c,No
+2047,Product 47,Electronics,435.4,Supplier w,No
+2048,Product 48,Books,436.75,Supplier q,No
+2049,Product 49,Books,218.84,Supplier a,No
+2050,Product 50,Electronics,286.37,Supplier n,Yes
+2051,Product 51,Clothing,275.78,Supplier q,Yes
+2052,Product 52,Electronics,341.69,Supplier f,No
+2053,Product 53,Toys,404.87,Supplier r,Yes
+2054,Product 54,Books,37,Supplier b,Yes
+2055,Product 55,Home Goods,234.37,Supplier x,No
+2056,Product 56,Electronics,93.98,Supplier b,No
+2057,Product 57,Electronics,266.1,Supplier b,No
+2058,Product 58,Clothing,302.21,Supplier l,No
+2059,Product 59,Home Goods,27.89,Supplier h,Yes
+2060,Product 60,Toys,133.09,Supplier a,Yes
+2061,Product 61,Home Goods,434.66,Supplier q,Yes
+2062,Product 62,Electronics,81.76,Supplier o,Yes
+2063,Product 63,Books,48.7,Supplier e,No
+2064,Product 64,Home Goods,388.3,Supplier h,Yes
+2065,Product 65,Toys,151.31,Supplier y,No
+2066,Product 66,Clothing,115.63,Supplier d,No
+2067,Product 67,Clothing,181.05,Supplier j,No
+2068,Product 68,Home Goods,55.9,Supplier l,No
+2069,Product 69,Toys,320.98,Supplier y,Yes
+2070,Product 70,Clothing,33.39,Supplier j,No
+2071,Product 71,Home Goods,108.47,Supplier r,No
+2072,Product 72,Books,329.5,Supplier q,No
+2073,Product 73,Home Goods,217.2,Supplier l,No
+2074,Product 74,Clothing,163.59,Supplier f,Yes
+2075,Product 75,Books,67.15,Supplier y,Yes
+2076,Product 76,Electronics,94.89,Supplier y,No
+2077,Product 77,Books,271.48,Supplier n,Yes
+2078,Product 78,Electronics,62.88,Supplier h,Yes
+2079,Product 79,Toys,397.23,Supplier a,No
+2080,Product 80,Toys,132.34,Supplier g,Yes
+2081,Product 81,Electronics,419.4,Supplier m,No
+2082,Product 82,Toys,97.51,Supplier x,No
+2083,Product 83,Toys,402.27,Supplier g,Yes
+2084,Product 84,Home Goods,494.41,Supplier f,Yes
+2085,Product 85,Books,443.74,Supplier g,Yes
+2086,Product 86,Books,458.96,Supplier v,Yes
+2087,Product 87,Home Goods,42.53,Supplier m,Yes
+2088,Product 88,Home Goods,429.58,Supplier j,No
+2089,Product 89,Home Goods,72.05,Supplier v,No
+2090,Product 90,Books,255.41,Supplier c,Yes
+2091,Product 91,Electronics,198.48,Supplier b,No
+2092,Product 92,Toys,176.69,Supplier j,No
+2093,Product 93,Electronics,134.02,Supplier l,No
+2094,Product 94,Books,320.58,Supplier c,No
+2095,Product 95,Electronics,403.1,Supplier x,No
+2096,Product 96,Toys,493.78,Supplier b,Yes
+2097,Product 97,Electronics,313.47,Supplier n,No
+2098,Product 98,Books,416.1,Supplier x,Yes
+2099,Product 99,Toys,445.17,Supplier q,Yes
+2100,Product 100,Clothing,170.62,Supplier w,Yes
